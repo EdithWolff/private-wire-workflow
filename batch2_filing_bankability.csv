@@ -1,0 +1,6 @@
+row_number,input_name,matched_company_name,company_number,filing_date,filing_description,entity_scope,turnover,ebitda,interest_expense,net_debt,ebitda_margin,interest_cover,net_debt_to_ebitda,verdict,review_reason,document_url,source_format
+2,2 Sisters Food Group,2 SISTERS FOOD GROUP LIMITED,02826929,2025-04-29,accounts-with-accounts-type-full,company,,,,,,,,Needs review,Accounts document is PDF-only or unavailable for dependency-free parsing.,https://document-api.company-information.service.gov.uk/document/k5yoALnemLXjYs34DSKFZwpUCvftiHFiz-xooeKEXyM,pdf
+3,3M Company,3M ECOM COMPANY LTD,16687030,,,,,,,,,,,Needs review,No usable accounts filing with document metadata found.,,
+4,4Life Research,4LIFE RESEARCH UK LIMITED,06445840,2025-10-27,accounts-with-accounts-type-dormant,company,,,,,,,,Needs review,Accounts document is PDF-only or unavailable for dependency-free parsing.,https://document-api.company-information.service.gov.uk/document/vQXbb8zPdVJL0FS1wJuFKuc9TLMVZj-U2w9ujhjjefI,pdf
+5,A.S. Watson Group,1A WATSON GROUPS LTD,16557208,,,,,,,,,,,Needs review,No usable accounts filing with document metadata found.,,
+6,A|X Armani Exchange,ARMANI & SONS LTD,16565218,,,,,,,,,,,Needs review,No usable accounts filing with document metadata found.,,

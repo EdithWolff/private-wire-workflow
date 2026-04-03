@@ -1,0 +1,1541 @@
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+
+Registered number: 02763367 (England and Wales)
+
+STRATEGIC REPORT, REPORT OF THE DIRECTORS AND
+FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 DECEMBER 2021
+FOR
+
+Mundipharma International Limited
+
+|
+|
+
+THURSDAY
+
+*ABIDWTXS*
+A39
+
+22/12/2022 #395 |
+COMPANIES HOUSE }
+
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D86118C39
+
+Mundipharma International Limited
+
+CONTENTS OF THE FINANCIAL STATEMENTS.
+for the Year Ended 31 December 2021
+
+Page
+Company Information 41
+Strategic Report 2
+Report of the Directors 4
+Statement of Directors’ Responsibilities 6
+Independent Auditors’ Report 7
+Statement of Comprehensive Income 1
+Statement of Financial Position 12
+Statement of Changes in Equity 13
+Cash Flow Statement 14
+
+Notes to the Financial Statements 15
+
+
+DocuSign Envelope ID: O0SCS0BA-44AD-4043-BD33-181D8611BC39
+Mundipharma International Limited
+
+COMPANY INFORMATION
+for the Year Ended 31 December 2021
+
+DIRECTORS: S J Jamieson
+BGLea
+
+REGISTERED OFFICE: Cambridge Science Park
+Milton Road
+Cambridge
+CB4 0AB
+
+REGISTERED NUMBER: 02763367 (England and Wales)
+
+Page 1
+
+DocuSign Envelope ID: 00SC50BA-44AD-4043-BD33-18108611BC39
+Mundipharma International Limited
+
+STRATEGIC REPORT
+for the Year Ended 31 December 2021
+
+The directors present their strategic report for the year ended 31 December 2021.
+
+REVIEW OF BUSINESS
+The company's principal activity during the year was the provision of business services to related party
+Clients. The directors expect this activity to continue for the foreseeable future.
+
+The key performance indicators used to assess the performance of the company are turnover,
+operating profit and headcount.
+
+2021 2020 % Change
+£'000 £000
+(Restated)
+Turnover 34,064 26,536 28.4%
+Operating Profit 5,154 3,964 30.0%
+Headcount 120 95 26.3%
+
+The changes in turnover, operating profit and headcount in 2021 have resulted from an increase of
+key services within the business and the subsequent charges for services provided by the company to
+its customers.
+
+Following a review of the administrative expenses incurred in 2020, £1,521,000 of costs were
+incorrectly omitted from onward recharges to related parties for the provision of services.
+The comparatives have been restated, resulting in an increase in turnover and debtors of
+£1,673,000, and an increase in net reserves of £1,673,000.
+
+PRINCIPAL RISKS AND UNCERTAINTIES
+The principal risks and uncertainties facing the company are broadly grouped as market risk and
+liquidity risk.
+
+Page 2
+
+DocuSign Envelope ID: 00SC50BA-44AD-4043-BD33-181D8611BC39
+Mundipharma International Limited
+
+STRATEGIC REPORT
+for the Year Ended 31 December 2021
+
+MARKET RISK
+
+The company operates under company service agreements with its clients. The risk to the company is
+that these agreements may be terminated earlier than expected. This is not anticipated at this time,
+with management monitoring the relationship with their clients on a regular basis and ensuring a high
+level of service is maintained. The clients are generally financially strong, which mitigates any credit or
+liquidity risk to the company.
+
+LIQUIDITY RISK
+The company monitors its net current asset position and relies upon related parties settling their debts
+to ensure it is able to meet its liabilities as they fall due.
+
+COVID-19
+The COVID-19 pandemic has continued to present risks to the business. Refer to the Directors’
+Report under the Going Concern section for the assessment of the impact of the pandemic to the
+business.
+
+RUSSIA/UKRAINE CONFLICT
+
+The company is aware of the current conflict between Russia and Ukraine. The directors have
+concluded the current conflict has not impacted the operational activities of the company materially,
+however they continue to closely monitor the situation.
+
+ON BEHALF OF THE BOARD:
+
+DocuSigned by:
+
+Era. (ne
+
+Page 3
+
+DocuSign Envelope ID: 00SC5S0BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+REPORT OF THE DIRECTORS
+for the Year Ended 31 December 2021
+
+The directors present their Report of the directors for the year ended 31 December 2021.
+
+PRINCIPAL ACTIVITY
+The principal activity of the company in the year under review was that of provision of business
+services to related party clients.
+
+DIVIDENDS
+No dividends will be declared for the year ended 31 December 2021 (2020: £nil).
+
+FUTURE DEVELOPMENTS
+The directors do not anticipate any changes in the principal activity in the foreseeable future.
+
+EVENTS SINCE THE END OF THE YEAR
+There have been no significant events since the end of the year.
+
+DIRECTORS
+The directors shown below have held office during the whole of the period from 1 January 2021 to the
+date of this report.
+
+Mr S J. Jamieson
+Mr B G Lea
+
+CHARITABLE CONTRIBUTIONS
+During the year the company has not made any charitable contributions (2020: £nil).
+
+GOING CONCERN
+
+The company operates under service agreements with various related party entities that are long term
+in nature and result in a mark-up on costs. These entities operate in the healthcare sector, and while
+the ongoing COVID-19 pandemic continues to impact the global economy and healthcare systems,
+the company's customers see continued demand for their product portfolios, which notably contain
+many well-established products treating chronic conditions. The operations of the company as well as
+those of its customers have continued largely as normal, and staff have successfully transitioned to
+virtual working, ensuring the continued running of the business.
+
+Given these service agreements are long term in nature, are with related party entities that have not
+experienced significant financial impact due to the COVID-19 pandemic, and are not expected to
+change, and given the profitable nature of the Company, due to mark-up pricing, and the strength of
+the company balance sheet, the directors believe that there is sufficient cash and future cash flows to
+meet liabilities as they fall due, having prepared forecasts that reflect the latest financial projections
+through to 31 December 2023.
+
+Based on the directors’ consideration of the ongoing contractual terms with customers, and forecasts
+that cover the period to 31 December 2023, the directors have prepared these financial statements on
+a going concern basis.
+
+Page 4
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+Mundipharma International Limited
+
+REPORT OF THE DIRECTORS
+for the Year Ended 31 December 2021
+
+DIRECTORS’ QUALIFYING THIRD PARTY INDEMNITY PROVISIONS
+
+The company has taken out insurance to indemnify the directors of the company against third party
+proceedings, subject to the terms of the policies and the conditions set out in the Companies Act
+2006. These indemnity policies subsisted throughout the year and remain in place at the date of this
+report.
+
+STATEMENT AS TO DISCLOSURE OF INFORMATION TO AUDITOR
+
+So far as the directors are aware, there is no relevant audit information (as defined by Section 418 of
+the Companies Act 2006) of which the company's auditor is unaware of, and each director has taken
+all the steps that he ought to have taken as a director in order to make himself aware of any relevant
+audit information and to establish that the company's auditor is aware of that information.
+
+AUDITOR
+The auditor, Ernst & Young LLP, will be proposed for re-appointment at the forthcoming Annual
+General Meeting.
+
+ON BEHALF OF THE BOARD:
+‘DocuSigned by:
+
+Era
+
+\—to7a7a7encsoesa..--*
+
+B G Lea - Director
+
+er 2022
+
+Page 5
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181086118C39
+Mundipharma International Limited
+
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES
+for the Year Ended 31 December 2021
+
+The directors are responsible for preparing the Strategic Report, the Report of the Directors and the
+financial statements in accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under
+that law the directors have elected to prepare the financial statements in accordance with United
+Kingdom Generally Accepted Accounting Practice (United Kingdom Accounting Standards and
+applicable law), including Financial Reporting Standard 102 ‘The Financia! Reporting Standard
+applicable in the UK and Republic of Ireland’. Under company law the directors must not approve the
+financial statements unless they are satisfied that they give a true and fair view of the state of affairs of
+the company and of the profit or loss of the company for that period. In preparing these financial
+statements, the directors are required to:
+
+- select suitable accounting policies and then apply them consistently;
+
+- make judgements and accounting estimates that are reasonable and prudent;
+
+- State whether applicable accounting standards have been followed, subject to any material
+departures disclosed and explained in the financial statements;
+
+- prepare the financial statements on the going concern basis unless it is inappropriate to presume
+that the company wiil continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and
+explain the company's transactions and disclose with reasonable accuracy at any time the financial
+position of the company and enable them to ensure that the financial statements comply with the
+Companies Act 2006. They are also responsible for safeguarding the assets of the company and
+hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Page 6
+
+DocuSign Envelope 1D: 005C50BA~-44AD-4043-BD33-181D8611BC39
+
+INDEPENDENT AUDITORS' REPORT TO THE SHAREHOLDERS OF
+MUNDIPHARMA INTERNATIONAL LIMITED
+
+Opinion
+
+We have audited the financial statements of Mundipharma International Limited for the year ended 31
+December 2021 which comprise the Statement of comprehensive income, Statement of financial
+position, Statement of changes in equity, Cash flow statement and the related notes 1 to 17, including
+a summary of significant accounting policies. The financial reporting framework that has been applied
+in their preparation is applicable law and United Kingdom Accounting Standards including FRS 102
+“The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United Kingdom
+Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+- give a true and fair view of the company’s affairs as at 31 December 2021 and of its profit for
+the year then ended;
+
+- have been properly prepared in accordance with United Kingdom Generally Accepted
+Accounting Practice; and
+
+- have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the Auditor’s
+responsibilities for the audit of the financial statements section of our report. We are independent of
+the company in accordance with the ethical requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis
+for our opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern
+basis of accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to
+events or conditions that, individually or collectively, may cast significant doubt on the company’s ability
+to continue as a going concern for a period to 31 December 2023.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described
+in the relevant sections of this report. However, because not all future events or conditions can be
+predicted, this statement is not a guarantee as to the company’s ability to continue as a going concern.
+
+Other information
+The other information comprises the information included in the annual report, other than the financial
+
+statements and our auditor’s report thereon. The directors are responsible for the other information
+contained within the annual report.
+
+Page 7
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+
+INDEPENDENT AUDITORS’ REPORT TO THE SHAREHOLDERS OF
+MUNDIPHARMA INTERNATIONAL LIMITED
+
+Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in this report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other
+information is materially inconsistent with the financial.statements or our knowledge obtained in the
+course of the audit or otherwise appears to be materially misstated. If we identify such material
+inconsistencies or apparent material misstatements, we are required to determine whether this gives
+tise to a material misstatement in the financial statements themselves. If, based on the work we have
+performed, we conclude that there is a material misstatement of the other information, we are required
+to report that fact.
+
+We have nothing to report in this regard.
+
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+— the information given in the strategic report and the directors’ report for the financial year for
+which the financial statements are prepared is consistent with the financial statements; and
+
+- the strategic report and directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+Matters on which we are required to report by exception
+
+In the light of the knowledge and understanding of the company and its environment obtained in the
+course of the audit, we have not identified material misstatements in the strategic report or directors’
+report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act
+2006 requires us to report to you if, in our opinion:
+
+- adequate accounting records have not been kept or returns adequate for our audit have not been
+received from branches not visited by us; or
+
+- the financial statements are not in agreement with the accounting records and returns; or
+
+- certain disclosures of directors’ remuneration specified by law are not made; or
+
+— we have not received all the information and explanations we require for our audit.
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement [set out on page 6], the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true
+and fair view, and for such internal control as the directors determine is necessary to enable the
+
+preparation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+Page 8
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+
+INDEPENDENT AUDITORS’ REPORT TO THE SHAREHOLDERS OF
+MUNDIPHARMA INTERNATIONAL LIMITED
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability
+to continue as a going concern, disclosing, as applicable, matters related to going concern and using
+the going concern basis of accounting unless the directors either intend to liquidate the company or to
+cease operations, or have no realistic alternative but to do so.
+
+Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it
+exists. Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on
+the basis of these financial statements.
+
+Explanation as to what extent the audit was considered capable of detecting irregularities,
+including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect irregularities, including fraud. The
+tisk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one
+resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional
+misrepresentations, or through collusion. The extent to which our procedures are capable of detecting
+irregularities, including fraud is detailed below. However, the primary responsibility for the prevention
+and detection of fraud rests with both those charged with governance of the entity and management.
+
+— We obtained an understanding of the legal and regulatory frameworks that are applicable to the
+company and determined that the most significant are the Companies Act 2006, the Financial
+Reporting Standard 102, HM Revenue & Customs regulations and other UK Tax Legislation.
+
+— We understood how Mundipharma International Limited is complying with those frameworks through
+enquiry with management and by identifying the company’s policies and procedures regarding
+compliance with laws and regulations. We also identified those members of management who have
+the primary responsibility for ensuring compliance with laws and regulations, and for the reporting of
+any known instances of non-compliance to those charged with governance.
+
+- We assessed the susceptibility of the company’s financial statements to material misstatement,
+including how fraud might occur by obtaining and reading company policies and holding enquiries of
+management and those charged with governance.
+
+— Based on this understanding we designed our audit procedures to identify noncompliance with such
+laws and regulations. Our procedures involved:
+
+« Enquiry of senior management, and when appropriate, those charged with governance
+regarding their knowledge of any non-compliance or potential non-compliance with laws and
+regulations that could affect the financial statements.
+
+e Auditing the risk of management override of controls, through testing of a sample of journal
+entries and other adjustments for appropriateness;
+
+Page 9
+
+DocuSign Envelope ID: 00SC50BA-44AD-4043-BD33-181D8611BC39
+
+INDEPENDENT AUDITORS' REPORT TO THE SHAREHOLDERS OF
+MUNDIPHARMA INTERNATIONAL LIMITED
+
+e Enquiry of management, coupled with testing of journal entries, in order to identify and
+understand any significant transactions outside of the normal course of business;
+
+e Challenging the judgements made by management through corroborating the basis for those
+judgements and considering contradicting evidence; and
+
+« Reading board minutes for matters that indicated non-compliance
+
+« Reading financial statement disclosures and testing to supporting documentation to assess
+compliance with applicable laws and regulations.
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+Financial Reporting Council's website at https://www.frc.org.uk/auditorsresponsibilities. This description
+forms part of our auditor's report.
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of
+the Companies Act 2006. Our audit work has been undertaken so that we might state to the company's
+members those matters we are required to state to them in an auditor's report and for no other purpose. To
+the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the
+company and the company’s members as a body, for our audit work, for this report, or for the opinions we
+have formed.
+
+Sols UP
+
+Ruth Logan (Senior statutory auditor)
+for and on behalf of Ernst & Young LLP, Statutory Auditor
+Cambridge
+
+21 December 2022
+Date: 0.
+
+Page 10
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+
+Mundipharma International Limited
+
+STATEMENT OF COMPREHENSIVE INCOME
+for the Year Ended 31 December 2021
+
+2021
+
+Notes £'000
+TURNOVER 2 34,064
+Administrative expenses 28,910)
+OPERATING PROFIT 5 5,154
+Interest receivable and similar income 6 85
+Other finance income :
+PROFIT BEFORE TAXATION 5,239
+Tax on profit 7 (1,308)
+PROFIT FOR THE FINANCIAL YEAR 3,931
+OTHER COMPREHENSIVE INCOME
+Actuarial gain on pension assets 482
+Actuarial loss on pension liability (746)
+Income tax relating to components of
+other comprehensive income 50
+OTHER COMPREHENSIVE LOSS
+FOR THE YEAR, NET OF INCOME
+TAX (214)
+TOTAL COMPREHENSIVE INCOME
+FOR THE YEAR 3,717
+* See Note 1
+
+The notes form part of these financial statements
+
+Page 11
+
+2020
+£'000
+
+(Restated*)
+26,536
+
+(22,572)
+3,964
+
+61
+105
+
+4,130
+679)
+3,451
+1,380
+
+(1,744)
+69
+
+
+DocuSign Envelope 1D: 00SC50BA-44A0-4043-8D33-181D8611BC39
+Mundipharma International Limited (Registered number: 02763367)
+
+STATEMENT OF FINANCIAL POSITION
+31 December 2021
+
+2021
+Notes £'000
+FIXED ASSETS.
+Tangible assets 8 -
+Investments 9
+2
+CURRENT ASSETS
+Debtors: Amounts due greater than one
+year £4,810,000 (2020: £4,848,000) 10 23,672
+Cash at bank 9,544
+33,216
+CREDITORS
+Amounts falling due within one year 11 (10,684)
+NET CURRENT ASSETS 22,532
+TOTAL ASSETS LESS CURRENT LIABILITIES 22,534
+CREDITORS
+Amounts falling due after more than 12 (263)
+one year
+NET ASSETS . 22,271
+CAPITAL AND RESERVES
+Called up share capital 13 10
+Retained earnings 13 22,261
+SHAREHOLDERS' FUNDS 22,271
+
+The financial statements were approved by the Board of Directors on
+and were signed on its behalf by:
+
+DocuSigned by:
+(era ua
+1o77e7BAEHDUA..~
+
+B G Lea - Director
+
+* See Note 1
+
+The notes form part of these financial statements
+
+5 Decemt
+
+2020
+£'000
+(Restated*)
+
+ber 2022
+
+Page 12
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+STATEMENT OF CHANGES IN EQUITY
+for the Year Ended 31 December 2021
+
+Called up
+share Retained Total
+capital earnings equity
+£'000 £'000 £'000
+(Restated*) (Restated*)
+Balance at 1 January 2020 10 15,388 15,398
+Changes in equity
+Profit for the year, as previous stated - 1,778 1,778
+Other comprehensive loss - (295) (295)
+Prior year adjustment (note 1) - 1,673 1,673
+Total comprehensive income, as stated - 3,156 3,156
+Balance at 31 December 2020, as restated 10 18,544 18,554
+Changes in equity.
+Profit for the year - 3,931 3,931
+Other comprehensive loss - (214) (214)
+Total comprehensive income : 3,717 3,717
+Balance at 31 December 2021 10 22,261 - 22,261
+* See Note 1
+
+The notes form part of these financial statements
+
+Page 13
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-18108611BC39
+Mundipharma International Limited
+
+STATEMENT OF CASH FLOWS
+for the Year Ended 31 December 2021
+
+2021 2020
+Notes £'000 £'000
+(Restated*)
+Cash flows (used in) / generated from operating activities
+Cash (used in) / generated from operations 16 (1,678) 7,193
+Tax paid (430) (587)
+Net cash (used in) / generated from operating activities (2,108) 6,606
+Cash flows from investing activities
+Interest received 85 61
+Net cash generated from investing activities 85 61
+(Decrease)/increase in cash and cash equivalents (2,023) 6,667
+Cash and cash equivalents at beginning of
+year 17 11,567 4,900
+Cash and cash equivalents at end of year 9,544 11,567
+17
+
+* See Note 1
+
+The notes form part of these financial statements
+
+Page 14
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS
+for the Year Ended 31 December 2021
+
+1.
+
+ACCOUNTING POLICIES
+
+Mundipharma International Limited is a limited liability company incorporated in England. The
+registered office is Cambridge Science Park, Milton Road, Cambridge, CB4 OAB.
+
+Statement of compliance
+
+The company’s financial statements have been prepared in compliance with applicable UK
+accounting standards including FRS102, ‘The Financial Reporting Standard applicable in the
+UK and Republic of Ireland’, and the Companies Act 2006.
+
+Basis of preparation of the financial statements
+
+The company financial statements are prepared in accordance with applicable accounting
+standards and were authorised for issue by the Board of Directors. The financial statements
+have been prepared under the historical cost convention.
+
+The financial statements are presented in pounds sterling which is the functional currency of the
+company and is rounded to the nearest £'000, unless otherwise stated.
+
+Basis of consolidation
+
+The company has applied the exemption from Companies Act 2006 section 405 and FRS 102
+9.9A, regarding the requirement to consolidate subsidiary undertakings, on the basis that a
+subsidiary undertaking may be excluded from consolidation if its' inclusion is not material for the
+purpose of giving a true and fair view.
+
+Prior period restatement
+
+Following a review of the administrative expenses incurred in 2020 costs of £1,521,000 were
+incorrectly omitted for onward recharge to related parties in line with the provisions of services.
+The comparatives have been restated, the adjustment resulted in an increase in turnover, profit
+after tax and debtors of £1,673,000 and an increase in net reserves of £1,673,000. There were
+no adjustments made to tax charge or cash flows generated from operating activities included
+within the statement of cash flows. The adjustment is isolated to the year ended 31 December
+2020 only.
+
+Going Concern
+
+The company operates under service agreements with various related party entities that are
+long term in nature and result in a mark-up on costs. These entities operate in the healthcare
+sector, and while the ongoing COVID-19 pandemic continues to impact the global economy and
+healthcare systems, the company's customers see continued demand for their product
+portfolios, which notably contain many well-established products treating chronic conditions.
+The operations of the company as well as those of its customers have continued largely as
+normal, and staff have successfully transitioned to virtual working, ensuring the continued
+running of the business.
+
+Page 15 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+1. ACCOUNTING POLICIES - continued
+
+Given these service agreements are long term in nature, are with related party entities that have
+not experienced significant financial impact of the COVID-19 pandemic, and are not expected to
+change, and given the profitable nature of the company, due to mark-up pricing, and the
+strength of the company balance sheet, the directors believe that there is sufficient cash and
+future cash flows to meet liabilities as they fall due, having prepared forecasts that reflect the
+latest financial projections through to 31 December 2023.
+
+The company closely monitors the current conflict between Russia and Ukraine closely. The
+directors have concluded the current conflict has not impacted the operational activities
+materially, however they continue to closely monitor the situation.
+
+Based on the directors' consideration of the ongoing contractual terms with customers, and
+forecasts that cover the period to 31 December 2023, the directors have prepared these
+financial statements on a going concern basis.
+
+Judgments and key sources of estimation
+
+The preparation of the financial statements requires management to make judgements,
+estimates and assumptions that affect the amounts reported for assets and liabilities as at the
+balance sheet date and the amounts reported for revenues and expenses during the year.
+However, the nature of estimation means that actual outcomes could differ from those
+estimates. The following judgements (apart from those involving estimates) have had the most
+significant effect on amounts recognised in the financial statements:
+
+Pension costs and other post-retirement benefit
+
+The cost of defined benefit pension plans and other post-employment medical benefits are
+determined using actuarial valuations. The actuarial valuation involves making assumptions
+about discount rates, future salary increases, mortality rates and future pension increases. Due
+to the complexity of the valuation, the underlying assumptions and the long term nature of these
+plans, such estimates are subject to significant uncertainty. In determining the appropriate
+discount rate, management considers the interest rates of corporate bonds in the respective
+currency with at least AA rating, with extrapolated maturities corresponding to the expected
+duration of the defined benefit obligation. The underlying bonds are further reviewed for quality,
+and those having excessive credit spreads are removed from the population bonds on which the
+discount rate is based, on the basis that they do not represent high quality bonds. The mortality
+fate is based on publicly available mortality tables for the specific country. Future salary
+increases and pension increases are based on expected future inflation rates for the respective
+country.
+
+Deferred tax
+
+The company establishes provisions based on reasonable estimates. The amount of such
+provisions is based on various factors, such as experience with previous tax audits and differing
+interpretations of tax regulations by the taxable entity and the responsible tax authority.
+
+Page 16 continued...
+
+DocuSign Envelope IO: 005C50BA-44AD-4043-BD33-18108611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+1. ACCOUNTING POLICIES - continued
+Significant accounting policies
+
+Judgments and key sources of estimation
+
+Management is required to determine the amount of deferred tax assets that can be recognised,
+based upon likely timing and level of future taxable profits together with an assessment of the
+effect of future tax planning strategies.
+
+Revenue recognition
+
+Revenue is recognised to the extent that the company obtains the right to consideration in
+exchange for its performance. Revenue is measured at the fair value of the consideration
+received, excluding discounts, rebates, VAT and other sales taxes of duty.
+
+The following criteria must also be met before revenue is recognised:
+
+- Sale of services: revenues from the sale of services is recognised when the associated
+expenditure is incurred as customers are billed quarterly on a cost plus basis.
+
+- Interest income: Interest is recognised as interest accrued using the effective interest method.
+Interest income is recognised within interest receivable and similar income in the statement of
+comprehensive income.
+
+Tangible fixed assets
+
+Tangible assets are stated at cost less accumulated depreciation and accumulated impairment
+losses: Cost includes the original purchase price, costs directly attributable to bring the asset
+to its working condition for its intended use, dismantling and restoration.
+
+Depreciation is provided on all tangible fixed assets, other than assets under the course of
+construction, at rates calculated to write off the cost, less estimated residual value, of each asset
+evenly over its expected useful life, as follows:
+
+Fixtures and fittings - over5-7 years
+Computer equipment - over 4 years
+
+The carrying values of tangible fixed assets are reviewed for impairment in periods where
+events or changes in circumstances indicate the carrying value may not be recoverable.
+
+Investments in subsidiaries
+Investments in subsidiary undertakings are recognised at cost.
+
+Taxation
+
+Taxation for the year comprises current and deferred tax. Tax is recognised in the Statement of
+Comprehensive Income, except to the extent that it relates to items recognised in other
+comprehensive income or directly in equity.
+
+Current or deferred taxation assets and liabilities are not discounted.
+
+Page 17 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-18108611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+1. ACCOUNTING POLICIES - continued
+
+Taxation - continued
+Current tax is recognised at the amount of tax payable using the tax rates and laws that have
+been enacted or substantively enacted by the balance sheet date.
+
+Deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not
+reversed at the balance sheet date.
+
+Timing differences arise from the inclusion of income and expenses in tax assessments in
+periods different from those in which they are recognised in financial statements. Deferred tax is
+measured using tax rates and laws that have been enacted or substantively enacted by the year
+end and that are expected to apply to the reversal of the timing difference.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that it is
+probable that they will be recovered against the reversal of deferred tax liabilities or other future
+taxable profits.
+
+Foreign currencies
+
+Transactions in foreign currencies are initially recorded in sterling at the spot exchange rate
+ruling at the date of transaction. Monetary assets and liabilities denominated in foreign
+currencies are retranslated into sterling at the rates of exchange ruling at the balance sheet
+date. All resulting differences are reported in the Statement of Comprehensive Income
+
+Pension costs and other post-retirement benefits
+The company is a member of the defined benefit section of the Napp Pharmaceutical Group
+Pension Scheme, which requires contributions to be made to a separately administered fund.
+
+Membership of this section of the scheme was closed to new members on 1 September 2002
+and closed to further benefit accrual by members in June 2015, although a link to final salary
+remains for those members still in employment.
+
+As the scheme is a multi-employer scheme where the risks are shared between entities party to
+the scheme and there is a stated policy of charging the defined benefit cost of the plan as a
+whole to those entities, each company has recognised its proportion of the defined benefit cost
+and relevant net defined benefit liability of the overall plan.
+
+The cost of providing benefits under the defined benefit plan is determined using the projected
+unit credit method, which attributes entitlement to benefits to the current period (to determine
+current service cost) and to the current and prior periods (to determine the present value of
+defined benefit obligations) and is based on actuarial advice. When a settlement or a
+curtailment occur the change in the present value of the scheme liabilities and the fair value of
+the plan assets reflects the gain or loss which is recognised in the income statement during the
+period in which it occurs.
+
+Page 18 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+1. ACCOUNTING POLICIES - continued
+
+Pension costs and other post-retirement benefits (continued)
+
+The net interest element is determined by multiplying the net defined benefit liability by the
+discount rate, at the start of the period taking into account any changes in the net defined
+benefit liability during the period as a result of contribution and benefit payments. The net
+interest is recognised in profit or loss as other finance revenue or cost.
+
+Re-measurements, comprising actuarial gains and losses, the effect of the asset ceiling and the
+return on the net defined benefit liability (excluding amounts included in net interest) are
+recognised immediately in Other Comprehensive Income in the period in which they occur.
+Re-measurements are not reclassified to profit and loss in subsequent periods.
+
+The net defined benefit pension asset or liability in the balance sheet comprises the total for
+each plan of the present value of the defined benefit obligation (using a discount rate based on
+high quality corporate bonds), less the fair value of plan assets out of which the obligations are
+to be settled directly. Fair value is based on market price information and in the case of quoted
+securities is the published bid price. The value of a net pension benefit asset is limited to the
+amount that may be recovered either through reduced contributions or agreed refunds from the
+scheme.
+
+The Napp Pharmaceutical Group Pension Scheme established a defined contribution section of
+the pension scheme as of 1 September 2002. New employees, joining the company from 1
+September 2002, were eligible to join the defined contribution pension section of the pension
+scheme.
+
+The subsidiary entities employees are members of a defined contribution pension scheme.
+Contributions to defined contribution schemes are recognised in the Statement of
+Comprehensive Income in the period in which they become payable.
+
+Debtors and creditors
+
+Debtors and creditors with no stated interest rate and receivable or payable within one year or
+after more than one year are recorded at transaction price. Any losses arising from impairment
+are recognised in the Statement of Comprehensive Income in administrative expenses.
+
+Share capital
+
+Ordinary shares are classified as equity. Incremental costs directly attributable to the
+issue of new ordinary shares or options are shown in equity as a deduction, net of tax,
+from the proceeds.
+
+Cash and cash equivalents
+Cash and cash equivalents include cash in hand, net of bank overdraft.
+
+Related party transactions
+
+The company discloses transactions with related parties which are not wholly owned with the
+same group. It does not disclose transactions with members of the same group that are wholly
+owned.
+
+Page 19 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-18108611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+2. TURNOVER
+Turnover is attributable to the one principal activity of the company.
+
+An analysis of turnover by class of business is given below:
+
+2021 2020
+£000 £'000
+(Restated)
+Services revenue 34,064 26,536
+
+34,064 26,536
+
+An analysis of turnover by geographical market is given below:
+
+2021 2020
+£000 £'000
+(Restated)
+United Kingdom 10,246 8,527
+Europe 3,745 1,450
+Rest of World 20,073 16,559
+34,064 26,536
+
+3. EMPLOYEES AND DIRECTORS
+
+2021 2020
+£'000 £'000
+Wages and salaries 15,025 9,995
+Social security costs 1,970 1,401
+Termination costs 1,428 1,516
+18,423 12,912
+The average number of employees during the year was as follows:
+2021 2020
+Administration 120 95
+
+Page 20 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-18108611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+4. DIRECTORS’ EMOLUMENTS
+
+2021 2020
+£'000 £'000
+Aggregate remuneration in respect of
+Qualifying Services borne by company. 2,029 1,313
+Aggregate amounts receivable under long
+term incentive plans 131 103
+Total 2,160 1,416
+Number of directors accruing benefits under - -
+defined benefit pension schemes
+In respect of highest paid director:
+Aggregate remuneration 2,029 963
+Aggregate amounts receivable under long term 131 103
+
+incentive plans
+In addition to the directors’ remuneration disclosed above, one director receives remuneration
+from other related companies, and consider that the level of their qualifying services to the
+company is negligible compared to their main roles. Given the level of the services required,
+their remuneration for qualifying services is £nil (2020 — £nil).
+
+5. OPERATING PROFIT
+
+The operating profit is stated after charging:
+
+2021 2020
+£'000 £'000
+Foreign exchange differences 9 60
+Termination costs 1,428 1,516
+Auditors Remuneration - Audit services 30 30
+Auditors Remuneration - Tax compliance services 21 28
+Auditors Remuneration — Tax advisory services 33 48
+6. INTEREST RECEIVABLE AND SIMILAR INCOME
+2021 2020
+£'000 £'000
+Deposit account interest - 10
+Interest on related party loans 85 54
+85 61
+
+Page 21 continued...
+
+DocuSign Envelope ID: 00SC50BA-44AD-4043-BD33-181D86118C39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+7. TAXATION
+
+Analysis of the tax charge
+The tax charge on the profit for the year was as follows:
+
+2021 2020
+
+£'000 £'000
+Current tax:
+UK corporation tax 932 524
+Prior year adjustment 338 (5)
+Total current tax 1,270 519
+Deferred tax:
+Origination and reversal of timing differences 64 (40)
+Adjustment in respect of prior periods - 209
+Effect of tax rate changes (26) (9)
+Total deferred tax 38 160
+Tax on profit 1,308 679
+
+UK corporation tax has been charged at 19% (2020: 19%).
+
+Reconciliation of total tax charge included in profit and loss
+The tax assessed for the year is higher than the standard rate of corporation tax in the UK. The
+difference is explained below:
+
+2021 2020
+£'000 £'000
+Profit before tax 5,239 4,130
+Profit multiplied by the standard rate of corporation tax in the
+UK of 19% (2020 — 19%) 995 785
+Effects of:
+Expenses not deductible for tax purposes 1 17
+Adjustments to tax charge in respect of previous periods 338 204
+Prior year adjustment taxable in current year - (318)
+Tax rate changes (26) (9)
+Total tax charge 1,308 679
+
+Page 22 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D86118C39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+7. TAXATION - continued
+
+Tax effects relating to effects of other comprehensive income
+
+2021
+Gross Tax Net
+£'000 £'000 £'000
+Actuarial gain on pension assets 482 (92) 390
+Actuarial loss on pension liability (746) 142 (604)
+(264) 50 214
+2020
+Gross Tax Net
+£'000 £'000 £'000
+Actuarial gain on pension assets 1,380 (262) 1,118
+Actuarial loss on pension liability (1,744) 331 (1,413)
+
+(364) 69 (295)
+
+£'000 £'000
+Current tax:
+In relation to defined benefit pension arrangements (50) (69)
+Total tax charge (recognised in Other Comprehensive
+Income) (50) (69)
+
+Factors that may affect future tax charges
+
+The Finance (No.2) Act 2015 reduced the main rate of UK corporation tax to 19%, effective from
+1 April 2017. A further reduction in the UK corporation tax rate to 17% was expected to come
+into effect from 1 April 2020 (as enacted by Finance Act 2016 on 15 September 2016).
+However, legislation introduced in the Finance Act 2020 (enacted on 22 July 2020) repealed the
+reduction of the corporation tax, thereby maintaining the current rate of 19%.
+
+The UK Budget 2021 announcements on 3 March 2021 included measures to support economic
+recovery as a result of the ongoing COVID-19 pandemic. These included an increase to the
+UK's main corporation tax rate to 25%, which is due to be effective from 1 April 2023. These
+changes were enacted at the balance sheet date and hence have been reflected in the
+measurement of any deferred tax balances.
+
+Page 23 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+7. TAXATION ~ continued
+
+The deferred tax included in the balance sheet is as follows
+
+2021 2020
+£'000 £'000
+Included in debtors 110 148
+The movements in deferred taxation in the current year are as follows
+2021 2020
+£'000 £'000
+As at 1 January 148 306
+Adjustment in respect of previous years - (209)
+Deferred tax credit to income statement (38) 51
+As at 31 December 110 148
+2021 2020
+£'000 £'000
+Accelerated capital allowances 21 18
+Other timing differences 89 130
+110 148
+The company expects deferred tax assets of Enil to reverse in 2021 (2020: £130,000).
+Page 24 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8033-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+8. TANGIBLE ASSETS
+
+Fixtures
+and Computer
+fittings equipment Totals
+£'000 £'000 £'000
+cost
+At 1 January 2021
+and 31 December 2021 139 204 343
+DEPRECIATION
+At 1 January 2021
+and 31 December 2021 139 204 343
+NET BOOK VALUE
+
+At 31 December 2021 - - -
+
+At 31 December 2020 - - -
+
+9. FIXED ASSET INVESTMENTS :
+Shares in
+
+group
+undertakings
+£'000
+cost
+At 1 January 2021
+and 31 December 2021 2
+NET BOOK VALUE
+At 31 December 2021 2
+At 31 December 2020 2
+
+The company’s investments at the balance sheet date in the share capital of companies are the
+following:
+
+Mundipharma International Limited Delaware
+
+Company Registered Office: 2711 Centerville Road, Suite 400, Wilmington, Delaware 19808.
+Country of incorporation: USA
+
+Nature of business: Provision of consultancy services
+
+%
+Class of shares: holding
+Ordinary 100.00
+
+Page 25 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+10.
+
+FIXED ASSET INVESTMENTS - continued
+
+IAF Limited
+
+Company Registered Office: Wickhams Cay, P.O. Box 662, Road Town, Tortola, British Virgin
+Islands VG1110
+
+Country of incorporation: British Virgin Islands
+
+Nature of business: Provision of consultancy services
+
+%
+Class of shares: holding
+Ordinary 100.00
+
+Additions in year:
+
+Mundipharma International (Canada) Inc.
+
+Company Registered Office: 22 Adelaide Street West, Suite 3400, Toronto, Ontario, MSH 4E3,
+Canada
+
+Country of incorporation: Canada
+
+Nature of business: Provision of business services to related party clients
+
+%
+Class of shares: holding
+Ordinary 100.00
+DEBTORS
+2021 2020
+£'000 £'000
+(Restated*)
+Amounts falling due within one year:
+Trade debtors 17,500 7,153
+
+Other debtors 1,362 1,601
+Corporation tax receivable : 34
+
+18,862 8,788
+
+Page 26 continued...
+
+DocuSign Envelope ID: 005C508A-44AD-4043-BD33-181D86118C39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+10. DEBTORS (continued)
+
+2021 2020
+£'000 £'000
+Amounts falling due after more than one year:
+Loans 4,700 4,700
+Deferred tax 110 148
+4,810 4,848
+Aggregate amounts 23,672 13,636
+
+Amounts falling due within one year with entities are unsecured, interest free and cash settlement is
+expected within 30 days of invoice.
+
+11. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+
+2021 2020
+£'000 £'000
+Trade creditors 1,931 1,660
+Corporation tax 757 :
+VAT - 162
+Other creditors 7,996 4,397
+10,684 6,219
+
+Amounts falling due within one year with entities are unsecured, interest free and cash
+settlement is expected within 30 days of invoice.
+
+12. CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN
+
+ONE YEAR
+2021 2020
+£'000 £'000
+Other creditors 263 432
+
+Page 27 continued...
+
+DocuSign Envelope ID: 005C50BA-44A0-4043-B033-181D8611BC39
+
+Mundipharma international Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+13.
+
+14,
+
+CALLED UP SHARE CAPITAL AND RESERVES
+
+Allotted, issued and fully paid:
+
+Number: Class: Nominal 2021 2020
+value: £000 £'000
+10,000 Issued share capital 1 10 10
+
+The company has one class of ordinary shares which carries no right to fixed income.
+
+Retained earnings
+The retained earnings reserve holds the retained earnings of the company, after the deduction
+of any dividends paid in the period.
+
+EMPLOYEE BENEFIT OBLIGATIONS
+
+The company participates in a multi-employer defined benefit pension scheme operated by
+Napp Pharmaceutical Holdings Limited, the Principal Employer and a related party. The
+company also participates in a defined contribution master trust arrangement managed by Legal
+and General. The assets of each arrangement are administered by trustees and are held
+separately from those of the company in independently administered funds.
+
+A Statutory Funding valuation of the defined benefit pension scheme was carried out as at 31
+December 2019 by the Scheme Actuary. This valuation has been updated to 31 December
+2021 using assumptions appropriate under Financial Reporting Standard 102 for the purposes
+of these financial statements. The scheme's assets are stated at their market value on the
+reporting dates.
+
+The Napp Pharmaceutical Group Pension Scheme liability remained at £nil as at 31 December
+2021 (2020: Enil). The overall net position of the pension valuation continues to be a pension
+scheme asset surplus attributable to the group. However, this has not been recognised as the
+group is unable to recover the surplus either through reduced contributions in the future or
+through refunds from the plan.
+
+Page 28 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+
+Mundipharma international Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+14,
+
+EMPLOYEE BENEFIT OBLIGATIONS - continued
+The amounts recognised in the statement of financial position are as follows:
+
+Defined benefit
+
+pension
+2021 2020
+£'000 £'000
+Present value of funded obligations (10,763) (10,015)
+Fair value of plan assets 10,763 10,015
+
+Net liability : :
+
+The amounts recognised in profit or loss are as follows:
+Defined benefit
+pension plans
+
+2021 2020
+£'000 £'000
+Administrative costs 23 27
+Net interest from net defined benefit
+asset/liability (2) (105)
+Total 21 (78)
+Actual return on plan assets 694 1,644
+
+Changes in the present value of the defined benefit obligation are as follows:
+
+Defined benefit
+pension plans
+
+2021 2020
+
+£'000 £'000
+Opening defined benefit obligation 10,015 9,471
+Interest cost 202 251
+Actuarial (gain)/loss (40) 1,875
+Benefits paid (209) (691)
+Effect of experience adjustments 795 (891)
+Closing defined benefit obligation 10,763 10,015
+
+Page 29 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+14. EMPLOYEE BENEFIT OBLIGATIONS - continued
+
+Changes in the fair value of scheme assets are as follows:
+
+Defined benefit
+pension plans
+2021 2020
+£'000 £'000
+Opening fair value of scheme assets 10,015 9,471
+Contributions by employer 263 259.
+Expected return 212 264
+Actuarial gains 482 1,380
+Benefits paid (209) (468)
+Effect of experience adjustments - (891)
+Closing fair value of scheme assets 10,763 10,015
+The amounts recognised in other comprehensive income are as follows:
+Defined benefit
+pension plans
+2021 2020
+£'000 £'000
+Actuarial loss on pension liabilities (746) (1,744)
+Actuarial gain on pension assets 482 1,380
+Net actuarial loss (264) (364)
+
+The major categories of scheme assets as a percentage of total scheme assets are as follows:
+
+Defined benefit
+pension plans
+
+2021 2020
+Equities 31.40% 35.60%
+Debt instruments 64.60% 60.60%
+Real estate 3.70% 3.50%
+Cash and other assets 0.30% 0.30%
+100.00%  100.00%
+
+Page 30 continued...
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+14. EMPLOYEE BENEFIT OBLIGATIONS - continued
+
+Principal actuarial assumptions at the.reporting date (expressed as weighted averages):
+
+2021 2020
+Discount rate 1.90% 1.50%
+Future salary increases 3.90% 3.20%
+Future pension increases 3.20% 2.80%
+Deferred pension revaluation (CP! Max 2.5) 2.50% 2.20%
+Price inflation (RPI) 3.20% 2.90%
+Price inflation (CPI) : 2.90% 2.20%
+Actuarial Assumptions: Implied Life Expectancy (years):
+2021 2020
+- Current pensioners at 65 - male 23.1 23.1
+- Current pensioners at 65 - female 25.4 25.4
+- Future pensioners at 65 - male 24.6 24.5
+- Future pensioners at 65 - female 26.9 26.8
+
+Defined contribution scheme
+
+The total pension cost charged for the year in these financial statements amounted to £nil
+(2020: £nil). The unpaid contributions outstanding at the end of the year end was £nil (2020:
+Eni).
+
+Page 31
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-8D33-181D8611BC39
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+15. | RELATED PARTY DISCLOSURES
+
+The ultimate controlling parties identified by the company are various trusts, which
+are ultimately held for the benefit of the families of the late Mortimer D. Sackler, M.D.
+and Raymond R. Sackler, M.D. There were no transactions with these trusts during
+the year (2020: £nil).
+
+The annual value of transactions and the amounts outstanding at the year end with
+companies related to the ultimate controlling parties in respect of transactions with
+those companies during the year are as follows:
+
+Transaction Outstanding
+
+value amounts
+
+2021 2020 2021 2020
+
+£'000 £'000 £'000 £'000
+
+Service charges receivable 34,064 24,863 10,153 2,160
+Service charges payable (2,887) (2,197) (1,037) (360)
+Sundry charges receivable 5,497 3,155 6,917 4,395
+Sundry charges payable (597) (550) (16) (120)
+Rental expense - (521) - (36)
+Loan - - 4,700 4,700
+Interest 85 51 85 51
+
+Mr S J Jamieson, a director of the company, is also a director of Management
+Revisions Limited, which rendered fees for accountancy services of £735,000 (2020:
+£525,000) to the company of which £120,000 (2020: £nil) was outstanding at 31
+December 2021.
+
+Key management personnel disclosure
+
+Certain senior employees who have authority and responsibility for planning,
+directing and controlling the activities of the company are considered to be key
+management personnel. Total remuneration in respect to these individuals is
+£2,029,000 (2020: £1,313,000).
+
+Page 32
+
+DocuSign Envelope ID: 005C50BA-44AD-4043-BD33-181D861 18039
+Mundipharma International Limited
+
+NOTES TO THE FINANCIAL STATEMENTS - continued
+for the Year Ended 31 December 2021
+
+16. RECONCILIATION OF PROFIT BEFORE TAXATION TO CASH GENERATED FROM
+
+OPERATIONS
+
+2021 2020
+
+£'000 £'000
+Profit before taxation 5,239 4,130
+Difference between pension charge and cash contributions (264) (364)
+Interest receivable (85) (61)
+
+4,890 3,705
+(Increase)/decrease in trade and other debtors (10,108) 1,571
+Increase in trade and other creditors 3,540 1,917
+Cash (used in) / generated from operations (1,678) 7,193
+
+17. CASH AND CASH EQUIVALENTS
+
+The amounts disclosed on the Cash Flow Statement in respect of cash and cash equivalents
+are in respect of these Balance Sheet amounts:
+
+Year ended 31 December 2021
+31/12/21 01/01/21
+
+£'000 £'000
+Cash and cash equivalents 2544 11,567,
+
+Year ended 31 December 2020
+31/12/20 01/01/20
+
+£'000 £'000
+Cash and cash equivalents 11,567 4,900
+
+Page 33

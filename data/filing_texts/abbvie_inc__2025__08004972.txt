@@ -1,0 +1,2370 @@
+AbbVie Ltd
+
+Registration Number: 8004972
+Annual Report and Financial Statements
+for the Year Ended 31 December 2024
+
+SATURDAY
+
+maui
+
+20/09/2025 #269
+COMPANIES HOUSE
+
+Company Information
+
+Directors ST Rents
+AE Butler
+D Ghavami
+SM Hopkinson
+
+Company secretary NF Maher
+
+Registered office AbbVie House
+Vanwall Business Park
+Vanwall Road
+Maidenhead
+Berkshire
+SL6 4UB
+
+Bankers Deutsche Bank AG London
+6 Bishopsgate
+London
+EC2N 4DA
+
+‘Auditors Emst & Young LLP
+Re
+2 Blagrave Street
+Reading
+Berkshire
+RGI1AZ
+
+Contents
+
+Strategic Report
+
+Directors' Report
+
+Statement of Directors' Responsibilities
+Independent Auditor's Report
+
+Profit and Loss Account
+
+Statement of Financial Position
+Statement of Changes in Equity
+
+Notes to the Financial Statements
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+1t06
+To 11
+12
+
+13 to 1S
+
+19 to 42
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+‘Strategic Report
+
+The directors present their Strategic Report for the year ended 31 December 2024.
+Business review
+
+Fair review of the business
+
+The principal activities of AbbVie Ltd (hereafter ‘referred to as “the Company”) continued to be the supply of research based
+pharmaceutical products. The key financial indicators during the year were as follows:
+
+2024 2023
+
+£000 £000 Change %
+Tumover .. 382 543 285 708 34%
+Operating profit 33 595 25 592 31%
+Profit after tax 28 392 18 671 52%
+Net assets 704225. 679694 4%
+
+Tumover of £383 million represents an increase of 34% on prior year. This was driven by strong sales performance in the Immunology
+portfolio and successful launches in Neuroscience and Oncology.
+
+Consideration of key business activity by business unit is given below:
+
+Immunology
+MHRA (UK Medicines and Healthcare Products Regulatory Agency):
+
+© — August 2024: SKYRIZI@V (Risankizumab), an interleukin-23 (IL-23) for the treatment of ulcerative colitis (UC) was approved by
+the UK Medicines and Healthcare Products Regulatory Agency (MHRA) on August 21, 2024.
+
+© November 2024: SKYRIZI®V (Risankizumab), an interleukin-23 (IL-23) for the treatment of Crohn's Disease (CD) was approved by
+the UK Medicines and Healthcare Products Regulatory Agency (MHRA) on November 21, 2024.
+
+NICE (National Institute for Health and Care Excellence) for England:
+
+© August 2024: SKYRIZI@¥ (Risankizumab), an interleukin-23 (IL-23) for the treatment of ulcerative colitis (UC) was recommended
+for NHS reimbursement by NICE on August 22, 2024.
+
+Oncology
+
+NICE (National Institute for Health and Care Excellence) for England:
+
+* . March 2024: Tepkinly®¥ (epcoritamab) recommended as monotherapy for the treatment of adults with relapsed or refractory (R/R)
+‘diffuse large B-cell lymphoma (DLBCL) who have failed two or more lines of therapy.
+
+SMC (Scottish Medicines Consortium):
+© June 2024: Tepkinly®¥ (epcoritamab) approved for use as a monotherapy for the treatment of adults with R/R DLBCL who have
+failed two or more lines of therapy.
+
+November 2024: European approval for Elahere ®¥ (mirvetuximab soravtansine) treating folate receptor-alpha (FRa) platinum-resistant
+ovarian cancer. NICE evaluation ongoing in 2025.
+
+Page 1
+
+AbbVie Ltd
+Annual report and financial statements
+31 December 2024
+
+Strategic Report (continued)
+
+Neuroscience
+NICE (National Institute for Health and Care Excellence) for England:
+
+© May 2024: AQUIPTA® V (atogepant) recommended for the prophylaxis of migraine in adults who have at least four migraine days
+per month.
+
+SMC (Scottish Medicines Consortium):
+
+©’ March 2024: Recommendation for PRODUODOPA® V (foslevodopa-foscarbidopa) for treatment of advanced levodopa-responsive
+Parkinson's disease in Scotland, restricted to patients who don't qualify for deep brain stimulation (DBS).
+
+August 2024: acquisition of Cerevel Therapeutics completed. The purchase includes a pipeline of clinical-stage and pre-clinical assets in
+diseases including schizophrenia, Parkinson’s disease, and mood disorders.
+
+Aesthetics and Eyecare
+
+No new approvals for products or new indications.
+
+Future developments
+
+The Company is a subsidiary of the AbbVie Inc. Group (hereafter referred to as “the Group”), which continues to invest in key therapeutic
+areas including immunology, oncology, virology and neuroscience as it strives to bring innovative new treatments to patients and improve
+‘outcomes.
+
+Competitive risks
+
+The markets for the Company’s products are highly competitive. The Company competes with other research-based pharmaceuticals and
+biotechnology companies that market and sell proprietary pharmaceutical products and biologics. For example, products in AbbVie’s
+immunology portfolio compete across a wide range of classes of medicines against strong competing products aimed at treating a wide
+range of immunological conditions.
+
+Botox® is AbbVie’s largest Aesthetics brand, a botulinum toxin type A product with four licensed indications for aesthetic use in the UK.
+The Company’s second largest aesthetic brand is Juvéderm®, a broad range of dermal fillers. It operates in a highly competitive market that
+has seen some decline in recent years
+
+The search for technological innovations in pharmaceutical products is a significant aspect of competition. The introduction of new
+products by competitors and changes in medical practices and procedures is inherent in the pharmaceutical operating environment.
+
+Price is also a competitive factor. In addition, the substitution of generic and biosimilar pharmaceutical products -for originator
+pharmaceutical products creates competitive pressures on the Company’s products that no longer enjoy patent protection. New products or
+treatments brought to market by the Company’s competitors could cause revenues for the Company’s products to decrease due to price
+reductions and sales volume decreases.
+
+Page 2
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Strategic Report (continued)
+
+Competitive risks (continued)
+
+For 2024; the Company was a member of the Voluritary Scheme for branded medicines Pricing, Access, and Growth (known as VPAG).
+The scheme is a voluntary agreement between the Department of Health and Social Care (DHSC), NHS England and the Association of the
+British Pharmaceutical Industry (ABP). .
+
+The main aims of VPAG are to:
+
+© promote better patient outcomes and a healthier population
+‘* support UK economic growth .
+© contribute to a financially sustainable NHS
+
+During 2024 payments were made for newer products at the headline rate of 15.1% (newer products are defined as when the supplementary
+protection certificate (SPC) is yet to expire or first licensed presentation for the active ingredient is less than 12 years from marketing
+authorisation). Payments for older products were made at a blended rate ranging from 10-35%.
+
+These payment rates are applied to net sales and are in addition to other price and growth controls including tendering and NICE Health
+Technology Assessments (HTAs), which have their own impact on the Company's revenues.
+
+Credit risk
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for that other party by failing to discharge an
+obligation. The Company's policies are aimed at minimising such losses and require that deferred terms are only granted to customers who
+demonstrate an appropriate payment history and satisfy credit worthiness procedures. The Company's credit risk is primarily attributable to
+its trade debtors. The amounts presented in the balance sheet are net of allowances for doubtful debt. At 31- December 2024, <1% of third
+party debtors breached their credit limits on a value basis. .
+
+Liquidity risk
+
+Liquidity risk is the risk that an entity will encounter difficulty in meeting obligations associated with financial liabilities. The Company
+minimises liquidity risk by managing cash generation through its operations and applying cash target collections.
+
+Cash flow risk
+
+Cash flow risk is the risk of exposure to variability in cash flows that is attributable to a particular risk associated with a recognised asset or
+liability. The Company manages this risk, where significant, through use of derivatives, which aré managed at group level.
+
+Financing risk
+
+The Company is financed by share capital and consequently does not have any financing risk.
+
+Financial instrument risk
+
+The Company is part of the AbbVie Inc. Group which manages foreign exchange risk and exposure on behalf of the Company. The Group
+uses forward foreign currency contracts to reduce exposure to the variability of foreign exchange rates by fixing the rate of any material
+payments in a foreign currency.
+
+Page 3
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Strategic Report (continued)
+
+Statement by the directors in performance of their statutory duties in accordance with s172 of the Companies Act 2006
+The directors of AbbVie Ltd consider in good faith that they have acted in a way that would be most likely to promote the success of the
+Company for the benefit of its members as a whole, and in doing so have had regard (amongst other matters) to factors set out in s172(1)
+(a) to (f) of the Companies Act 2006 (hereafter $172) in respect of the decisions taken during the fiscal year.
+
+Matters for regard are:
+
+(a) _ the likely consequences of any decision in the long term,
+
+(b) the interests of the Company's employees,
+
+(c) the need to foster the Company's business relationships with suppliers, customers and others,
+
+(@) the impact of the Company's operations on the community and the environment,
+
+(e) the desirability of the Company maintaining a reputation for high standards of business conduct, and
+
+(Othe need to act fairly between members of the Company.
+
+Board Meetings are held at regular intervals throughout the year. At the beginning of each Board Meeting the directors are reminded of
+
+their duties under $172. When a new director joins the Board, they are briefed on their duties by the Company’s outside legal counsel, this
+professional advice is accessible throughout the year.
+
+The below statement gives an overview as to how the directors have discharged their duties in respect of s172. The statement has been
+prepared to the necessary level of detail in light of the deemed complexities of the business and its relationship with, and governance from
+the wider AbbVie Group.
+
+Business strategy and long term decision making
+
+The Therapeutics and Aesthetics divisions of the Company are run as two discrete business units, with separate leadership teams, and with
+an overarching Entity Leadership Forum.
+
+The cross-functional Leadership Team for each of the two business units is led by a UK General Manager who also sits on the Company
+Board of Directors. For both business units, the UK Leadership Teams are central in deciding critical business decisions on all aspects of
+Company operations and have been delegated day today decision making by the directors, subject to defined limits. The Company has
+several strategic priorities aligned to wider Group priorities. These are actively monitored throughout the year. Operational success is
+‘managed and reported via the annual planning processes and the 10-year long-range plan processes approved at Group level.
+
+The UK Leadership Teams are also responsible for ensuring a robust control environment is in operation to ensure compliance to wider
+Group policies.
+
+Dividend policy is govemed by Group Treasury. Dividend proposals are reviewed and approved by the Company directors.
+
+Employee engageiment and culture
+
+The employee experience at AbbVie and the culture that has been built, is critically important and central to the business strategy.
+Underpinning our organisation are The Ways We Work values which embody our working culture. They area core set of behaviours for all
+employees, which make clear that how we achieve results is equally as important as achieving them. Our employees are measured against
+these behaviours and are rewarded for exceptional demonstration of them.”
+
+‘Annual February All UK Conferences are traditionally held to act as a Company wide teambuilding event acting as an opportunity to align
+employees on Group and local Company strategy. There are separate conferences for the Therapeutics and Aesthetics business units.
+
+Page 4
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Strategic Report (continued)
+
+The General Managers of both business units conduct regular Town Halls to provide a platform to update employees on business
+performance, wider industry or national matters and other relevant topics. Regular culture surveys act as key temperature checks for the
+Company. Employee engagement is sought continually via the Joint Consultative Forum, facilitating a mechanism to resolve employee
+concems.
+
+The Company continues to be placed in the UK Great Place to Work and UK Best Workplaces for Women rankings, the latter award
+recognising organisations that provide the best employee experience for all and fostering development among female employees. In 2024,
+the Company has been recognised as a Great Place to Work for Wellbeing, being ranked 18th within the Super Large category (over 1,000
+employees), ranked 14th as a UK Best Workplace for women and 10th for Wellbeing.
+
+Equality, diversity and inclusion
+
+Embracing equality, diversity and inclusion is fundamental. AbbVie Group is proud to offer an environment that allows our colleagues to
+achieve their full potential. At AbbVie, Equality, Diversity & Inclusion means:
+
+‘© Equality is appreciating differences and treating people with dignity and respect. It is the fair treatment of people regardless of their
+visible or less visible characteristics such as gender, race, physical or mental disability, religion, nationality, sexual orientation or age.
+
+« . Diversity is valuing and sharing an infinite range of ideas, viewpoints and backgrounds to broaden our perspectives. The Company
+seeks to build diverse teams at every level of the organisation.
+
+* Inclusion is actively accepting each person as an important part of our organisation, and encouraging collaboration between
+individuals and teams with different points of view. Inclusion enables a sense of belonging and it is how we create the most value
+from a diverse team.
+
+In the UK, the Company has a number of active Employee Resource Groups (ERGs). These groups are initiated and led by employees, to
+enable people with a particular interest to come together to discuss and inform decision making. Relevant groups include Abbvie Pride,
+‘Women Leaders in AbbVie, the Neurodiversity Circle and Young Minds.
+
+Business relationships
+
+Delivering our strategy requires strong mutually beneficial relationships with suppliers and customers.
+
+‘The Company operates in a manner that promotes fair and positive supplier relationships, Operating through their Purchasing and Supplier
+Management division, it upholds rigorous policies which govern interactions with suppliers, to ensure Enhanced Due Diligence screening
+is performed on key categories of new vendors to ensure integrity and ethical compliance in our supply chain.
+
+We work in partnership with the UK government, the NHS, healthcare professionals, patient organisations and other stakeholders to create
+sustainable healthcare solutions that will improve outcomes for people living with illness not only now, but in years to come. We want to
+have more profound connections with our partners ‘than a simple, transactional client-customer relationship. We want to build an excellent
+reputation as.an ethical, responsible company and to be seen as a trusted partner. This will be good for our culture, our business and our
+patients.
+
+The General Manager of the UK Therapeutics business unit sits on the Board of the Association of the British Pharmaceutical Industry
+(ABPI) helping to form the strategy and direction for the industry.
+
+Page S
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Strategic Report (continued)
+
+The community and environment
+
+AbbVie Group is committed to having a remarkable impact by going beyond medicine. The Company’s UK Grants and Donations
+Committee oversee a process for Healthcare Organisations or Charitable Institutions to apply for funding to support the delivery of their
+work that delivers education or health-based projects, subject to transparently available criteria.
+
+Volunteering at Heart is an AbbVie ERG that serves to stimulate, coordinate and inspire employee volunteering and giving to ‘various
+charitable causes. The ‘Week of Possibilities’ is AbbVie's signature volunteering programme during which over the course of a week,
+employee volunteers work with trusted community partners to complete hands on projects aimed at strengthening local communities.
+
+The Company provides up to 2 days each year to take part in volunteer activities that align with the Company's commitments of building
+strong communities, sustainable healthcare and effective educational programs.
+
+We strive to find safer, smarter, more sustainable ways to run our business. We seek innovative ways to improve the health of patients,
+operate responsibly, be stewards of the environment, and actively engage the communities where we work and live. We recognise the
+environmental risks associated with our operations both locally and globally and put in place programs to address such risks. We focus on
+key areas of environmental stewardship - energy, water, waste, pharmaceuticals in the environment and environmentally responsible
+procurement,
+
+Our reputation and Business Conduct
+‘The Company provides life saving medicines and therapies to patients and so operates in a highly regulated environment.
+
+The Code of Business Conduct, issued by AbbVie Group, sets forth core guidelines and requirements for ethical behaviour. Employees
+read and certify adherence to the Code annually.
+
+In addition to the Code, the Company has policies and procedures that guide employees as they conduct their day-to-day activities. They
+consider industry best practices, including provisions of the International Federation of Pharmaceutical Manufacturers & Associations
+(IFPMA) Code of Pharmaceutical Marketing Practices and the Association of the British Pharmaceutical Industry (ABPI) Code of Practice
+for the Pharmaceutical Industry, as well as other applicable industry codes. We regularly update our policies to incorporate changes to the
+law and industry codes, including rules regarding gifts, meals and education we provide to health care professionals.
+
+‘The Company also complies with legal, industry and relevant institutions’ requirements regarding the interaction of our employees with
+healthcare professionals and organisations. We comply with all rules regarding transparency about our relationships with individuals and
+entities involved in providing health care. As required, we track and report payments and transfers of value provided to health care
+professionals and organisations.
+
+Fairness between Shareholders
+
+We, as directors, are committed to acting equitably and fairly across all shareholders, internal and extemal. Operating as one AbbVie team,
+we care deeply for our patients, their families, our employees, and our communities. We strive to always do the right thing, pursuing the
+highest standards in quality, compliance, safety, and performance. In everything we do, we invest and innovate relentlessly to tackle unmet
+needs, creating new medicines and healthcare approaches for a healthier world.
+
+Approved by the Board and signed on its behalf on 15 September 2025 by:
+‘ocronaty ened ty, stove heptinson
+
+Baie te Sop 0s 1:19.00 Guo 15-Sep-2025
+
+‘SM Hopkinson
+Director
+
+Page 6
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Directors’ Report
+
+The directors present their report and the financial statements for the year ended 31 December 2024.
+Dividend
+The directors do not recommend the payment of dividend (2023: £ nil).
+
+Directors of the company
+
+The directors who held office during the year were as follows:
+AE Butler
+
+TD Manning (resigned 31 July 2024)
+
+D Ghavami
+
+ST Reents
+
+SM Hopkinson (appointed 1 August 2024)
+
+Research and development
+
+Research and innovation are the comerstones of the Group's business as a global biopharmaceutical company. The Group's long-term
+success depends to a great extent on its ability to continue to discover and develop innovative pharmaceutical products and acquire or
+collaborate on compounds currently in development by other biopharmaceutical companies.
+
+Directors’ liabilities
+
+‘The Company has made qualifying third party indemnity provisions for the benefit of its directors throughout the period which remain in
+force at the date of this report.
+
+Going concern
+
+The Company's business activities, together with the factors likely to affect its future development, its financial position, financial risk
+management objectives, details of its financial instruments and derivative activities, and its exposure to price, credit and liquidity and cash
+flow risk are described in the Strategic Report on pages | to 6. The Company has considerable financial resources and long-term contracts
+with many customers. Asa consequence, the directors believe that the Company is well placed to manage its business successfully despite
+the current uncertain economic outlook.
+
+As the Company is part of the AbbVie Inc. group cash pool, the directors have received written confirmation from AbbVie Inc. (the
+"Group") that they will make funds available to the Company if required to enable it to meet its liabilities as they fall due for a period of 12
+months from the approval of the financial statements.
+
+In assessing whether the going concer basis is appropriate the Directors have considered all information available about the future for a
+period of 12 months from the approval of the financial statements (the "going concem period"). The Directors have considered the financial
+position of the Group through to the end of the going concem period. After considering the financial and operational ability of the Group to
+continue as a going concern the Directors expect the Company will have access to adequate resources to continue in operational existence
+for the foreseeable future and for a period of 12 months from the approval of the financial statements.
+
+Page 7
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Directors' Report (continued)
+
+Employment of disabled persons
+
+Application for employment by disabled persons is always fully considered, bearing in mind the aptitudes of the applicant concerned. In the
+event of a member of staff becoming disabled, every effort is made to ensure that their employment with the Company continues and that
+appropriate training is arranged. Company policy and practice ensures that there is no discrimination against disabled-people regarding
+training, career development and promotion opportunities.
+
+Employee involvement
+
+The Company places considerable value on the involvement of its employees and keeps them informed on matters affecting them as an
+employee and the numerous factors affecting the performance of the Company. This is achieved by formal and informal meetings and
+company communications. Employee representatives are consulted regularly on a wide range of matters affecting their current and future
+interests. Employees participate directly in the success of the business through incentive schemes and can invest in the Company through
+participation in the share purchase and RSU schemes.
+
+Events after the financial period
+
+After the balance sheet date, there were-no events that would have a material financial effect on the statutory accounts.
+
+Disclosure of information to the auditors
+
+So far, as each person who was a director at the date of approving this report is aware, there is no relevant audit information needed by the
+auditor in connection with preparing this report. Having made enquiries from fellow directors, each director. has taken all the steps that
+he/she is obliged to take as a director, to make himself/herself aware of any relevant audit information and to establish that the auditor is
+aware of it.
+
+Reappointment of auditors
+
+Under section 487(2) of the Companies Act 2006, Emst & Young LLP are deemed to be reappointed as auditors of the Company.
+
+Page 8
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Directors' Report (continued)
+
+Streamlined Energy and Carbon Disclosure (SECR)
+
+Company Information
+
+AbbVie Ltd is a private company incorporated in the UK. The registered address is AbbVie House Vanwall Business Park, Vanwall Road,
+Maidenhead, Berkshire, England, SL6 4UB.
+
+Reporting Period
+
+1 January to 31 December 2024.
+
+Energy Usage and Emissions across the reporting period
+
+The UK energy usage and associated emissions for AbbVie Ltd across the reporting period for electricity, gas and transport is illustrated in
+the below table: .
+
+2024 disclosure
+Total (excluding
+market based
+Electricity Electricity emissions from
+(location based) (market based) Gas Transport electricity)
+Energy consumed - in kWh 1309 392 1299 917 735 252 2.310 742 4355 386
+Emissions - in CO,, kg 271 110 7408 134.478 642 430 1048 018
+Emissions - in CO,, tonnes an 7 134 642 1047
+Total emissions per FTE - in
+CO,, (tonnes) per employee - - - - 0,93
+2023 disclosure
+Total (excluding
+market based
+Electricity Electricity emissions from
+(location based) —_ (market based) Gas Transport electricity)
+Energy consumed - in kWh 1292 583 1292 583 604 290 3.057 575 4954 448
+Emissions - in CO, kg 267 661 8 255 110542 814 183, 1192 386
+Emissions - in CO}, tonnes 268 . 8 M1 814 1193
+Total emissions per FTE - in .
+CO,, (tonnes) per employee - - - - 1,13
+Methodology Used
+
+All calculations have been performed using actual data across the reporting period. Data for electricity and gas usage has come from utility
+invoices (In terms of the gas for the Marlow site, this has been calculated based on the 65.08% of floor space leased vs total consumption.
+Transport energy usage relates to travel done in both company-owned and employee-owned vehicles (for which company travel was
+performed). All conversion factors used are derived from figures published by the Department for Business, Energy & Industrial Strategy
+(BEIS) relating to energy usage in 2024: https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2024
+
+The conversion factor for electricity (location based) is calculated using the location-based grid-average figures; electricity (market based)
+is based on a 100% REGO (Renewable Energy Guarantees ‘of Origin) backed renewable energy tariff at our offices (Maidenhead and
+Marlow) and part-renewable sources at the Sittingbourne office. The associated market-based electricity emissions afe therefore zero at
+head offices (Maidenhead and Marlow) and 7.41 CO2e tonnes at the Sittingbourne office. The electric vehicle electricity consumed is
+calculated as location-based due to the different charge points used and the source of electricity.
+
+Page 9
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Directors' Report (continued)
+
+‘The conversion factor for associated emissions of natural gas consumption is the NCV (Net Calorific Value) figure, as provided by the
+document published by BEIS. For travel, where available, fuel consumption data has been used to calculate energy consumed and
+associated emissions. Where-specific fuels are listed in the data, associated conversion factors for the specific fuels have been used. It has
+been assumed that the fuel related to an average size unknown vehicle type. Where fuel consumption data was not available, energy usage
+and associated emissions have been calculated using mileage data for average sized cars and ‘unknown’ fuel type. An operational control
+approach has been used when calculating energy consumed.
+
+Energy Efficiency Action
+
+AbbVie UK and Global remain dedicated to reducing energy consumption across all business areas.
+Below is a summary of the energy efficiencies achieved in 2024;
+
+(1) Fleet Initiatives
+
+The company’s fleet is one of the biggest contributors of CO2. There is an imperative to continue transitioning our fleet vehicles over
+to EV’s (¢lectric vehicles). To assist in this transition, the Company has increased its subsidising for home chargers for all fleet
+employees. In addition to this we continue to push the green fleet initiative. The aim of this initiative is to make electric vehicle
+affordable for all our drivers. The fleet split for 2024 was as follows- 50% BEV, 1% Diesel, 2% Petrol, 47% hybrid vehicles — this is a
+total of 97% electric mix (5% improvement vs 2023).
+
+As a result of this improvement and other initiatives, fleet emissions (as measured in average CO2 g/KM) fell by almost 30% between
+January and December 2024.
+
+(2) Marlow site initiatives
+
+Continue to reduce plant run times depending on weather conditions.
+Free cooling of the building when conditions are suitable.
+
+ESOS* Audit conducted.
+
+ESOS Audit plan created post ESOS Audit — to be actioned throughout 2025.
+
+@G) Maidenhead site initiatives
+
+Replaced powerhouse tube lighting with low energy LED lighting.
+Replaced fire exit stairways with low energy LED lighting ESOS Audit action plan created post ESOS Audit
+ESOS Audit conducted.
+
+ESOS Audit plan created post ESOS Audit - to be actioned throughout 2025.
+
+(4) Induction - Environmental awareness.
+
+Employee engagement is crucial in driving energy savings across the business. During 2023 energy savings & environmental
+information formed a big part of new joiner induction, with emphasis on what employees could do to help reduce their impact in
+addition to AbbVie’s responsibilities. Part of this was an invitation to join the Go.Green group whose aim is to support the business
+on sustainability initiatives.
+
+(5) “Global Campaigns
+
+The environment and sustainability continue to be a business priority for Abbvie as a whole. Throughout 2024 several green initiative
+and programmes were cascaded down to each Affiliate, giving employees the opportunity to play their part, and serving to raise
+awareness of AbbVie’s impact and what employees can do to help reduce CO2, both in the workplace and at home. AbbVie global
+have also committed to SBTI (science-based targets initiative). :
+
+Page 10
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Directors' Report (continuéd)
+
+©
+
+Driver training
+
+Erratic driving can lead to higher CO2 emissions. During 2024 all fleet drivers were invited to take part in Behind the Wheel driver
+training, with the purpose of improving driver safety and reducing emissions (Eco driving courses), giving drivers a better
+understanding of how their driving is impacting the environment and what can be done to help reduce their environmental impact.
+
+Green Group initiatives
+
+Increasing energy efficiencies remains a priority at AbbVie. The Company has an Employee Resource Group, Go Green, to give a
+wider group of people the opportunity to engage and be involved in efforts to achieve further progress towards successfully achieving
+AbbVie environmental sustainability targets. There are 3 workstreams.
+
+Workstream | - Fleet footprint (Green Fleet). The use of greener charging stations, introducing salary sacrifice for all employees.
+Workstream 2 - Office footprint - Review kitchen practices and equipment to reduce energy consumption.
+Workstream 3 - Conferences & Comms .
+
+Marlow plans 2025
+
++ Removing all ICE vehicles** from the fleet policy.
+* Replace ceiling insulation in area of the building that do not have insulation.
+
+[aiden 25,
+
+Removing all ICE vehicles from the fleet policy.
+
+Allow free cooling via the HVAC system.
+
+Replacement of all the monitors throughout the Maidenhead site (600 units).
+
+Replacement of Billy taps dishwashers and fridges throughout Maidenhead office. Old units will be replaced with more energy
+efficient units.
+
+* BMS installation - to reduce power usage to reduce energy consumption (heating and cooling), whilst allowing us to automate
+vacant building efficiencies and improve dead band inefficiencies.
+
+*ESOS - Energy Savings Opportunity Scheme
+**]CE - Internal combustion engines
+
+Approved by the Board and signed on its behalf on 15 September 2025 by:
+
+ane REveeR Taga... 15-Sep-2025
+‘SM Hopkinson
+Directar
+
+Page II
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Statement of Directors’ Responsibilities
+
+The directors are responsible for preparing the Directors’ Report, the Strategic Report and the Financial Statements in accordance with
+applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors have elected to
+prepare the financial statements in accordance with applicable law and United Kingdom Accounting Standards (United Kingdom
+Generally Accepted Accounting Practice), including Financial Reporting Standard 102 ‘The Financial Reporting Standard applicable in
+the UK and Republic of Ireland’. Under company law the directors must not approve the financial statements unless they are satisfied that
+they give a true and fair view of the state of affairs of the Company and the profit or loss of the Company for that period. In preparing
+these financial statements, the directors are required to:
+
+‘* select suitable accounting policies and apply them consistently;
+
++ make judgements and accounting estimates that are reasonable and prudent;
+
+state whether applicable UK Accounting Standards have been followed, subject to any material departures disclosed and explained in
+the financial statements; and
+
+‘. prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company will continue in
+business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Company's transactions
+
+and disclose with reasonable accuracy at any time the financial position of the Company and enable them to ensure that the financial
+
+statements comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the Company and hence for
+
+taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+Page 12
+
+Independent Auditor's Report to the Members of AbbVie Ltd
+
+Opinion
+
+We have audited the financial statements of AbbVie Ltd for the year ended 31 December 2024, which comprise Profit and Loss Account,
+the Statement of Financial Position, the Statement of Changes in Equity and the related notes 1 to 22, including a summary of significant
+accounting policies. The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom
+Accounting Standards including FRS 102 “The Financial Reporting Standard applicable in the UK and Republic of Ireland” (United
+Kingdom Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+‘give a true and fair view of the company’s affairs as at 31 December 2024 and of its profit for the year then ended;
+have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+
+‘* have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities
+under those standards are further described in the Auditor’s resporisibilities for the audit of the financial statements section of our report.
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the financial statements in
+the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical responsibilities in accordance with these
+requirements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our-opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of accounting in the preparation of
+the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually
+or collectively, may cast significant doubt on the company’s ability to continue as a going concer for a period of 12 months from when the
+financial statements are authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant sections of this
+report. However, because not all future events or conditions can be predicted, this statement is not a guarantee as to the company’s ability
+to continue as a going concern.
+
+Other information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor’s report
+thereon. The directors are responsible for the other information contained within the annual report.
+
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in this
+report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with
+the financial statements or our knowledge obtained in the course of the audit or otherwise appears to be materially misstated. If we identify
+such material inconsistencies or apparent material misstatements, we are required to determine whether this gives rise to a material
+misstatement. in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material
+misstatement of the other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Page 13
+
+Independent Auditor's Report to the Members of AbbVie Ltd (continued)
+
+Opinions on other matters prescribed by the Companies Act 2006
+
+In our opinion, based on the work undertaken in the course of the audit:
+
+© the information given in the strategic report and the directors’ report for the financial year for which the financial statements are
+prepared is consistent with the financial statements; and
+
+«the strategic report and directors’ report have been prepared in accordance with applicable legal requirements.
+
+Matters on which we are required to report by exception
+
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the audit, we have not
+identified material misstatements in the strategic report or directors’ report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in
+
+our opinion:
+
+© ‘adequate accounting records have not been kept or returns adequate for our audit have not been received from branches not visited by
+‘us, OF
+
+the financial statements are not in agreement with the accounting records and returns; or
+certain disclosures of directors’ remuneration specified by law are not made; or
+we have not received all the information and explanations we require for our audit.
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement set out on page 12, the directors are responsible for the preparation of
+the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the directors determine is
+necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as a going concern,
+disclosing, as applicable, matters related to going concern and using the going concem basis of accounting unless the directors either intend
+to liquidate the company or to cease operations, or have no realistic altemative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement,
+whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance,
+but is not a guarantee that an audit conducted in accordance with ISAs‘(UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+Irregularities, including fraud, are instances of non-compliance with laws’ and regulations. We design procedures in line with our
+responsibilities, outlined above, to detect irregularities, including fraud. The risk of not detecting a material misstatement due to fraud is
+higher than the risk of not detecting one resulting from error, as fraud may involve deliberate concealment by, for example, forgery or
+intentional misrepresentations, or through collusion. The extent to which our procedures are-capable of detecting irregularities, including
+fraud is detailed below. However, the primary responsibility for the prevention and detection of fraud rests with both those charged with
+governance of the entity and management.
+
+Page 14
+
+Independent Auditor's Report to the Members of AbbVie Ltd (continued)
+
+We obtained an understanding of the legal and regulatory frameworks that are applicable to the company and determined that the most
+significant are the Companies Act 2006 and United Kingdom Generally Accepted Accounting Practice.
+
+We understood how AbbVie Ltd is complying with those frameworks by making enquiries of senior finance personnel and those
+charged with governance and gaining an understanding of entity level controls of the company in respect of these areas and the controls
+in place to reduce opportunity for fraudulent transactions.
+
+We assessed the susceptibility. of the company’s financial statements to material misstatement, including how fraud might occur by
+considering the risk of management override and through assessing revenue as a fraud risk, specifically with regard to manipulating
+rebates to influence revenue results, our procedures to address this risk involved:
+
+- Understanding the revenue recognition and rebate processes and policies and how they are applied, including relevant controls.
+
+Testing rebate accruals on a sample basis, confirming the calculation to rebate agreements and revenue data and also confirming
+rebates to subsequent settlement post year end.
+Using data analytics to analyse rebate postings and corroborating any unusual movements to supporting documentation.
+
+Focussing on manual journal entries posted to revenue, gaining an understanding of the transactions and agreeing to source
+
+documentation, ensuring appropriate authorisation of the transactions.
+
+Challenging the judgements made by management regarding rebates through corroborating the basis for those judgements and
+
+considering contradicting evidence.
+
+Regarding the presumed risk of management override of controls, we used data analytics to sample from the entire population of
+
+journal entries, identifying specific transactions which did not meet our expectations based on specific risk criteria, which we
+
+investigated further to gain an understanding of the transaction and agree to source documentation ensuring appropriate
+
+authorisation of the transaction. We also reviewed accounting estimates for evidence of bias and evaluated the business rationale for
+
+any significant transactions that are outside the normal course of business.
+
+* Based on this understanding we designed our audit procedures to identify noncompliance with such laws and regulations. Our
+procedures had a focus on compliance with the reporting framework set out above through our walkthrough testing and the relevant tax
+legislation including tax computations and retums,
+
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council's website
+at https://www frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our
+audit work has been undertaken so that we might state to the company’s members those matters we are required to state to them in an
+auditor's report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other
+than the company and the company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+
+Signed by:
+
+trust & Uoung UP
+
+-E42E31080 10346.
+
+Sam Newall (Senior Statutory Auditor)
+For and on behalf of Emst & Young LLP, Statutory Auditor
+Southampton .
+
+Date: 15 September 2025
+
+Page 15
+
+Profit and Loss Account for the Year Ended 31 December 2024
+
+. Note
+Tumover 2
+Cost of sales
+Gross profit
+Distribution costs
+‘Administrative expenses
+Operating profit 3
+Interest receivable and similar income 6
+Interest payable and similar charges 7
+Profit before tax
+Taxation 8
+Profit for the financial year
+Other Comprehensive Income
+Currency translation differences on foreign currency net investment
+Remeasurement of the net defined benefit asset 7
+
+Deferred tax arising on gains in the pension scheme
+Unrealised gain on cash flow hedges
+Deferred tax arising on derivatives
+
+Total comprehensive income for the year
+
+All amounts relate to continuing operations.
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+
+2024 2023
+£000 £000
+382 543 285 708
+(203 832) (115 361)
+178 711 170 347
+(12 980) (10 476)
+(132 136) (134 279)
+33 595 25592
+3972 4700
+
+(5 760) (6079)
+31807 24213
+G45) (5 542)
+28 392 18671
+ns
+2 (13)
+
+(1 400) (27 700)
+350 6925
+
+3077 (2567)
+(770) 642
+
+29651 (4042)
+
+The notes on pages 19 to 42 form an integral part of these financial statements.
+
+Page 16
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+(Registration number: 8004972)
+Statement of Financial Position as at 31 December 2024
+2024 2023
+Note € 000 £000
+Fixed assets
+Investments 9 594 433, 594 433
+Intangible assets 10 1060 1201
+Tangible assets ist 3 606 5.824
+599 099 601 458
+Current assets
+Stocks 12 95 480 103 864
+Debtors 13 145 101 95.002
+Cash at bank and in hand 180 1151
+240 761 200017
+Creditors: Amounts falling due within one year 14 (189 830) (173 902)
+Net current assets 50931 26 115
+Total assets less current liabilities 650031 627573
+Creditors: Amounts falling due after more than one year 14 (6811) (6972)
+Deferred tax liability 16 (14 723) (18 435)
+Pension asset 7 75 728 77528
+Net assets 704 225 679 694
+Capital and reserves
+Called up share capital 19 214 616 214616
+Share premium 425 655 425 655
+Capital contribution (17512) (12.392)
+Cash flow hedge reserve 1926 (1151)
+Merger reserve (147 879) (147 879)
+Profit and loss account 227.419 200 845
+Shareholders’ funds 704 225 679 694
+——_
+
+Approved and authorised by the Board and signed on its behalf on 15 September 2025 by:
+
+sth Etocroncaly sled by: stove hopkinson
+Bie tesoptaasteteweures 15-Sep-2025
+SM Hopkinson
+Director
+
+The notes on pages 19 to 42 form an integral part of these financial statements.
+
+Page 17
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+Statement of Changes in Equity for the Year Ended 31 December 2024
+Called-up Share Capital Profitand Cash flow Merger
+share capital premium contribution loss account hedge reserve reserve Total equity
+£000 £000 £000 £000 £000 £000 £000
+At | January 2024 214616 425 655 (12 392) 200 845, (1151) (147879) 679 694
+Profit for the year - - - 28 392 - - 28 392
+Other comprehensive income : : : (1818) 3077 : 1259
+Total comprehensive income - - - 26574 3077 - 29 651
+FRS 102 deemed .
+capital contribution - - 11357 : - - 11357
+Parent undertaking charge .
+for share based payments - - . (16477) - - - (16 477)
+Business transfer : - : - : - :
+At31 December 2024 214616 425 655 (17512) 227.419 1926 (147879) 704 225
+wee
+Called-up Share Capital Profitand = Cash flow Merger
+share capital premium contribution loss account hedge reserve reserve Total equity
+£000 £000 £000 £000 £000 £000 £000
+At I January 2023 214616 425 655 (5813) 202 320 1415 (147879) 690 314
+Profit for the year - - - 18.671 - - 18 671
+Other comprehensive income : : = 20146) (2.566) (22712)
+Total comprehensive income - - - (1475) (2 566) - (4041)
+Contribution of shares : : - - - - -
+FRS 102 deemed
+capital contribution - - 10513 - - - 10513
+Parent undertaking charge
+for share based payments - - (17092) - - - (17092)
+Business transfer - - - - - - -
+At31 December 2023 214616 425 655 (12.392) 200 845 (L151) ___ (147879) 679 694
+a
+
+The notes on pages 19 to 42 form an integral part of these financial statements.
+Page 18
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+1 Accounting policies
+Summary of key accounting policies
+
+AbbVie Ltd (the "Company") is a private company limited by shares and incorporated and domiciled in England (no. 8004972). The
+address of the registered office is AbbVie House, Vanwall Business Park, Vanwall Road, Maidenhead, Berkshire, SL6 4UB, UK.
+
+The Company is exempt by virtues of the Companies Act 2006 from the requirement to prepare group financial statements. These financial
+statements present information about the Company as an individual undertaking and not about its group.
+
+These financial statements were prepared in accordance with Financial Reporting Standard 102, The Financial Reporting Standard
+applicable in the UK and Republic of Ireland ("FRS 102"). The presentation currency of these financial statements is sterling. All amounts
+in the financial statements have been rounded to the nearest £1,000.
+
+The Company's ultimate parent undertaking, AbbVie Inc. includes the Company in its consolidated financial statements. The consolidated
+financial statements of 31 December 2024 are prepared in accordance with US Generally Accepted Accounting Practice and are available
+to the public and may be obtained from abbvie.com. In these financial statements, the Company is considered to be a qualifying entity (for
+the purposes of this FRS) and has applied the exemptions available under FRS 102 in respect of the following disclosures:
+
+© Cash Flow Statement and related notes; and
+
+Key Management Personnel compensation.
+
+As the consolidated financial statements of ultimate parent undertaking include the equivalent disclosures, the Company has also taken the
+exemptions under FRS 102 available in respect of the following disclosures:
+
+© Certain disclosures required by FRS 102.26 Share Based Payments; and,
+
+© The disclosures required by FRS 102.11 Basic Financial Instruments and FRS 102.12 Other Financial Instrument Issues in respect
+of financial instruments not falling within the fair value accounting rules of Paragraph 36(4) of Schedule 1.
+
+The Company is exempt from disclosing related party transactions as all of them are with other companies that are wholly owned within the
+same group.
+
+The Company proposed to continue to adopt the reduced disclosure framework of FRS 102 in its next financial statements. The accounting
+policies set out below have, unless otherwise stated, been applied consistently to all periods presented in these financial statements.
+
+Measurement convention
+
+The financial statements are prepared on the historical cost basis.
+
+Page 19
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+
+Going concern
+
+The Company's business activities, together with the factors likely to affect its future development, its financial position, financial risk
+management objectives, details of its financial instruments and derivative activities, and its exposure to price, credit and liquidity and cash
+flow risk are described in the Strategic Report on pages 1 to 6. The Company has considerable financial resources and long-term contracts
+with many customers. Asa consequence, the directors believe that the Company is well placed to manage its business successfully despite
+the current uncertain economic outlook.
+
+As the Company is part of the AbbVie Inc. group cash pool, the directors have received written confirmation from AbbVie Inc. (the
+"Group") that they will make funds available to the Company if required to enable it to meet its liabilities as they fall due for a period of 12
+months from the approval of the financial statements.
+
+In assessing whether the going concem basis is appropriate the Directors have considered all information available about the future for a
+period of 12 months from the approval of the financial statements (the "going concem period”). The Directors have considered the financial
+position of the Group through to the end of the going concern period. After considering the financial and operational ability of the Group to
+continue as a going concer the Directors expect the Company will have access to adequate resources to continue in operational existence
+for the foreseeable future and for a period of 12 months from the approval of the financial statements.
+
+Foreign currency transactions and balances
+
+Transactions in foreign currencies are translated to the Company's functional currency at the foreign exchange rate ruling at the date of the
+transaction. Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are retranslated to the functional
+currency at the foreign exchange rate ruling at that date. Non-monetary assets and liabilities that are measured in terms of historical cost in
+a foreign currency are translated using the exchange rate at the date of the transaction. Foreign exchange differences arising on translation
+are recognised in the profit and loss account.
+
+The differences arising from the translation of net interests in overseas branches are dealt with through reserves as are differences between
+profits translated at average and closing rates.
+
+Fixed asset investments
+Fixed asset investments are stated at historical cost less provision for any diminution in value.
+
+Cash and cash equivalents
+Cash and cash equivalents comprise cash balances.
+
+Short-term debtors and creditors
+
+Debtors and creditors with no stated interest rate and receivable or payable within one year are recorded at transaction price. Any losses
+afising from impairment are recognised in the income statement in other operating expenses.
+
+Page 20
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+.1 Accounting policies (continued)
+Other financial instruments
+Financial instruments not considered to be Basic financial instruments (Other financial instruments)
+
+Other financial instruments not meeting the definition of Basic Financial Instruments are recognised initially at fair value. Subsequent to
+initial recognition other financial instruments are measured at fair value with changes recognised in profit or loss except as follows:
+
+- investments in equity instruments that are not publicly traded and whose fair value cannot otherwise be measured reliably shall be
+measured at cost less impairment; and
+
+~ hedging instruments in a designated hedging relationship shall be recognised as set out below.
+
+Derivative financial instruments and hedging
+Derivative financial instruments are recognised at fair value. The gain or loss on remeasurement to fair value is recognised immediately in
+
+profit or loss. However, where derivatives qualify for hedge accounting, recognition of any resultant gain or loss depends on the nature of
+item being hedged (see below).
+
+Fair value hedges
+Where a derivative financial instrument is designated as hedge of variability in fair value of a recognised asset or liability or an
+unrecognised firm commitment, all changes in the fair value of derivative are recognised immediately in profit and loss. The carrying value
+of the hedged item is adjusted by the change in fair value that is attributable to the risk being hedged (even if it is normally carried at cost
+or amortised cost) and any gains or losses on re-measurement are recognised’ immediately in the income statement (even if those gains
+would normally be recognised directly in reserves).
+
+If hedge accounting is discontinued and the hedged financial asset or liability has not been derecognised, any adjustments to the carrying
+amount of the hedged item are amortised into profit or loss using the effective interest method over the remaining life of the hedged item.
+
+Cash flow hedges
+
+Where a derivative financial instrument is designated as a hedge of the variability in cash flow of a recognised asset or liability, or a highly
+probable forecast transaction, the effective part of any gain or loss on the derivative financial instrument is recognised directly in other
+comprehensive income ("OCI"). Any ineffective portion of the hedge is recognised immediately in profit or loss.
+
+For cash flow hedges, where the forecast transactions resulted in the recognition of a non-financial asset or non-financial liability, the
+hedging gain or loss recognised in OCI is included in the initial cost or other carrying amount of the asset or liability. Altematively when
+the hedged item is recognised in profit or loss the hedging gain or loss is reclassified to profit or loss.
+
+When a hedging instrument expires or is sold, terminated or exercised, or the entity discontinues designation of the hedge relationship but
+the hedged forecast transaction is still expected to occur, the cumulative gain or loss at that point remains in equity and is recognised in
+accordance with the above policy when the transaction occurs. If the hedged transaction is no longer expected to take place, the cumulative ”
+unrealised gain or loss recognised in equity is recognised in the income statement immediately.
+
+Page 21
+
+AbbVie Lid
+Anmual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+Tangible assets
+Tangible fixed assets are stated at cost less accumulated depreciation and accumulated impairment losses.
+
+The Company assesses at each reporting date whether tangible fixed assets are impaired.
+Depreciation
+Depreciation methods and useful lives are reviewed if there is an indication of a significant change since last annual reporting
+
+date in the pattern by which the Company expects to consume an asset's future economic benefits.
+
+Depreciation is charged to the profit and loss account on a straight-line basis over the estimated useful lives of each part of an item of
+tangible fixed assets, The estimated useful lives are as follows:
+
+Asset class Depreciation method and rate
+Leasehold improvements . 10 - 20 years
+
+Plant and equipment 4-10 years
+
+Intangible assets
+
+Goodwill
+
+Goodwill is stated at cost less any accumulated amortisation and accumulated impairment losses.
+
+Amortisation
+
+‘Amortisation is charged to the profit or loss on a straight-line basis over the estimated useful lives of intangible assets. Intangible assets are
+. amortised from the date they are available for use. Goodwill has no residual value.
+
+The Company reviews the amortisation period and method when events and circumstances indicate that the useful life may have changed
+since the last reporting date.
+
+Goodwill is tested for impairment in accordance with Section 27 "Impairment of Assets" when there is an indication that goodwill may be
+impaired :
+
+Asset class Amortisation method and rate
+Goodwill Amortised over a period of 20 years
+Stocks
+
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is based on the first-in
+first-out principle and includes expenditure incurred in acquiring the stocks.
+
+Page 22
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+Impairment excluding stocks and deferred tax assets
+Financial assets (including trade and other debtors)
+
+A financial asset not carried at fair value through profit or loss is assessed at each reporting date to determine whether there is objective
+evidence that it is impaired. A financial asset is impaired if objective evidence indicates that a loss event has occurred after the initial
+recognition of the asset, and that the loss event had a negative effect on the estimated future cash flows of that asset that can be estimated
+reliably.
+
+An impairment loss in respect of a financial asset measured at amortised cost is calculated as the difference between its carrying amount
+and the present value of the estimated future cash flows discounted at the asset's original effective interest rate.
+
+For financial instruments measured at cost less impairment the impairment is calculated as the difference between its carrying amount and
+the best estimate of the amount that the Company would receive for the asset if it were to be sold at the reporting date. Impairment losses
+are recognised in profit or loss. When a subsequent event causes the amount of impairment loss to decrease, the decrease in impairment
+loss is reversed through profit or loss.
+
+Non-financial assets
+
+The carrying amounts of the Company's non-financial asseis, other than stocks and deferred tax assets are reviewed at each reporting date
+to determine whether there is any indication of impairment. If any such indication exists, then the asset's recoverable amount is estimated.
+The recoverable amount of an asset is the greater of its value in use and its fair value less costs to sell.
+
+An impairment loss is recognised if the carrying amount of an asset exceeds its estimated recoverable amount. Impairment losses are
+recognised in profit or loss.
+
+An impairment loss is reversed if and only if the reasons for the impairment have ceased to apply.
+
+Impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no
+longer exists. An impairment loss is reversed only to the extent that the asset's carrying amount does not exceed the carrying amount that
+would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+
+Defined contribution pension obligation
+
+The Company operates a defined contribution pension scheme. A defined contribution plan is a post-employment benefit plan under which
+the Company pays fixed contributions into a separate entity and will have no legal or constructive obligation to pay further amounts.
+Obligations for contributions to defined contribution ‘pension plans are recognised as an expense in the profit and loss account in the
+periods during which services are rendered by employees.
+
+Page 23
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+
+Defined benefit pension obligation
+
+The Company operates two defined benefit pension schenies under which contributions by employees and the Company are held in
+separately administered trustee companies. A defined benefit plan is defined as a post-employment benefit plan other than a defined,
+contribution plan. The Company's net obligation in respect of defined benefit plans is calculated by estimating the amount of future benefit
+that employees have earned in retum for their service in the current and prior periods; that benefit is discounted to determine its present
+value. The fair value of any plan assets is deducted. The Company determines the net interest expense / (income) on the net defined benefit
+(iability) / asset for the period by applying the discount rate as determined at the beginning of the annual period to the net defined benefit
+(liability) / asset taking account of changes arising as a result of contributions and benefit payments.
+
+The discount rate is the rate equivalent to the current rate of.return on high quality corporate bonds of equivalent currency and having
+matiirity dates approximating to the terms of the Company's obligations. A valuation is performed by a qualified actuary using the projected
+unit credit method at three year intervals and is updated at each balance sheet date. The Company recognises net defined benefit plan assets
+to the extent that it is able to recover the surplus either through reduced contributions in the future or through refunds from the plan. The
+defined benefit asset or liability, net of related deferred tax, is presented separately after other net assets on the face of the statement of
+financial position.
+
+Changes in the net defined benefit asset arising from employee service rendered during the period, net interest on net defined benefit asset,
+and the cost of plan introductions, benefit changes, curtailments and settlements during the period are recognised in profit or loss.
+
+Remeasurement of the net defined benefit asset is recognised in other comprehensive income in the period in which it occurs.
+
+Share based payments
+The cost of equity-settled transactions with employees is measured by reference to the fair value at the date on which the relevant
+employees become fully entitled to the award. Fair value is determined by an extemal valuer using an appropriate pricing model. In valuing
+equity-settled transactions, no account is taken of any vesting conditions, other than conditions linked to the price of the shares of the
+Company (market conditions): No expense is recognised for awards that do not ultimately vest, except for awards where vesting is
+conditional upon a market condition, which are treated as vesting irrespective of whether or not the market condition is satisfied, provided
+that all other performance conditions are satisfied. At each balance sheet date before vesting, the cumulative expense is calculated,
+representing the extent to which the vesting period has expired and management's best estimate of the achievement or otherwise of non-
+market conditions and of the number of equity instruments that will ultimately vest or in the case of an instrument subject to market
+condition, be treated as vesting as described above. The movement in cumulative expense since the previous balance sheet date is
+recognised in the income statement, with a corresponding entry in equity. Where the terms of an equity-settled award are modified or a new
+award is designated as replacing a cancelled or settled award, the cost based on the original award terms continues to be recognised over
+the original vesting period.
+
+In addition, all expense is recognised over the remainder of the new vesting period for the incremental fair value of any modification, based
+‘on the difference between the fair value of the original award and the fair value of the modified award, both as measured on the date of
+modification. No reduction is recognised if this difference is negative. Where an équity-settled award is cancelled, it is treated as if it had
+vested on the date cancellation, and any cost not yet recognised in the profit and loss account for the award is recognised immediately. Any
+compensation paid up to the fair value of the award at the cancellation or settlement date is deducted from equity, with any excess over fair
+value expensed in the profit and loss account. The financial effort of awards by the parent company of options over its equity shares to the
+employees of subsidiary undertakings are recognised by the parent company in its individual financial statements, in particular the parent
+company records an increase in its investment in subsidiaries with credit to equity equivalent to the FRS 102 cost to the subsidiary
+undertaking
+
+Page 24
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+Provisions
+
+A provision is recognised when the Company has a legal or constructive obligation as a result of a past event and it is probable that an
+outflow of economic benefits will be required to settle the obligation.
+
+Provisions for the expected costs of maintenance under guarantees are charged against profits when products have been invoiced. The
+effect of the time value of money is not material and therefore the provisions are not discounted.
+
+Revenue recognition
+
+Tumover represents the invoiced value of goods supplied, excluding VAT, after making allowance for discounts and returns
+Turnover is recognised on the date that goods are delivered to the customer.
+
+Leases
+
+Operating leases
+
+Payments (excluding costs for services and insurance) made under operating leases are recognised in the profit and loss account on a
+straight-line basis over the term of the lease. Lease incentives received are recognised in profit and loss over the term of the lease as an
+integral part of the total lease expense.
+
+Interest receivable and Interest payable
+
+Interest income and interest payable are recognised in profit or loss as they accrue, using the effective interest method. Interest receivable is
+due to the Company from cash deposits with affiliated companies or third party banks. Interest payable is due from the Company from cash
+deposits with affiliated companies. Interest receivable and interest payable are calculated on a daily basis and accrued monthly.
+
+Tax
+Tax on the profit or loss for the year comprises current and deferred tax. Tax is recognised in the profit and loss account except to the
+
+extent that it relates to items recognised directly in other comprehensive income, in which case it is recognised directly in other
+comprehensive income.
+
+Current tax is the expected tax payable or receivable on the taxable income or loss for the year, using tax rates enacted or substantively
+enacted at the balance sheet date, and any adjustment to tax payable in respect of previous years.
+
+Deferred tax is provided on timing differences which arise from the inclusion of income and expenses in tax assessments in periods
+different from those in which they are recognised in the financial statements. Deferred tax is not recognised on permanent differences
+arising because certain types of income or expense are non-taxable or are disallowable for tax or because certain tax charges or allowances
+are greater or smaller than the corresponding income or expense.
+
+Deferred tax is measured at the tax rate that is expected to apply to the reversal of the related difference, using tax rates enacted or
+substantively enacted at the balance sheet date. Deferred tax balances are not discounted.
+
+Unrelieved tax losses and other deferred tax assets are recognised only to the extent that is probable that they will be recovered against the
+reversal of deferred tax liabilities or other future taxable profits.
+
+Research.and development
+
+For accounting purposes, research expenses are defined as expenses incurred as a result of experimental, theoretical or other work aimed at
+the discovery of new knowledge, or the advancement of existing knowledge. Development expenditure is defined as the application of such
+work and substantially improving products. For the Company, research and development expenditure comprise the costs of local clinical
+studies. Such expenditure is written off to the profit and loss account in the year incurred.
+
+Page.25
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+1 Accounting policies (continued)
+Key sources of estimation uncertainty”
+
+Pension assumptions
+
+The Company has an obligation to pay pension benefits to the employees. The Directors have provided certain assumptions to be used for
+the purposes of the pension disclosures report prepared by the external provider. These include both the, financial and demographic
+assumptions. The cost of benefits and the present value of the obligation depend on a number of factors, including life expectancy, salary
+increases, asset valuations and the discount rate. Management estimates these factors in determining the net pension obligation in the
+statement of financial position. It is requirement of the standard that any assumptions that are affected by economic conditions shall be
+based on market expectations, at the balance sheet date, for the period over which the obligations are settled. The directors believe that the
+assumptions adopted are reasonable as reflect historical experience and current trends. See note 17 for the disclosures relating to the
+defined benefit pension scheme.
+
+Impairment of debtors
+The Company makes an estimate of the recoverable value of trade and other debtors. When assessing impairment of trade debtors,
+‘management considers factors including the current credit rating of the debtor, the ageing profile of debtors and historical experience. See
+note 13 for the net carrying amount of the debtors and associated impairment provision.
+
+Operating lease commitments
+The Company has entered into commercial property leases and as a lessee it obtains use of tangible assets. The classification of such leases
+as operating or finance lease required the Company to determine, based on an evaluation of the terms and conditions of the arrangements,
+whether it retains or acquired the significant risks and rewards of ownership of these-assets and accordingly whether the lease requires an
+asset and liability to be recognized in the statement of financial position. See note 20 for the disclosure relating to the operating lease
+
+commitments.
+
+2 = Turnover
+‘An analysis of turnover by geographical location is given below:
+
+2024 2023
+
+£000 £000
+
+Sale of goods - United Kingdom 382 543 285 708
+————
+
+Page 26
+
+AbbVie Lid
+
+Annual report and financial statements
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+3 Operating profit
+«Included in profit are the following:
+
+Amortisation of goodwill (see note 10)
+Depreciation of owned assets (see note 11)
+Research and development expense as incurred
+Foreign exchange differences
+
+Operating lease rentals - land and buildings
+Operating lease rentals - plant and machinery
+Loss on disposal of fixed assets
+
+Auditor's remuneration:
+
+Audit of these financial statements
+Audit related assurance services
+Taxation and advisory services
+
+4 — Staff costs
+
+31 December 2024
+2024 2023
+£000 £000
+141 141
+3.009 3114
+1839 803
+797 1122
+6 200 6 873
+3292 3018
+56 u
+2024 2023
+£000 £000
+164 158
+33 32
+
+12 12
+209 202
+
+The average number of persons employed by the Company (including directors) during the year, analysed by category was as follows:
+
+Administration and support
+Sales, marketing and distribution
+
+The aggregate payroll costs (including directors’ remuneration) were as follows:
+
+Wages and salaries
+Social security costs
+Expenses related to pension schemes
+
+Page 27
+
+2024
+No.
+575
+577
+
+1152
+
+2024
+£000
+123 870
+19271
+14.024
+157 165
+
+2023
+No.
+636
+486
+
+1122
+
+2023
+£000
+117 852
+18 334
+12 966
+149 152
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+Directors’ remuneration
+The aggregate payroll costs (including directors’ remuneration) were as follows:
+
+2024 2023
+£000 £000
+Directors’ remuneration : 1791 2279
+Contributions paid to a pension scheme in respect of directors’ qualifying serviees 41 64
+Directors’ amount under long term incentive schemes in respect of qualifying services 333 354
+
+2165 2697
+
+The aggregate of remuneration of the highest paid director is £1,052,694 (2023: £1,334,095) .
+‘The accrued pension at the erid of the year of the highest paid director is £ nil (2023: £ nil) .
+During current year, one director (prior year: one) did not receive any emoluments from the Company. This director's services to the
+
+Company do not occupy a significant amount of their time and are considered incidental. This director is remunerated by a different
+company within the Group.
+
+2024 2023
+
+£000 £000
+Retirement benefits are accruing to the following number of directors under defined benefit schemes 2 1
+6 Other interest receivable and similar income
+
+2024 2023
+
+£000 £000
+Net interest income on net defined benefit plan assets (note 17) 3400 4700
+Interest receivable from group undertakings 127 -
+Other interest receivable 445 =
+
+3972 4700
+7 Interest payable and similar expenses
+
+2024 2023
+
+£000 £000
+Interest payable to group undertakings 5697 6009
+Other interest payable 63 10
+
+5 760 6.079
+
+Page 28
+
+AbbVie Lid
+
+Annual report and financial statements
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+8 ~=Taxation
+
+Total tax expense recognised in the profit and loss account and other comprehensive income
+
+Current taxation
+Current tax on income for the year
+
+Adjustments in respect of prior periods
+Entity margin adjustment
+
+Deferred taxation
+Origination and reversal of timing differences
+‘Adjustments in respect of prior periods
+
+Deferred tax on pension scheme
+Deferred tax arising on derivatives
+Total deferred taxation
+Tax expense
+£000
+Current
+tax
+Recognised in profit and loss 7546
+Recognised in other
+comprehensive income :
+Total tax 7546
+
+2024
+£000
+Deferred
+tax
+
+(4131)
+
+419
+(3 712)
+
+£000
+Total tax
+3415
+
+419
+
+3 834
+————
+
+£000
+‘Current
+tax
+3.047
+
+3047
+
+31 December 2024
+2024 2023
+£000 £000
+7792 3.602
+(246) (855)
+7546 3.047
+(850) 3.055
+3281) (60)
+350) (6925)
+769 (642)
+712) (5072)
+3834 2.025)
+
+2023
+
+£000
+Deferred £000
+tax Total tax
+2.495 5542
+(7567) (7567)
+
+(5 072) (2.025)
+
+Page 29
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+8 Taxation (continued)
+Analysis of total tax recognised in profit and loss
+
+2024 2023
+£000 £000
+UK Corporation Tax 3415 5542
+
+The current tax on profit before tax for the year is lower than the standard rate of corporation tax in the UK (2023 - lower than the
+standard rate of corporation tax in the UK) of 25% (2023 - 23.52%) .
+
+The differences are reconciled below:
+
+2024 2023
+
+£000 £000
+Profit » 28392 18 671
+Income tax expense 3415 5 542
+Profit . 31 807 24 213
+Corporation tax at standard rate 7952 5 695
+Adjustments to tax charge in respect of previous periods 3 527) (i115)
+Effect of expense not deductible in determining taxable profit 925 781
+Difference between current and deferred tax rates - 181
+Share based payments (1.935) .
+Total tax charge 3415 5 542
+
+OECD Pillar Two model rules
+
+The OECD Pillar Two model rules generally apply to multinational enterprises with consolidated revenue of €750 million or more. Subject
+to certain transitional safe harbors, large multinational enterprises within the scope of the rules are required to calculate their GloBE
+effective tax rate for each jurisdiction where they operate and will be subject to a top-up tax for the difference between their GloBE
+effective tax rate for each jurisdiction and the 15% minimum rate. If the GIoBE effective tax rate in a jurisdiction is 15% or more, no
+GIoBE top-up tax will be payable with respect to that jurisdiction.
+
+Pillar Two legislation was enacted in 2023 in the United Kingdom and came into effect as of | January 2024.
+
+The AbbVie Group conducted an assessment of the AbbVie Group’s potential exposure to Pillar Two income taxes in the United Kingdom.
+The results of the analysis are reflected in the Financial Statement for the year 2024.
+
+The company has applied the temporary exception by the FRC from the accounting requirements for deferred taxes under FRED 83.
+
+Accordingly, the company neither recognises nor discloses information about deferred tax assets and liabilities related to Pillar Two
+income taxes.
+
+Page 30
+
+AbbVie Lid
+
+Annual report and financial statements
+
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+9 Investments in subsidiaries, joint ventures and associates
+Shares in group undertakings and participating ‘interests.
+
+Cost or valuation
+At 1 January 2024
+At31 December 2024
+Carrying amount
+At31 December 2024
+At31 December 2023
+
+Details of undertakings
+
+£000
+
+594 433
+594 433
+
+594 433
+
+594 433
+
+Details of the investments in which the Company holds 20% or more of the nominal value of any class of share capital are as follows:
+
+‘ ‘ Nature of
+Undertaking Registered office business
+AbbVie Australasia Holdings © AbbVie House Holding
+Limited ~ Vanwall Business Park
+
+Vanwall Road
+Maidenhead
+Berkshire
+SL6 4UB
+
+UK
+
+Allergan Limited Marlow Intemational Pharmaceuticals
+Parkway
+Marlow
+SL71YL
+Buckinghamshire
+UK
+
+Allergan Holdings Limited Marlow Intemational Holding
+Parkway
+Marlow
+SL7 1YL
+Buckinghamshire
+UK
+
+Page 31
+
+Proportion of voting rights
+
+and shares held
+
+2024 2023
+100% 100%
+100% 100%
+100% 100%
+
+AbbVie Lid
+
+Annual report and financial statements
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+9 Investments in subsidiaries, joint ventures and associates (continued)
+Details of undertakings (continued)
+
+Undertaking
+
+AbbVie Pty Limited
+(held indirectly)
+
+Allergan Australia
+Pty Limited
+(held indirectly)
+
+10 Intangible assets
+
+Cost or valuation
+‘Atl January 2024
+At31 December 2024
+Amortisation
+
+At | January 2024
+Amortisation charge
+At31 December 2024
+Carrying amount.
+At31 December 2024
+At31 December 2023
+
+Registered office
+
+241 O'Riordan Street
+Mascot NSW 2020
+Australia
+
+Level 20/177 Pacific Hwy
+North Sydney NSW 2060
+Australia
+
+Nature of
+business
+
+Pharmaceuticals
+
+Pharmaceuticals
+
+Page 32
+
+31 December 2024
+Proportion of voting rights
+and shares held
+2024 2023
+100% 100%
+100% 100%
+Goodwill
+£000
+2.823
+2823
+1622
+141
+1763
+
+1201
+
+AbbVie Lid
+
+Annual report and financial statements
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+11 Tangible assets
+
+Cost or valuation
+
+At 1 January 2024
+Additions
+
+Disposals
+
+Foreign exchange movements
+At31 December 2024
+Depreciation
+
+At 1 January 2024
+Charge for the year
+Eliminated on disposal
+At31 December 2024
+Carrying amount
+
+At 31 December 2024
+At31 December 2023
+
+12 Stocks
+
+Raw materials and consumables
+Goods
+
+31 December 2024
+Leasehold Plant and Under
+improvements equipment —_ construction Total
+£000 £000 * £000 £000
+17134 9918 260 27312
+58 617 167 842
+(144) (1776) : (1920)
+3 2 : 5
+17051 8761 427 26 239
+14078 7410 - 21 488
+1734 1275 - 3.009
+(135) (1729) - (1864)
+15 677 6956 : 22.633
+1374 1.805 427 3.606
+3.056 2.508 260 5824
+2024 2023
+£000 £000
+1 2
+95.479 103 862
+95 480 103 864
+
+The cost of stocks recognised as an expense in the year amounted to £203,832,000 (2023: £ 115,361,00) .
+
+There is no significant difference between the replacement cost of the inventory and its carrying amount.
+
+Page 33
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+13 Debtors
+2024 2023
+£000 £000
+Due within one year
+Trade debtors 65 984 64.877
+Amounts owed by group undertakings (a) 49717 10 607
+Other debtors 553 412
+Prepayments and accrued income 5973 3749
+Corporation taxation . 20 888 15 357
+Derivative financial instruments (note 15) 1926 -
+45 101 95002,
+
+(a) This amount relates to trade balances with the Company's parent and fellow subsidiaries and is unsecured and does not bear interest.
+These are payable on demand.
+
+Trade debtors are stated after provisions for impairment of £1,293,000 (2023: £1,349,000) .
+
+14 Creditors
+2024 2023
+£000 £000
+Due within one year
+Trade creditors 16 034 14774
+Amounts due to group undertakings (a) 1321 17375
+Intercompany loan (b) 94 816 71 782
+Social security and other taxes 21 280 14983
+Accruals 56 379 53 837
+Derivative financial instruments (note 15) - 1151
+189 830 173.902
+
+Die after one year
+Other non-current financial liabilities 6811 6972
+68il 6972
+
+—
+
+(@)O) Amounts owed to group undertakings are unsecured and do not bear interest. These are payable on demand.
+
+(®)_Intercompany loan is unsecured, has no fixed date of repayment, is repayable on demand and interest bearing at UK Bank of England
+Official Bank Rate plus 7.0 basis point margin.
+
+Page 34
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+15 Financial instruments
+2024 2023
+. £000 £000
+Financial assets at fair value through profit or loss - Derivative financial instruments (note 13 and 14) 1926 (151)
+
+The Company enters into foreign currency forward contracts to manage its exposure to foreign currency denominated intercompany loans
+and cash portfolio positions. The Company hedges balance sheet exposure internally with AbbVie Finance B.V., subsequently AbbVie
+Finance B.V. hedges net foreign exchange balance sheet exposure with the third party banks. All outstanding (having future value date)
+foreign exchange contracts are revalued at month-end to fair market Value. Revaluation postings accumulate until a maturity date of a
+specific contract and are reversed upon the contract settlement and posted to profit or loss via realised income/loss account in other
+comprehensive income.
+
+16 Deferred tax and other provisions
+
+Deferred tax assets and liabilities are attributable to the following:
+
+Asset Asset Liabilities Liabilities Net Net
+2024 2023 2024 2023 2024 2023
+£000 £000 £000 £000 £000 £000
+Accelerated capital allowances 2 18 - - 12 18
+Employee share aquisition relief 4083 334 - - 4.083 334
+Other 495 627 - - 495 627
+Deferred tax arising
+on derivatives : * (481) (32) (481) 2)
+Tax assets 4690 979 - - 4690 979
+Net of tax liabilities : : (481) 32) (481) G2)
+Net tax assets / (liabilities) 4690 979 (481) (2) 4209 947
+Deferred tax on pension : - (18 932) (19 382) (18932) (19 382)
+scheme
+4690 979. (19 413) (19.414) (14723) (18 435)
+2024
+£000
+‘At 1 January (18 435)
+Deferred tax charge 4131
+Deferred tax charge to other comprehensive income for the year (419)
+At 31 December ‘ (14 723)
+
+Page 35
+
+AbbVie Ltd
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+17 Pension and other schemes
+
+Following the transfer of personnel from Allergan Limited and Allergan Holdings Limited in 2022, the Company assumed a defined benefit
+pension scheme that previously encompassed employees from these entities. At 31 December 2024, the Company operated two defined
+benefit pension schemes, one for employees of AbbVie and anothef for former employees of Allergan, as well as a defined contribution
+pension scheme and all employees were eligible for one of these schemes,
+
+AbbVie defined benefit pension scheme
+
+Under the defined benefit scheme the employees are entitled to maximum retirement benefits of 60% of final salary on attainment of a
+retirement age of 65. No other post-retirement benefits are provided. The scheme is a funded scheme. With effect from 1 April 2016 the
+Fund is closed to new members unless an individual group of individuals or a category of individuals had at 1 April 2016 had been offered
+employment with the Company on the basis of Fund membership.
+
+Allergan defined benefit pension schemes (closed 28 February 2025)
+
+With effect from 28 February 2015, the scheme closed to future accrual and the link to future salary increases was removed. As part of this
+process all members in service at 31 December 2014 were granted an additional year of pensionable service. The past service cost resulting
+from this augmentation of benefits has not been reflected in the income statement because there is an unrecoverable surplus in the scheme.
+On 28 February 2025, the Scheme closed and transferred all assets and liabilities into the AbbVie defined benefit scheme.
+
+In June 2023, the High Court handed down a decision (Virgin Media Limited v NTL Pension Trustees I Limited and others) that
+amendments to scheme rules were invalid in the absence of a confirmation from the scheme actuary under Section 37 of the Pension
+Schemes Act 1993 (the Decision). The Decision was appealed and in June 2024, the Court of Appeal upheld the Decision. In June 2025,
+the UK Government announced they will be introducing legislation to give affected schemes the ability to retrospectively obtain written
+actuarial confirmation that historic benefit changes met the necessary standards. The Company is aware of recent developments and
+understands that the Company schemes” Trustee is taking a “wait and see” approach, rather than carrying out an investigation as to whether
+the Company's schemes are affected, in line with the recent guidance from the Institute of Chartered Accountants in England & Wales. As
+such, the Company has concluded that there is no requirement for further investigation or quantification within the accounts at this stage.
+
+Defined contribution scheme
+
+The defined contribution scheme is based on three rates of contributions:
+
+Employee Total monthly
+
+Option pays  AbbVie pays savings
+1 4% 10% 14%
+
+2 % 11% 16%
+
+3 % 12% 18%
+
+Under optional Additional Voluntary Contributions (AVCs) part of the scheme, employees may pay an additional percentage of their basic
+salary each month as an AVC if they wish to, but the Company will not pay any more. The total contribution payable by the Company is
+capped at 12%.
+
+Contributions payable to, the defined contribution pension scheme at the end of the year is £1,154,000 (2023: £990,705).
+
+Contributions payable to the defined benefit pension scheme at the end of the year is £ nil (2023: £ nil).
+
+The information disclosed below is in respect of the all of the plans for which the Company is either legally responsible or has been
+allocated a share of cost under an agreed group policy throughout the periods shown.
+
+Page 36
+
+AbbVie Lid
+Annual report and financial statements
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+17 Pension and other schemes (continued)
+
+The pension asset comprises the following pension schemes:
+
+AbbVie
+Allergan
+
+AbbVie
+
+Pension assets
+
+Defined benefit obligation
+Plan assets
+Pension asset
+
+At 1 January 2024
+
+Current service cost
+
+Interest expense
+Remeasurement gains
+Contributions by employer
+Contributions by participants
+Benefits paid
+
+Administration costs incured
+At 31 December 2024
+
+Expense recognised in the profit and loss account
+
+Current service cost
+Administration expenses
+
+Net interest on net defined benefit liability (note 6)
+
+Total expense recognised in profit and loss
+
+31 December 2024
+
+2024 2023
+£000 £000
+66 600 69 100
+
+9 128 8 428
+
+2024 2023
+£000 £000
+(243 400) (282900)
+310 000 352.000
+66 600
+Assets Liabilities Total
+£000 £000 £000
+352 000 (282900) 69 100
+- (4 100) (4100)
+15.600 (12 600) 3.000
+(47 600) 46 500 (1 100)
+1300 - 1300
+(9 700) 9700 -
+(1 600) : (1.600)
+310 000 (243 400) 66 600
+2024 2023
+£000 £000
+4100 4200
+1600 1300
+
+3 000) (4 200)
+2700 1300
+—==
+
+The total amount recognised in the Other Comprehensive Income in respect of actuarial gains and losses is £1,100,000 (loss) (2023:
+
+£25,000,000 (loss) .
+
+Page 37
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+17 Pension and other schemes (continued)
+
+The fair value of the plan assets was as follows:
+
+2024 2023
+Fair value of plan assets £000 £000
+Equities” 83 700 86 500
+Bonds and other debt instruments 203 200 242 000
+Property 23.100 23 500
+
+310000 352 000
+
+The pension scheme has not invested in any of the Company's own financial instruments or in properties or other assets used by the
+Company.
+
+The actual return on plan assets was as follows:
+
+2024 2023
+The actual return on plan assets £000 £000
+Interest income on plan assets 15.600 16 600
+Loss on plan assets . (47 600) (5 100)
+
+32.000) 1500
+
+Principal actuarial assumptions (expressed as weighted averages) at the year-end were as follows:
+
+2024 2023
+
+% %
+
+Discount rate . 555 4.50
+
+Future salary increases . 3.75 3.75
+RPI Inflation
+CPI Inflation
+
+The last full actuarial valuation was performed as of 31 March 2022. In valuing the liabilities of the pension fund at 31 December 2024
+mortality assumptions have been made as indicated below.
+
+The assumptions relating to longevity underlying the pension liabilities at the balance sheet date are based on standard actuarial mortality
+tables and include an allowance for future improvements in longevity. The assumptions are equivalent to expecting a 65-year old to live for
+a number of years as follows:
+
+Current pensioner aged 65: 21.7 years (male), 23.7 years (female).
+
+Future retiree upon reaching 65: 22.6 years (male), 24.7 years (female).
+
+. Page 38
+
+AbbVie Lid
+Annual report and financial statements
+
+31 December 2024
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+17. Pension and other schemes (continued)
+Allergan
+Pension assets
+2024 2023
+£000 £000
+Defined benefit obligation (52.463) (61 363)
+Plan assets 61591 69791
+Pension asset
+Assets Liabilities Total
+. £000 £000 £000
+At 1 January 2024 69791 (61 363) 8.428
+Interest expense . 3100 (2.700) 400
+Remeasurement gains (9 700) 9400 (300)
+Contributions by employer 1300 - 1300
+Benefits paid : (2.200) . 2200 a
+Administration costs incured (700) : (700)
+At 31 December 2024 . 61591 (52 463) 9128
+2024 2023
+£000 £000
+Expense recognised in the profit and loss account
+Administration expenses ‘ . 700 400
+Net interest on net defined benefit liability (note 6) (400) (500)
+
+Total expense recognised in profit and loss
+
+The total amount recognised in the Other Compreiensive Income in respect of actuarial gains and losses is £300,000 (loss) (2023:
+£2,700,000).
+
+‘The fair value of the plan assets was as follows:
+
+2024 2023
+
+Fair value of plan assets £000 £000
+Equities . 20.400 20200
+Bonds and other debt instruments 39900 49 200
+Cash 1291 391
+
+a5 97
+
+The pension scheme has not invested in any of the Company's own financial instruments or in properties or other assets used by the
+Company.
+
+Page 39
+
+AbbVie Lid
+Annial report and financial statements
+
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+17 Pension and other schemes (continued)
+The actual return on plan assets was as follows:
+
+. 2024 2023
+The actual return on plan assets £000 £000
+Interest income on plan assets 3.100 3200,
+Loss on plan assets (9 700) (1.600)
+
+(6 600) 1600
+
+Principal actuarial assumptions (expressed as weighted averages) at the year-end were as follows:
+
+2024 2023
+
+% %
+
+Discount rate 5.55 4.50
+RPI Inflation 3.05 2.95
+CPI Inflation 2.75 2.60
+
+The last full actuarial valuation was performed as of 31 July 2022. In valuing the liabilities of the pension fund at 31 December 2024
+mortality assumptions have been made as indicated below.
+
+The assumptions relating to longevity underlying the pension liabilities at the balance sheet date are based on standard actuarial mortality
+tables and include an allowance for future improvements in longevity. The assumptions are equivalent to expecting a 65-year old to live for
+a number of years as follows:
+
+Current pensioner aged 65: 22.1 years (male), 24.7 years (female).
+
+Future retiree upon reaching 65: 23.1 years (male), 25.8 years (female),
+
+Page 40
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+18 Share-based payments
+The Company is a wholly owned, indirect subsidiary of AbbVie Inc. and the share-based payment arrangement concerns equity instruments
+of that group entity.
+
+The Company has recognised a total expense of share-based payments of £11,357,000 (2023: £10,513,000).
+
+The Company has taken advantage of the exemptions contained in FRS 102 and has therefore not fulfilled the requirements of Section 26
+of this FRS (26.18(b), 26.19 to 26.21 and 26.23) related to the share-based payment transactions.
+
+Restricted Stock Units (RSUs)
+The Company's ultimate parent company maintains an equity-settled share-based payment arrangement under which certain employees of
+the ultimate parent company’s subsidiaries are awarded grants of restricted stock units. Restricted stock units vest over three years
+
+beginning one year from the date of grant. Restticted stock units are forfeited if the employee leaves the Company before the awards vest.
+
+The Company has made a payment to the ultimate parent company in relation to the cost of restricted stock units and has’ recognised a
+deemed capital contribution equal to the calculated value of restricted stock units less the amount paid to the ultimate parent company.
+
+Employee Share Incentive Plan
+| The Company operates a Share Incentive Plan for all employees. Employees purchase ordinary shares in the ultimate parent company at the
+
+market value by means of a deduction from gross salary. The Company matches the employee purchase at a ratio of 1:1 subject to a limit of
+1.75% of pensionable salary or £125 per month.
+
+19 Share capital
+
+Allotted, called up and fully paid shares
+
+2024 2023
+
+No. £ No. £
+
+A share class of £1 each of £1 each 209 616 153 209 616 153 209 616 153 209 616 153
+B share class of £1 each of £1 each 5.000 001 5 000001 5.000 001 5.000 001
+
+214
+
+214 616 154 214 616 154 214 616 154
+ee
+
+The holders of ordinary shares are entitled to receive dividends as declared from time to time and are entitled to full vote (A share) or
+limited vote (B share) per share at meetings of the Company.
+
+Page 41
+
+AbbVie Lid
+Annual report and financial statements
+31 December 2024
+
+Notes to the Financial Statements for the Year Ended 31 December 2024 (continued)
+
+20 Capital and other commitments
+Contracts for future capital expenditure not provided in the financial statements amount to £ nil (2023: £ nil).
+
+The Company had the following future minimum lease payments under non-cancellable operating leases for each of the following periods:
+
+2024 2023
+
+. £000 £000
+
+Due within one year 6343 6994
+Due between one and five years inclusive 12.660 6740
+Due beyond five years 2937 467
+21940 14201
+
+During the year £9,492,000 was recognised as an expense in the profit and loss account in respect of operating leases (2023: £9,891,000) .
+
+21 Parent and ultimate parent undertaking
+
+The Company is a subsidiary undertaking of AbbVie Group Investments 2 Limited, a company registered in Bermuda, AbbVie UK Holdco
+Limited, a company registered in the United Kingdom and Aptalis Holding B.V., a company registered in Netherlands. The ultimate
+controlling party is AbbVie Inc., incorporated in the State of Delaware, USA. The smallest and largest group in which the results of the
+Company are consolidated accounts are available to the public and may be obtained from AbbVie Inc., 1 North Waukegan Road, North
+Chicago, IL 60064, USA. .
+
+The Company is a wholly owned subsidiary of AbbVie Inc. Accordingly, the Company has taken advantage of the exemption under FRS
+102 section 33 not to disclose transactions with other group companies which meet the’criteria that all subsidiary undertakings which are
+party to transactions are wholly owned by the ultimate controlling parent. There were no other related party transactions during the year.
+
+22 Events after the financial period
+
+On 28 February 2025, the Allergan defined benefit Scheme was closed. All assets and liabilities were transferred into the AbbVie defined
+benefit scheme.
+
+Page 42

@@ -1,0 +1,1310 @@
+*AEC6W634*
+30/09/2025
+MPANIES HOUSE
+
+#
+
+WAN |
+
+fe
+
+~
+
+VIRBAC LIMITED
+
+REPORT AND FINANCIAL STATEMENTS 2024
+
+CONTENTS Pages
+Officers and professional advisers 1
+Strategic report 2
+Directors’ report 5
+Independent auditors’ report 8
+Statement of Comprehensive Income 12
+Statement of Financial position 13
+Statement of changes in equity 14
+
+Notes to the financial statements . 15
+
+VIRBAC LIMITED
+
+REPORT AND FINANCIAL STATEMENTS 2024
+
+OFFICERS AND PROFESSIONAL ADVISERS
+
+DIRECTORS
+
+S Huron (resigned 27 September 2024)
+E Dubois
+C Covell
+
+REGISTERED OFFICE
+
+Woolpit Business Park
+Windmill Avenue
+Woolpit
+
+Bury St. Edmunds
+Suffolk, 1P30 9UP
+
+BANKERS
+
+Societe Generale
+One Bank Street
+Canary Wharf
+London, E14 4SG
+
+SOLICITORS
+
+Mills & Reeve
+Botanic House
+100 Hills Road
+Cambridge, CB2 IPH
+
+AUDITOR
+
+Constantin
+
+Chartered Accountants and Statutory Auditor
+25 Hosier Lane
+
+London, ECIA 9LQ
+
+VIRBAC LIMITED
+
+STRATEGIC REPORT
+
+PRINCIPAL ACTIVITY
+
+The company’s principal activity is that of marketing of Veterinary and Animal Health Products in the United
+Kingdom.
+
+BUSINESS MODEL
+
+The company establishes long term relationships with veterinary practices by ensuring that our sales teams regularly
+visit our customers to promote awareness of animal health issues. Our technical advisors are available to provide
+assistance to any practitioners on the use of our product range.
+
+The company makes use of veterinary wholesalers to distribute products in the market place.
+
+STRATEGY
+
+The company has a strategy to launch new products in major market sector and provide tailored solutions to meet
+market expectations.
+
+As a benchmark the company monitors its growth in comparison with the recognised growth of the animal health
+sector. During 2024, according to Kynetec VetTrak sales data (gross sales data), the UK animal health market grew
+
+by 8.1%, compared to growth of 13.5% for the Company. The target in 2025 is for the company to continue to grow
+in excess of the overall growth of the animal health market.
+
+KEY PERFORMANCE INDICATORS
+
+The Company considers their key performance indicators are those that communicate the financial performance and
+strength of the company and include:
+
+2024 2023
+
+£°000 £°000
+
+Turnover 52,366 46,127
+Gross Profit margin % 27.8% 28.6%
+Operating profit % 11.6% 11.5%
+Profit 4,589 4,198
+2024 2023
+
+Headcount SI 48
+
+BUSINESS REVIEW AND FUTURE PROSPECTS
+
+Following a challenging year in 2023 with a cyber attack and significant disruptions to supply, 2024 has been a good
+year with strong growth across all departments. Virbac Ltd ended the year with 13.5% Turnover growth vs 2023
+compared with 8.1% growth in the market as a whole.
+
+June was a momentous month with us overtaking one of our competitors "Dechra" to be Sth in the market and Virbac
+ending comfortably ahead of Dechra at year end on gross sales.
+
+One significant focus for the company has been on the growth of the B2C webshop hosting HPM pet food. This
+platform was launched in August 2023 and has experienced significant growth.
+
+A new product launch in August led the business into new horizons with a product available reducing the need for
+antibiotic therapies. This unique formulation, used in dogs ears is gaining market share and is a very respectable
+product in light of the industry pressured to reduce antibiotic usage.
+
+Multiple new vaccine accounts were gained throughout 2024 which was a significant contributing factor to the growth
+of the companion animal business and inevitably due to timing of wins later in the year, growth will continue into
+2025.
+
+
+VIRBAC LIMITED
+
+STRATEGIC REPORT
+
+2025 looks to be a good year with product launches and an omnichannel strategy on many brands aiming for growth
+in different segment areas. - However, despite a good start to 2025, the market is slowing across all species and with
+the Government (Competition Markets Authority) running an investigation into the industry, inevitably there will be
+changes. This is in addition to the current financial status of the UK which can lead to consumer uncertainty and can
+contribute to a decline in the growth we have experienced over recent years.
+
+PRINCIPAL RISKS AND UNCERTAINITIES
+
+The Company has chosen to include the paragraph in its Directors Report that would otherwise be disclosed in the
+Strategic Report.
+
+GOING CONCERN
+
+These financial statements have been prepared on the going concern basis for the reasons set forth in note | to the
+financial statements.
+
+SECTION 172 REPORT
+
+The directors’ of the company, as those of all UK companies, must act in accordance with a set of general duties.
+These duties are detailed in section 172 of the UK Companies Act 2006, which is summarised as follows:
+A director of a company must act in the way he considers, in good faith, would be most likely to promote the
+success of the company for the benefit of its members are a whole, and in doing so have regard (amongst other
+matters) to:
+
+a) The likely consequences of any decision in the long term,
+
+b) The interests of the company’s employees,
+
+c) The need to foster the company’s business relationships with suppliers, customers and others,
+
+d) The impact of the company’s operations on the community and the environment,
+
+) The desirablity of the company maintaining a reputation for high standards of business conduct, and
+
+f) The need to act fairly as beween members of the company.
+
+As part of their induction, a director is briefed on their duties and they can access professional advice on these. It is
+important to recognise that in a complex organisation such as the company, the directors fulfil their duties partly
+through governance framework that delegates day-to-day decision making to employees of the company.
+
+The following paragraphs summarise how the directors fufil their duties:
+All Virbac entities follow six strategic values:
+
+Entrepreneurship- showing initiative and boldness is our driving force. Allowing us to learn from our mistakes and
+the be resilient and reinvent ourselves.
+
+Innovation — we are committed to offering ever more ingenious and useful solutions to our customers.
+Engagement — we work with passion and to the best possible job in each and every project we undertake.
+Customer driven — those who care for animals are quintessential to our existence.
+
+People focus ~ people are the key to success at Virbac, and they are a major distinguishing feature for a company of
+our size,
+
+Sustainability - at Virbac it is our responsibility to find the best balance between economic growth, care for people
+and the environment.
+
+Virbac has always been aware of the major role that it plays in animal health. This is the meaning behind the
+commitments that it shares today with its stakeholders, who are themselves increasingly sensitive to responsible
+corporate choices for sustainable future.
+
+we
+
+VIRBAC LIMITED
+
+STRATEGIC REPORT
+
+Innovating responsibly
+
+Ina context of a high variability of pathologies, user expectations and regulations depending on the countries and
+times, innovating for the benefit of animal health and respect for animal welfare is a major issue, now more than
+ever. To make this a reality, Virbac is working on two priorty areas: animal studies (compliance with an ethical
+charer based on the international principles of the 3Rs, systemisation of ethics committees for the prior evaluation of
+every study, priority use of alternative methods, post-study animal adoption program) and the reduction of antibiotic
+use through the development of prevention methods.
+
+Strengthening employee engagement
+
+At Virbac, the organisational model relies above all on the people who are at the heart of the company and behind its
+major decisions. Objective: to preserve this pillar of corporate culture while adapting operational modes to
+globalisation, market evolution and the changes that are introduced by new technologies. To do this Virbac is
+focusing its efforts on wellbeing at work and on recognition, safety and social dialogue, rewarding performance and
+individual skill development, internal professional and geographical mobility, and fostering an environment that is
+conducive to diversity and equal treatment among employees.
+
+Protecting the environment
+
+Improving the quality of life of animals by reducing the environmental footprint of all its activities: this is Virbac’s
+goal. The group is committed to preserving the planet’s resources by optimizing the consumption of energy, water
+and materials used in the manufacturing processes and reducing common and industrial waste as well as emissions
+
+(greenhouse gases) that stem from its activities.
+
+Business Relationships — customers, suppliers
+
+The Group developed a code of conduct, a document that describes the standards and rules to be adhered to when
+conducting business. This includes anti-corruption policies for our relationships with customers and suppliers. This
+policy is incorporated within our contracts.
+
+Approved by the Board of Directors 26 September 2025 and signed on its'behalf
+
+C Covell
+
+Director
+
+
+VIRBAC LIMITED
+
+DIRECTORS’ REPORT
+
+The directors present their annual report on the affairs of Virbac Limited (“the Company”), together with the
+financial statements and auditor’s report, for the year ended 31 December 2024.
+DIRECTORS
+
+The directors who held office throughout the year and up to the date of this report, unless otherwise stated, were as
+follows:
+
+S Huron (resigned 27 September 2024)
+E Dubois
+C Covell
+
+u
+
+REVIEW OF FINANCIAL INSTRUMENTS POLICIES
+
+The company’s activities expose it to a number of financial risks including cash flow risk, credit risk, liquidity risk
+and price risk. The company does not currently use derivative financial instruments.
+
+Cash flow risk
+
+The company does not have significant exposure to cash flow risk. It has very little exposure to foreign currency
+exchange rates as the majority of transactions are conducted in sterling.
+
+The company does not carry out any hedging activities, but maintains a Euro bank account.
+
+Credit risk
+
+The company’s principal financial assets are bank balances and cash, amounts due from parent undertaking, trade and
+other debtors.
+
+The company’s credit risk is primarily attributable to its trade debtors. The amounts presented in the balance sheet are
+net of provisions for doubtful debtors. A provision for impairment is made where there is an identified loss event
+which, based on previous experience, is evidence of a reduction in the recoverability of the cash flows.
+
+The company has a potential concentration of credit risk, with 86% of its year end debtor balance held with four major
+national distributors. There are however, no large overdue debts with these customers. So far the company has not
+experienced any significant adverse impact on its activities.
+
+Liquidity risk
+
+In order to maintain liquidity to ensure that sufficient funds are available for ongoing operations and future
+developments, the company ordinarily maintains a positive net cash balance.
+
+RESEARCH AND DEVELOPMENT
+
+The Company did not conduct any research and development activities during the year.
+
+PRINCIPAL RISKS AND UNCERTAINITIES
+
+The principal risks and uncertainties of the Company are as follows:
+
+Economic risk this includes the impact on financial position and performance due to a downturn in the markets the
+Company operates in and the general, macroeconomic environment. The Company monitors and anticipates as far as
+possible the development and outcomes of these risks and takes mitigating actions accordingly.
+
+Technological risk arises as new technologies and new practices inevitably expose the Company to new risks.
+Similarly, the risks of cyber criminality could lead to loss of data, disruption to projects or could impact the reputation
+of financial health of the Company. Business continuity procedures have been implemented and a program is in place
+to mitigate the risk of cyber criminality on its main systems.
+
+The directors take responsibility for maintaining systems of internal control to manage and mitigate these risks.
+
+DIVIDENDS
+
+The directors recommenda final dividend of £3,000,000 for the financial year ended 31 December 2024 (2023:
+£1,500,000).
+
+VIRBAC LIMITED
+
+DIRECTORS’ REPORT .
+
+EXISTENCE OF BRANCHES OUTSIDE THE UK
+
+The Company had no branches outside the United Kingdom
+POLITICAL CONTRIBUTIONS
+
+The Company did not make any political contributions during the year.
+
+DIRECTORS’ INDEMNITIES
+
+The company has made qualifying third party indemnity provisions for the benefit of its directors which remain in
+force at the date of this report.
+
+DIRECTORS' RESPONSIBILITIES STATEMENT
+
+The directors are responsible for preparing the Strategic and Directors Reports and the financial statements in
+accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the directors
+have elected to prepare the financial statements in accordance with United Kingdom Generally Accepted Accounting
+Practice (United Kingdom Accounting Standards and applicable law) including FRS 102 "The Financial Reporting
+Standard applicable in the UK and Republic of Ireland. Under company law the directors must not approve the
+financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the company
+and of the profit or loss of the company for that period. In preparing these financial statements, the directors are
+
+required to:
+
+@ select suitable accounting policies and then apply them consistently;
+
+@ make judgements and accounting estimates that are reasonable and prudent;
+@ state whether applicable accounting standards have been followed; and
+e
+
+prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company
+will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and
+enable them to ensure that the financial statements comply with the Companies Act 2006. They are also responsible
+for safeguarding the assets of the company and hence for taking reasonable steps for the prevention and detection of
+fraud and other irregularities.
+
+POST BALANCE SHEET EVENT
+There have been no significant events requiring amendment to, or disclosure in the financial statements.
+
+ENERGY CONSUMPTION
+
+The below information-represents Virbac Limited’s energy use and emissions from electricity and fuel in the UK for
+the year ended 31 December 2024.
+
+Methodology
+
+The company has followed UK Government environmental reporting guidance and made use of UK Governemnt
+Conversion Factors for greenhouse gas reporting.
+
+Information has been gathered from multiple sources, including energy supplier billing data, expense system
+business travel data and logistics systems freight data.
+
+Measures to improve energy efficiency
+
+The company has taken measures to reduce energy usage and emissions, including a move towards EV/Hybrid
+vehicles within the company car fleet and seeking energy supply from wholly renewable soures. Business mileage
+incurred in EVs during 2024 represented 17.5% of the company total, compared to 6.9% in the prior year. From
+September 2023, electricy has been procured on a Zero Carbon tariff.
+
+VIRBAC LIMITED
+
+DIRECTORS’ REPORT
+Energy use (kWh)
+2024 2023
+Electricity use 116,713 107,010
+Gas. combustion - -
+Fuel consumption 301.394 401.468
+418,107 508,478
+Emissions (kg CO2)
+2024 2023
+Scope | 69,962 88,008
+Scope 2 14,952 13,913
+Scope 3 279,190 225,280
+364,104 327,201
+Intensity Ratio
+2024 2023
+Tonnes CO2 per £’m Revenue 6.95 7.09
+
+The company continues to seek measure to reduce energy use and emissions. The direct-to-consumer pet food / pet
+care range is a growing area for the business and reflects the customer demand. However, this displays a higher
+intensity ratio due to size and weight of such items compared to existing pharmaceutical products.
+
+AUDITOR
+Each of the persons who is a director at the date of approval of this annual report confirms that:
+
+* so far as the director is aware, there is no relevant audit information of which the company’s auditor is
+unaware; and
+
+¢ — the director ‘has taken all the steps that he ought to have taken as a director to make himself aware of any
+relevant audit information and to establish that the company’s auditors is aware of that information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of s418 of the Companies Act
+2006.
+
+Constantin have expressed their willingness to continue in office as auditors and a resolution to reappoint them as
+auditor will be proposed at the forthcoming Annual General’ Meeting.
+
+Approved by the Board of Directors 26 September 2025 and signed on its behalf
+
+C Covell
+
+Director
+
+
+VIRBAC LIMITED
+
+Independent auditor's report to the members of Virbac Limited
+
+Report on the audit of the financial statements
+
+Opinion
+In our opinion the financial statements of Virbac Limited (the ‘company’):
+
+* give a true and fair view of the state of the company’s affairs as at 31 December 2024 and of its profit for the
+year then ended;
+
+© have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice,
+including Financial Reporting Standard 102 “The Financial Reporting Standard applicable in the UK and Republic
+of ireland”; and
+
+© have been prepared in accordance with the requirements of the Companies Act 2006.
+
+We have audited the financial statements which comprise:
+
+* the statement of comprehensive income;
+
+* the statement of change of financial position;
+« the statement of changes in equity;
+
+* — the statement of accounting policies; and
+
+© the related notes 1 to 16.
+
+The financial reporting framework that has been applied in their preparation is applicable law and United Kingdom
+Accounting Standards, Financial Reporting Standard 102 “The Financial Reporting Standard applicable in the UK and
+Republic of ireland” (United Kingdom Generally Accepted Accounting Practice).
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law.
+Our responsibilities under those standards are further described in the auditor's responsibilities for the audit of the
+financial statements section of our report.
+
+We are independent of the company in accordance with the ethical requirements that are relevant to our audit of the
+financial statements in the UK, including the Financial Reporting Council's (the ‘FRC’s’) Ethical Standard, and we have
+fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence
+we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Conclusions relating to going concern
+
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis of
+accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or
+conditions that, individually or collectively, may cast significant doubt on the company’s ability to continue as a going
+concern for a period of at least twelve months from when the financial statements are authorised for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described in the relevant
+sections of this report.
+
+
+VIRBAC LIMITED
+
+Independent auditor's report to the members of Virbac Limited
+
+Other information
+
+The other information comprises the information included in the annual report, other than the financial statements
+and our auditor's report thereon. The directors are responsible for the other information contained within the annual
+report. Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information is
+materially inconsistent with the financial statements, or our knowledge obtained in the course of the audit, or
+otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material
+misstatements, we are required to determine whether this gives rise to a material misstatement in the financial
+statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement
+of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement, the directors are responsible for the preparation
+of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as
+the directors determine is necessary to enable the preparation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to continue as
+a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of
+accounting unless the directors either intend to liquidate the company or to cease operations, or have no realistic
+alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with
+ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and
+are considered material if, individually or in the aggregate, they could reasonably be expected to influence the
+economic decisions of users taken on the basis of these financial statements.
+
+A further description of our responsibilities for the audit of the financial statements is located on the FRC’s website
+at: www.frc.org.uk/auditorsresponsibilities. This description forms part of our auditor's report.
+
+Extent to which the audit was considered capable of detecting irregularities, including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design procedures in
+line with our responsibilities, outlined above, to detect material misstatements in respect of irregularities, including
+fraud. The extent to which our procedures are capable of detecting irregularities, including fraud is detailed below.
+
+We considered the nature of the company’s industry and its control environment, and reviewed the company’s
+documentation of their policies and procedures relating to fraud and compliance with laws and regulations. We also
+enquired of management and the directors about their own identification and assessment of the risks of irregularities,
+including those that are specific to the company’s business sector.
+
+VIRBAC LIMITED
+
+Independent auditor's report to the members of Virbac Limited
+
+We obtained an understanding of the legal and regulatory frameworks that the company operates in, and identified
+the key laws and regulations that:
+
+© hada direct effect on the determination of material amounts and disclosures in the financial statements. These
+included UK Companies Act, tax legislation; and
+
+« donot have a direct effect on the financial statements but compliance with which may be fundamental to the
+company’s ability to operate or to avoid a material penalty. These included the Veterinary Medicines Regulations
+(vir).
+
+We discussed among the audit engagement team regarding the opportunities and incentives that may exist within
+the organisation for fraud and how and where fraud might occur in the financial statements.
+
+As a result of performing the above, we identified the greatest potential for fraud in the following areas, and our
+procedures performed to address it are described below:
+
+Cut-off of turnover due to varying timing of transfer of risks and rewards of the revenue transactions.
+
+Significant risk arises in the occurrence of revenue rebates due to the possibility that rebates may be recorded without
+the underlying valid transactions actually occurring.
+
+We addressed this risk by performing the following procedures:
+
+© Obtaining an understanding of management's processes and controls in relation to ensuring the correct
+recognition of revenue. This includes performing the design and implementation of relevant controls.
+
+Performed analytical procedures to identify any unusual relationships that may indicate an error in the
+revenue recognised for the year.
+
+* Selecting a sample of revenue transactions before and after the year end and verifying the terms of the
+services to the underlying customer invoices and proof of delivery in order to validate the timing of revenue
+recognition.
+
+*® The rebate amounts recorded are independently recalculated based on the terms and conditions (e.g.,
+percentage rates, sales thresholds).
+
+© Selection a sample of recorded rebates is traced to actual payment evidence such as bank statements,
+payment vouchers, or remittance advices to verify that the rebates recorded have been legitimately paid or
+are properly accrued.
+
+In common with all audits under ISAs (UK), we are also required to perform specific procedures to respond to the risk
+of management override. In addressing the risk of fraud through management override of controls, we tested the
+appropriateness of journal entries and other adjustments; assessed whether the judgements made in making
+accounting estimates are indicative of a potential bias; and evaluated the business rationale of any significant
+transactions that are unusual or outside the normal course of business.
+
+In addition to the above, our procedures to respond to the risks identified included the following:
+
+© reviewing financial statement disclosures by testing to supporting documentation to assess compliance with
+provisions of relevant laws and regulations described as having a direct effect on the financial statements;
+
+@ performing analytical procedures to identify any unusual or unexpected relationships that may indicate risks of
+material misstatement due to fraud;
+
+© — enquiring of management and external legal counsel concerning actual and potential litigation and claims, and
+instances of non-compliance with laws and regulations; and
+
+© reading minutes of meetings of those charged with governance.
+
+10
+
+
+VIRBAC LIMITED
+
+Independent auditor’s report to the members of Virbac Limited
+
+Report on other legal and regulatory requirements
+
+Opinions on other matters prescribed by the Companies Act 2006
+{In our opinion, based on the work undertaken in the course of the audit:
+
+the information given in the strategic report and the directors’ report for the financial year for which the financial
+statements are prepared is consistent with the financial statements; and
+
+© the strategic report and the directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+In the light of the knowledge and understanding of the company and its environment obtained in the course of the
+audit, we have not identified any material misstatements in the strategic report or the directors’ report.
+
+Matters on which we are required to report by exception
+Under the Companies Act 2006 we are required to report in respect of the following matters if, in our opinion:
+
+adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+branches not visited by us; or
+
+© the financial statements are not in agreement with the accounting records and returns; or
+
+© certain disclosures of directors’ remuneration specified by law are not made; or
+
+© we have not received all the information and explanations we require for our audit.
+
+We have nothing to report in respect of these matters.
+
+Use of our report
+
+This report is made solely to the company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company’s members those
+matters we are required to state to them in an auditor's report and for no other purpose. To the fullest extent
+permitted by law, we do not accept or assume responsibility to anyone other than the company and the company’s
+members as a body, for our audit work, for this report, or for the opinions we have formed.
+
+Cho.
+
+Peter Smith FCA (Senior Statutory Auditor)
+For and on behaif of
+
+Constantin
+
+Chartered Accountants and Statutory Auditor
+25 Hosier Lane ‘
+
+London
+
+EC1A 9LQ
+
+Date: 26 September 2025
+
+
+VIRBAC LIMITED
+
+Statement of Comprehensive Income
+
+TURNOVER
+Cost of sales
+
+Gross profit
+Administrative expenses
+OPERATING PROFIT
+Finance income
+
+PROFIT ON ORDINARY ACTIVITIES
+BEFORE TAXATION
+
+Tax on profit on ordinary activities
+
+PROFIT FOR THE FINANCIAL YEAR
+
+All activities derive from continuing operations.
+
+2024 2023
+£ £
+
+52,366,369 46,127,216
+(37,826,155) (32,916,813)
+
+14,540,214 13,210,403
+(8,484,225) (7,887,076)
+6,055,989 — $,323,327
+
+89,202 177,125
+
+6,145,191 5,500,452
+(1,556,190) (1,302,214)
+4,589,001 4,198,238
+
+
+VIRBAC LIMITED
+
+Statement of Financial Position
+31 December 2024
+
+Notes 2024 2023
+£ £
+FIXED ASSETS
+Tangible assets 9 107,235 117,622
+CURRENT ASSETS
+Stocks 10 12,425,284 12,834,448
+Debtors i 10,245,687 15,594,895
+Cash at bank and in hand 2,855,701 3,899,091
+
+25,526,672 32,328,434
+
+CREDITORS: amounts falling due
+within one year 12 (12,546,786) (22,447,936)
+NET CURRENT ASSETS 12,979,886 9,880,498
+
+TOTAL ASSETS LESS CURRENT
+LIABILITIES, BEING NET
+ASSETS 13,087,121 9,998,120
+
+CAPITAL AND RESERVES
+
+Called up share capital 13 2,000 2,000
+Profit and loss account 13 13,085,121 9,996,120
+SHAREHOLDERS' FUNDS 13,087,121 9,998,120
+
+The financial statements of Virbac Limited, registered number 01069800, were approved by the Board of Directors
+and authorised for issue on 26 September 2025.
+
+Signed on behalf of the Board of Directors
+
+LAE
+
+C Covell
+
+Director
+
+
+VIRBAC LIMITED
+
+STATEMENT OF CHANGES IN EQUITY
+31 December 2024
+
+Called up Profit and Total
+share capital Loss account
+
+£ £ £
+
+At | January 2023 2,000 8,797,882 8,799,882
+Profit for the financial year - 4,198,238 4,198,238
+Dividends paid (note 8) - (3,000,000) — (3,000,000)
+At 31 December 2023 2,000 9,996,120 9,998,120
+Profit for the financial year - 4,589,001 4,589,001
+Dividends paid (note 8) - (1,500,000) (1,500,000)
+At 31 December 2024 2,000 13,085,121 13,087,121
+
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS
+Year ended 31 December 2024 :
+
+ACCOUNTING POLICIES
+
+The principal accounting policies are summarised below. They have all been applied consistently throughout
+the year and the preceding year.
+
+General information and basis of accounting
+Virbac Limited is a company incorporated in the United Kingdom under the Companies Act. The address of
+
+the registered office is given on page |. The nature of the company’s operations and its principal activities are
+set out in the strategic report on pages 2 and 3.
+
+The financial statements have been prepared under the historical cost convention and in accordance with
+Financial Reporting Standard 102 (FRS102) issued by the Financial Reporting Council.
+
+The functional currency of Virbac Limited is considered to be pounds sterling because that is the currency of
+the primary economic environment in which the company operates.
+
+Virbac Limited meets the definition of a qualifying entity under FRS102 and has therefore taken advantage of
+the disclosure exemptions available to it in respect of its financial statements. Exemptions have been taken in
+relation to share-based payments, financial instruments, presentation of a cash flow statement, intra-group
+transactions and remuneration of key management personnel.
+
+Going concern
+
+The Company’s business activities, together with the factors likely to affect its future development,
+performance and position are set out in the strategic report. The directors’ report further describes the financial
+position of the Company; its cash flows, liquidity position; the Company’s objectives, policies and processes
+for managing its capital; its financial risk management objectives; details of its financial instruments; and its
+exposure to credit risk and liquidity risk.
+
+The Company’s forecasts and projections, taking account of reasonably possible changes in trading
+performance, show that the Company should be able to operate within the level of its current facility.
+
+The directors have a reasonable expectation that the company have adequate resources to continue in
+operational existence for the foreseeable future. Thus they continue to adopt the going concern basis of
+accounting in preparing the annual financial statements.
+
+Turnover
+
+Turnover represents sales of veterinary and animal health products net of value added tax and rebates, Revenue
+is recognised when goods are delivered and the risks and rewards of ownership have passed to the customer.
+Rebates are recongised upon meeting the required volume criteria for each rebate agreement.
+
+Tangible fixed assets
+
+Tangible fixed assets are stated at cost or valuation, net of depreciation and any provision for impairment.
+
+Depreciation is calculated to write down the cost of tangible fixed assets on the straight line basis over their
+expected useful lives. The rates of depreciation are as follows:
+
+Office equipment 20% or 33% per annum on cost
+Leasehold improvements Remaining life of the lease
+Stocks
+
+Stocks are stated at the lower of cost and net realisable value. Provision is made for obsolete, slow-moving or
+defective items where appropriate.
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+ACCOUNTING POLICIES (continued)
+Taxation
+
+Current tax is provided at amounts expected to be paid (or recovered) using the tax rates and laws that have
+been enacted or substantively enacted by the balance sheet date.
+
+Deferred tax is provided in full on timing differences, which result in an obligation at the balance sheet date to
+pay more tax, or a right to pay less tax, at a future date, at rates expected to apply when they crystallise based
+on current tax rates and law. Timing differences arise from the inclusion of items of income and expenditure
+in taxation computations in periods different from those in which they are included in financial statements.
+Deferred tax assets are recognised to the extent that it is regarded as more likely than not that they will be
+recovered, Deferred tax assets and liabilities are not discounted.
+
+Foreign exchange
+
+Transactions denominated in foreign currencies are translated into sterling at the rates ruling at the dates of the
+transactions. Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are
+translated at the rates ruling at that date. Translation differences arising are dealt with in the profit and loss
+account.
+
+Leases
+
+Rentals under operating leases are charged on a straight line basis over the lease term, even if the payments are
+not made on such a basis. Benefits received and receivable as a incentive to sign an operating lease are similarly
+spread on a straight line basis over the lease term, except where the period to the review date on which the rent
+is first expected to be adjusted to the prevailing market rate is shorter than the full lease term, in which case
+the shorter period is used.
+
+Pensions
+
+The company operates a defined contribution pension scheme. The assets of the scheme are invested and
+managed independently of the finances of the company. Contributions to the defined contribution pension
+schemes are charged to the profit and loss account as they become payable in accordance with the rules of the
+scheme.
+
+Financial instruments
+
+Financial assets and financial liabilities are recognised when the Company becomes a party to the contractual
+provisions of the instrument.
+
+Financial liabilities and equity instruments are classified according to the substance of the contractual
+arrangement entered into. An equity instrument is any contract that evidences a residual interest in the assets
+of the Company after deducting all of its liabilities.
+
+(i) Financial assets and liabilities
+
+All financial assets and liabilities are initially measured at transaction price (including transaction costs), except
+for those financial assets classified as at fair value through profit or loss, which are initially measured at fair
+value (which is normally the transaction price excluding transaction costs), unless the arrangement constitutes
+a financing transaction. If an arrangement constitutes a financing transaction, the financial asset or financial
+liability is measured at the present value of the future payment discounted at a market rate of interest for a
+similar debt instrument.
+
+Financial assets and liabilities are only offset in the balance sheet when, and only when there exists a legally
+
+enforceable right to set off the recognised amounts and the Company intends either to settle on a net basis, or
+to realise the asset and settle the liabilitiy simultaneously.
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+ACCOUNTING POLICIES (continued)
+Financial instruments (continued)
+(i) Financial assets and liabilities (continued)
+
+Debt instruments which meet the following conditions are subsequently measured at amortised cost using the
+effective interest method:
+
+(a) The contractual return to the holder is (i) a fixed amount; (ii) a positive fixed rate or a positive variable
+rate; Or a combination of a positive or a negative fixed rate and a positive variable rate.
+
+(b) The contract may provide for repayments of the principal or the return to the holder (but not both) to be
+linked to a single relevant observable index of general price inflation of the currency in which the debt
+instrument is denominated, provided such links are not leveraged.
+
+The contract may provide for derminable variation of the return to the holder during the life of the
+instrument, provided that (i) the new rate satisfies condition (a) and the variation is not contigent on future
+events other than (1) a change of a contractual variable rate; (2) to protect the holder against credit
+deterioration of the issuer; (3) changes in levies applied by a central bank or arising from changes in
+relevant taxation or law; or (ii) the new rate is a market rate of interest and satisfies condition (a).
+
+(c
+
+(d) There is no contractual provision that could, by its terms, result in the holder losing the principal amount
+or any interest attributable to the current period or prior periods.
+
+Contractual provisions that permit the issuer to prepay a debt instrument or permit the holder to put it back
+to the issuer before maturity are not contingent on future events, other than to protect the holder against
+the credit deterioration of the issuer or a change in control of the issuer, or to protect the holder or issuer
+against changes in levies applied by a central bank or arising from changes in relevant taxation or law.
+
+(e
+
+(f) Contractual provisions may permit the extension of the term of the debt instrument, provided that the
+return to the holder and any other contractual provisions applicable during the extended term satisfy the
+conditions or paragraphs (a) to (c).
+
+Debt instruments that are classified as payable or receivable within one year on initial recognition and which
+
+meet the above conditions are measured at the undiscounted amount of the cash or other consideration expected
+
+to be paid or received, net of impairment.
+
+With the exception of some hedging instruments, other debt instruments not meeting these conditions are
+measured at fair value through profit or loss.
+
+Commitments to make receive loans which meet the conditions mentioned above are measured at cost (which
+may be nil) less impairment.
+
+Financial assets are derecognised when and only when a) the contractual rights to the cash flows form the
+financial asset expire or are settled, b) the company transfers to another party substantially all of the risks and
+rewards of ownership of the financial asset, or c) the company, despite having retained some, but not all,
+significant risks and rewards of ownership, has transferred control of the asset to another party.
+
+Financial liabilities are derecongised only when the obligation specified in the contract is discharged, cancelled
+or expires.
+
+CRITIAL ACCOUNTING JUDGEMENTS AND KEY SOURCES OF ESTIMATION
+UNCERTAINTY
+
+In the application of the Company’s accounting policies, which are described in note |, the directors are
+required to make judgements, estimates and assumptions about the carrying amounts of assets and liabilities
+that are not readily apparent from other sources. The estimates and associated assumptions are based on
+historical experience and other factors that are considered to be relevant. Actual results may differ from these
+estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates
+are recognised in the period in which the estimate is revised if the revision affects only that period, or in the
+period of revision and future periods if the revision affects both current and future periods.
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+2 CRITIAL ACCOUNTING JUDGEMENTS AND KEY SOURCES OF ESTIMATION
+UNCERTAINTY (continued)
+
+Critical judgements in applying the Group’s accounting policies
+
+The following are the critical judgements, apart from those involving estimations (which are dealt with
+separately below), that the directors have made in the process of applying the company’s accounting policies
+and that have the most significant effect on the amounts recognised in the financial statements.
+
+Stock obsolescence
+
+The company provides a stock provision based upon the expiry date of the product batch as follows:
+Expiry < 6 months of balance sheet date 100% provision
+
+Expiry 7-9 months of balance sheet date 75% provision
+
+Bad debt provision
+
+Any debtor balance in excess of 90 days overdue is fully provided in the financial statements.
+
+Key source of estimation uncertainity — rebate provision
+
+Rebates are paid to vet practices once product has been purchased from a wholesaler. This can be 1-2 months
+after the initial sale by the company to the wholesaler. In order to recognise the future rebate payment on sales,
+an accrual is made each month based on the product range of sales to wholesalers. The accruals are reconciled
+each quarter against payments made.
+
+3 TURNOVER
+An analysis of the Company’s tuover by geographical markets is set out below:
+
+2024 2023
+£ £
+
+Turnover
+United Kingdom 52,366,369 46,127,216
+
+Rest of Europe
+
+52,366,369 46,127,216
+
+4 OPERATING PROFIT
+
+2024 2023
+
+Operating profit is after charging: £ £
+
+Depreciation on owned tangible fixed assets 55,209 52,848
+Fees paid to the company’s auditor in respect of the
+
+audit of the company’s annual accounts 34,682 21,646
+
+Operating lease rentals
+Land and buildings 64,264 64,400
+Other 265,874 206,098
+
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+5 FINANCE COSTS
+
+Interest receivable and similar income
+Less: Interest payable and similar charges
+
+6 INFORMATION REGARDING DIRECTORS AND EMPLOYEES
+
+Directors’ remuneration
+Emoluments
+Pension contributions
+
+Number of directors who were members of money
+purchase pension schemes
+
+Remuneration of highest paid director
+
+Emoluments
+
+Company contributions to money purchase pension
+scheme
+
+Average number of persons employed
+Administration
+Marketing and commercial
+
+Staff costs during the year (including directors)
+Wages and salaries
+
+Social security costs
+
+Pension contributions
+
+There are unpaid pension contributions as at 31 December 2024 £28,394 (2023: £23,834).
+
+2024
+£
+
+204,295
+(115,093)
+
+89,202
+
+2024
+£
+
+247,814
+15,564
+
+263,378
+
+No
+1
+
+£
+
+219,111
+15,564
+234,675
+
+No
+
+13
+38
+
+51
+
+£
+
+3,147,737
+348,775
+248,831
+
+3,745,343
+
+2023
+£
+
+202,676
+(25,551)
+
+177,125
+
+2023
+£
+
+229,941
+14,265
+
+244,206
+
+No
+
+190,996
+14,265
+
+205,621
+
+2,782,636
+357,128
+214,966
+
+3,354,730
+
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+7 TAX ON PROFIT ON ORDINARY ACTIVITIES
+
+2024 2023
+£ £
+
+Current tax
+United Kingdom corporation tax at 25.00% (2023: 23.52%) 1,556,190 1,302,214
+
+The tax assessed for the year differs from the standard rate of corporation tax in the UK of 25.00% (2023:
+23.52%). The difference is explained below:
+
+2024 2023
+£ £
+Profit on ordinary activities before tax 6,145,191 5,500,452
+Tax on profit on ordinary activities at standard rate 1,536,298 1,293,736
+Factors affecting charge for the year: |
+Expenses not deductible for tax purposes 16,978 24,166
+Movement in unrecognised deferred tax 2,914 (15,688)
+Total tax charge for the year 1,556,190 1,302,214
+
+Pillar Two of the Organisation for Economic Co-Operation and Development's (“OECD's”) Two Pillar Solution
+provides for the taxation of income of large groups at a minimum effective rate of 15% on a jurisdictional basis.
+
+The Company is a wholly-owned subsidiary of Virbac $.A., which is incorporated in France and is the ultimate parent
+undertaking for the Group. The Group is within scope of the OECD Pillar Two model rules.
+
+Pillar Two legislation received Royal Assent on 111 July 2023 in the United Kingdom and applies to accounting periods
+beginning on or after 31 December 2023. As the Group’s effective tax rate in the UK is above 15%, the Company
+does not suffer any additional Pillar two top-up taxes by the application of Pillar Two,
+
+The Company has applied the exception to recognising and disclosing information about deferred tax assets and
+liabilities related to Pillar Two income taxes, as provided in the amendments to Section 29 issued in July 2023.
+
+20
+
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+8 DIVIDENDS
+
+2024 2023
+£ £
+Amounts recognised as distributions to equity holders in the period;
+Final dividend paid during the year ended 31 December 2024 of
+£750 per ordinary share (2022: £1,500 per ordinary share) 1,500,000 3,000,000
+9 TANGIBLE FIXED ASSETS
+Leasehold Office Total
+improvements equipment
+£ £
+Cost
+At I January 2024 73,878 293,924 367,802
+Additions in year 1,582 43,240 44,822
+Disposals in year : - -
+At 31 December 2024 75,460 337,164 412,624
+Depreciation
+At | January 2024 22,722 227,458 250,180
+Charge for year 7470 47,739 55,209
+Disposals in year - - -
+At31 December 2024 30,192 275,197 305,389
+Net book value
+At 31 December 2024 45,268 61,967 107,235
+At 31 December 2023 51,156 66,466 117,622
+10 STOCKS
+2024 2023
+£ £
+Finished goods 12,425,284 12,834,448
+
+There is no material difference between the balance sheet value of stocks and their replacement cost.
+
+21
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+DEBTORS
+2024
+£
+Amounts falling due within one year:
+Trade debtors 9,975,153
+Amounts due from parent undertaking -
+Other debtors 19,658
+Prepayments 112,636
+Other taxes 138,240
+10,245,687
+Amounts due from parent undertakings are interest free and repayable on demand.
+CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2024
+£
+Trade creditors 963,401
+Amounts due to parent undertaking 6,174,066
+Amount due to fellow subsidiary undertakings 1,001,652
+Corporation tax payable -
+Other taxes and social security 793,580
+Other creditors 28,395
+Accruals and deferred income 3,585,692
+12,546,786
+
+Amounts due to fellow subsidiary undertakings are interest free and repayable on demand.
+
+CALLED UP SHARE CAPITAL AND RESERVES.
+
+2024
+£
+
+Called up, allotted and fully paid
+2,000 ordinary shares of £1 each 2,000
+
+The company’s other reserve is as follows:
+
+The profit and loss reserve represents cumulative profits or losses, net of dividends paid and other
+adjustments.
+
+2023
+
+15,399,029
+
+144,635
+51,231
+
+15,594,895
+
+2023
+
+1,383,364
+10,106,947
+911,965
+580
+942,971
+24,759
+9,077,350
+
+22,447,936
+
+22
+
+
+VIRBAC LIMITED
+
+NOTES TO THE FINANCIAL STATEMENTS (continued)
+Year ended 31 December 2024
+
+14 FINANCIAL COMMITMENTS
+Total future minimum lease payments under non-cancellable operating leases are as follows:
+
+Land and buildings Other
+2024 2023 2024 2023
+£ £ £ £
+Operating leases which expire:
+Within one year - : 12,140 10,756
+Within two to five years 32,200 37,567 475,472 498,273
+32,200 37,567 487,612 509,029
+
+15 RELATED PARTY TRANSACTIONS
+The company made stock purchases of £3,030,623 (2023: £2,962,007) during the year from Virbac Nutrition.
+Virbac SA own 99.99% of the share capital of Virbac Nutrition. The amount due to Virbac Nutrition at the
+year end was £968,215 (2023: £879,103)
+The company has taken the exemption available under FRS 102 Section 33 ‘Related Party Disclosures’ from
+disclosing transactions with fellow group companies in which Virbac SA owns 100% of their share capital.
+
+16 IMMEDIATE PARENT AND ULTIMATE CONTROLLING PARTY
+The company’s controlling party, immediate and ultimate parent company is Virbac S.A., a company
+incorporated in France and listed on the Paris Stock Exchange. The smallest and largest set of group financial
+statements that Virbac Limited is incorporated within is of Virbac S.A. Copies of the group financial statements
+of Virbac S.A. are available from 13 eme rue LID, BP27, 06511! Carros cedex, France.
+
+23
+
