@@ -1,7 +1,13 @@
 # Filing Text-Only Assessment Instructions
 
 ## Purpose
-This workflow processes companies from `data/company_rating_screening_findings.csv` (column `Company Name`), fetches the latest **non-dormant full accounts** filing from Companies House, OCR-extracts **all PDF pages using Tesseract**, saves one `.txt` file per company filing, and produces a consolidated assessment CSV.
+This workflow processes companies from `data/company_rating_screening_findings.csv` (column `Company Name`), fetches the latest **non-dormant full accounts** filing from Companies House, OCR-extracts **all PDF pages using Tesseract**, and saves one `.txt` file per company filing.
+
+The OCR stage is an extraction stage only. Its job is to turn Companies House filing PDFs into usable `.txt` files. It does **not** determine an official credit rating by itself.
+
+If an official credit rating is needed, it should only be treated as present when that rating is explicitly stated in the OCR-extracted `.txt` filing text. Otherwise, assume there is **no official credit rating information** in general.
+
+The extracted `.txt` files are then intended to be reviewed by AI. The user can run the workspace slash command `/rating` to ask the AI to extract the key financial values and ratios from a filing text and give a credit view based on those ratios. The slash command can be directed to a specific file in `data/filing_texts/` by passing a filename or path. That AI response is an interpretation of the filing text, not an official external credit rating unless the filing text explicitly states one.
 
 All existing CSV files remain untouched. This workflow writes a new CSV.
 
@@ -42,6 +48,16 @@ All existing CSV files remain untouched. This workflow writes a new CSV.
    - `ocr_runtime_sec`
    - `ocr_char_count`
 
+The output of this stage is the `.txt` filing text. Downstream interpretation of key ratios or credit quality should be done from the `.txt` file content, typically by prompting AI with `/rating`.
+
+## Official Credit Rating Rule
+
+- Do not assume a company has an official credit rating.
+- Do not infer an official credit rating from general financial strength alone.
+- Only record an official credit rating when the OCR-extracted `.txt` filing text explicitly states one.
+- If the `.txt` file does not explicitly mention an official rating, treat official credit rating status as `No information found`.
+- Ratio-based analysis can still be performed by AI from the `.txt` file even when no official rating is stated.
+
 ## Mandatory Questions and Answer Rules
 
 All questions must be answered for every company. If information is missing, answer exactly:
@@ -54,6 +70,8 @@ Question: Is the company investment grade (minimum BBB-) based on filing text on
 
 - Parse rating mentions from filing text only.
 - Do not use rating values from existing CSV columns.
+- Only treat an official rating as present if it is explicitly stated in the OCR-extracted `.txt` filing text.
+- Do not infer an official rating from ratios, profitability, leverage, or general narrative wording.
 - Answer:
   - `Yes` if rating is `>= BBB-`
   - `No` if rating is explicitly below `BBB-`
@@ -166,3 +184,23 @@ After running:
 2. Confirm all 5 mandatory question fields are populated (`Yes`, `No`, or `No information found`).
 3. Confirm `.txt` files are created in `data/filing_texts/` with correct naming.
 4. Confirm existing CSV files were not modified.
+5. Confirm any official credit rating reference in outputs is supported by explicit wording in the `.txt` file rather than inferred from ratios alone.
+
+## AI Review Workflow
+
+After OCR has produced `.txt` files, the user can ask AI to extract the financial inputs and calculate the key ratios used to support a credit view.
+
+Recommended workflow:
+
+1. Run the OCR workflow to create the `.txt` filing files.
+2. Open a filing text from `data/filing_texts/`.
+3. Run the slash command `/rating`, optionally followed by a specific filing text filename or path.
+4. Let the AI extract the relevant figures from the filing text, calculate the ratios, and explain whether the filing supports stronger or weaker credit quality.
+
+This AI step is for ratio extraction and interpretation. It should not be presented as an official credit rating unless the extracted filing text explicitly states an official rating.
+
+Examples:
+
+- `/rating data/filing_texts/company_name__2024__01234567.txt`
+- `/rating company_name__2024__01234567.txt`
+- `/rating show all calculations`

@@ -1,16 +1,12 @@
 import re
 import time
 import unicodedata
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+from datetime import date, datetime
 from typing import Dict, List, Optional, Tuple
 
-import fitz
-import numpy as np
-import pytesseract
-from PIL import Image
-
-from .filing_parser import extract_financials_from_text
-from .models import FilingCandidate
+from .filing_parser import extract_financials_from_text, extract_text_from_pdf_bytes_with_metadata
+from .models import FilingCandidate, FilingSelection, TextQualityAssessment
 from .ratings import assess_official_rating
 
 
@@ -20,6 +16,26 @@ class OCRResult:
     page_count: int
     runtime_sec: float
     engine: str = "tesseract-eng"
+    notes: List[str] = field(default_factory=list)
+
+
+@dataclass
+class FilingExtractionAttempt:
+    transaction_id: str
+    filing_date: str
+    filing_description: str
+    filing_confidence: str
+    txt_quality_status: str
+    txt_quality_score: float
+    reason_codes: List[str] = field(default_factory=list)
+
+
+@dataclass
+class FilingExtractionResult:
+    selection: FilingSelection
+    ocr: OCRResult
+    quality: TextQualityAssessment
+    attempts: List[FilingExtractionAttempt] = field(default_factory=list)
 
 
 def normalize_company_name(value: str) -> str:
@@ -32,26 +48,345 @@ def normalize_company_name(value: str) -> str:
 def select_latest_non_dormant_full_accounts(
     filings: List[FilingCandidate],
 ) -> Optional[FilingCandidate]:
-    preferred = []
-    fallback = []
-    for filing in filings:
-        description = (filing.description or "").lower()
-        if "dormant" in description or "micro" in description:
-            continue
-        if not filing.document_metadata_url:
-            continue
-        if "full" in description or "group" in description:
-            preferred.append(filing)
+    return select_accounts_filing_automated(filings).filing
+
+
+def _filing_type(description: str) -> str:
+    lowered = (description or "").lower()
+    if "full" in lowered and "group" in lowered:
+        return "full_group"
+    if "full" in lowered:
+        return "full"
+    if "group" in lowered:
+        return "group"
+    if any(token in lowered for token in ["small", "abridged", "filleted"]):
+        return "small_or_abridged"
+    if "dormant" in lowered:
+        return "dormant"
+    if "micro" in lowered:
+        return "micro"
+    return "other_accounts"
+
+
+def _likely_has_financial_information(description: str) -> bool:
+    lowered = (description or "").lower()
+    if any(token in lowered for token in ["dormant", "micro-entity", "micro entity"]):
+        return False
+    return any(
+        token in lowered
+        for token in [
+            "accounts",
+            "full",
+            "group",
+            "small",
+            "abridged",
+            "filleted",
+        ]
+    )
+
+
+def _filing_age_days(filing_date: str) -> Optional[int]:
+    if not filing_date:
+        return None
+    try:
+        return (date.today() - datetime.strptime(filing_date, "%Y-%m-%d").date()).days
+    except ValueError:
+        return None
+
+
+def select_accounts_filing_automated(filings: List[FilingCandidate]) -> FilingSelection:
+    ranked = rank_accounts_filings(filings)
+    if not ranked:
+        if not filings:
+            return FilingSelection(reason_codes=["no_accounts_filings"])
+        return FilingSelection(reason_codes=["no_document_metadata_url"])
+    return ranked[0]
+
+
+def rank_accounts_filings(filings: List[FilingCandidate]) -> List[FilingSelection]:
+    if not filings:
+        return []
+
+    candidates = [
+        filing
+        for filing in filings
+        if filing.document_metadata_url and _likely_has_financial_information(filing.description)
+    ]
+    if not candidates:
+        candidates = [filing for filing in filings if filing.document_metadata_url]
+    if not candidates:
+        return []
+
+    def score(filing: FilingCandidate) -> Tuple[int, str]:
+        filing_type = _filing_type(filing.description)
+        weight = 0
+        if filing_type == "full_group":
+            weight += 120
+        elif filing_type in {"full", "group"}:
+            weight += 100
+        elif filing_type == "small_or_abridged":
+            weight += 60
+        elif filing_type == "other_accounts":
+            weight += 40
+        elif filing_type == "micro":
+            weight += 10
+        elif filing_type == "dormant":
+            weight -= 20
+        age_days = _filing_age_days(filing.date)
+        if age_days is not None:
+            if age_days <= 550:
+                weight += 15
+            elif age_days <= 900:
+                weight += 5
+            else:
+                weight -= 10
+        return weight, filing.date or ""
+
+    ranked = sorted(candidates, key=score, reverse=True)
+    selections: List[FilingSelection] = []
+    for index, selected in enumerate(ranked):
+        filing_type = _filing_type(selected.description)
+        age_days = _filing_age_days(selected.date)
+        reason_codes: List[str] = []
+        fallback_used = index > 0 or filing_type not in {"full_group", "full", "group"}
+        if fallback_used:
+            reason_codes.append("filing_fallback_used")
+        if filing_type in {"dormant", "micro"}:
+            reason_codes.append(filing_type)
+        if age_days is not None and age_days > 900:
+            reason_codes.append("stale_filing")
+
+        if filing_type in {"full_group", "full", "group"} and (age_days is None or age_days <= 550):
+            confidence = "high"
+        elif filing_type in {"small_or_abridged", "other_accounts"} or (age_days is not None and age_days <= 900):
+            confidence = "medium"
         else:
-            fallback.append(filing)
-    if preferred:
-        return sorted(preferred, key=lambda filing: filing.date or "", reverse=True)[0]
-    if fallback:
-        return sorted(fallback, key=lambda filing: filing.date or "", reverse=True)[0]
-    return None
+            confidence = "low"
+
+        selections.append(
+            FilingSelection(
+                filing=selected,
+                confidence=confidence,
+                filing_type=filing_type,
+                reason_codes=reason_codes,
+                fallback_used=fallback_used,
+            )
+        )
+    return selections
+
+
+def assess_filing_text_quality(text: str) -> TextQualityAssessment:
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    lowered = text.lower()
+    char_count = len(text)
+    line_count = len(lines)
+    has_balance_sheet = any(
+        marker in lowered
+        for marker in ["balance sheet", "statement of financial position", "net assets"]
+    )
+    has_income_statement = any(
+        marker in lowered
+        for marker in [
+            "profit and loss",
+            "statement of comprehensive income",
+            "operating profit",
+            "turnover",
+            "revenue",
+        ]
+    )
+    has_cash_markers = any(marker in lowered for marker in ["cash at bank", "cash and cash equivalents", "cash balances"])
+    has_debt_markers = any(marker in lowered for marker in ["creditors", "borrowings", "bank loans", "debtors", "loan"])
+    limited_accounts = any(
+        marker in lowered
+        for marker in [
+            "profit & loss account has not been delivered",
+            "profit and loss account has not been delivered",
+            "filleted accounts",
+            "abridged accounts",
+        ]
+    )
+
+    score = 0.0
+    reason_codes: List[str] = []
+    if char_count >= 1000:
+        score += 0.30
+    elif char_count >= 300:
+        score += 0.15
+    else:
+        reason_codes.append("low_char_count")
+
+    if line_count >= 20:
+        score += 0.20
+    elif line_count >= 8:
+        score += 0.10
+    else:
+        reason_codes.append("low_line_count")
+
+    if has_balance_sheet:
+        score += 0.20
+    else:
+        reason_codes.append("missing_balance_sheet_marker")
+
+    if has_income_statement:
+        score += 0.20
+    elif not limited_accounts:
+        reason_codes.append("missing_income_statement_marker")
+
+    if has_cash_markers:
+        score += 0.05
+    if has_debt_markers:
+        score += 0.05
+    if limited_accounts:
+        score += 0.05
+        reason_codes.append("limited_accounts_text")
+
+    if score >= 0.65 and has_balance_sheet and (has_income_statement or limited_accounts):
+        status = "usable"
+    elif score >= 0.35 or limited_accounts:
+        status = "partial"
+    else:
+        status = "poor"
+
+    return TextQualityAssessment(
+        status=status,
+        score=round(score, 2),
+        char_count=char_count,
+        line_count=line_count,
+        has_balance_sheet=has_balance_sheet,
+        has_income_statement=has_income_statement,
+        has_cash_markers=has_cash_markers,
+        has_debt_markers=has_debt_markers,
+        limited_accounts=limited_accounts,
+        reason_codes=reason_codes,
+    )
+
+
+def _count_pdf_pages(pdf_bytes: bytes) -> int:
+    import fitz
+
+    with fitz.open(stream=pdf_bytes, filetype="pdf") as document:
+        return document.page_count
+
+
+def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OCRResult:
+    page_count = _count_pdf_pages(pdf_bytes)
+    extraction_notes: List[str] = []
+    native_text = ""
+    native_engine = ""
+    native_runtime = 0.0
+
+    try:
+        native_start = time.time()
+        native_text, native_engine, native_notes = extract_text_from_pdf_bytes_with_metadata(pdf_bytes)
+        native_runtime = time.time() - native_start
+        extraction_notes.extend(native_notes)
+        native_quality = assess_filing_text_quality(native_text)
+    except Exception as exc:
+        native_quality = TextQualityAssessment(status="poor", reason_codes=[f"native_extract_failed:{exc}"])
+        extraction_notes.append(f"native_extract_failed:{exc}")
+
+    if native_quality.status == "usable":
+        extraction_notes.append(f"selected_engine:{native_engine}")
+        return OCRResult(
+            text=native_text,
+            page_count=page_count,
+            runtime_sec=native_runtime,
+            engine=native_engine,
+            notes=extraction_notes,
+        )
+
+    ocr = ocr_all_pdf_pages_with_tesseract(pdf_bytes, page_timeout_sec=page_timeout_sec)
+    ocr_quality = assess_filing_text_quality(ocr.text)
+
+    native_rank = {"poor": 0, "partial": 1, "usable": 2}[native_quality.status]
+    ocr_rank = {"poor": 0, "partial": 1, "usable": 2}[ocr_quality.status]
+    if (ocr_rank, ocr_quality.score, len(ocr.text)) >= (native_rank, native_quality.score, len(native_text)):
+        ocr.notes = extraction_notes + [f"selected_engine:{ocr.engine}"]
+        return ocr
+
+    extraction_notes.append(f"selected_engine:{native_engine}")
+    return OCRResult(
+        text=native_text,
+        page_count=page_count,
+        runtime_sec=native_runtime,
+        engine=native_engine,
+        notes=extraction_notes,
+    )
+
+
+def select_and_extract_best_filing_text(
+    filings: List[FilingCandidate],
+    api_key: str,
+    page_timeout_sec: int = 90,
+    max_attempts: int = 5,
+) -> Optional[FilingExtractionResult]:
+    from .companies_house import download_document_pdf_content
+
+    ranked = rank_accounts_filings(filings)
+    if not ranked:
+        return None
+
+    attempts: List[FilingExtractionAttempt] = []
+    fallback_result: Optional[FilingExtractionResult] = None
+    best_partial_result: Optional[FilingExtractionResult] = None
+    capped_ranked = ranked[: max(1, min(max_attempts, 5))]
+
+    for index, selection in enumerate(capped_ranked):
+        if selection.filing is None:
+            continue
+        pdf_bytes = download_document_pdf_content(selection.filing.document_metadata_url, api_key)
+        if not pdf_bytes:
+            attempts.append(
+                FilingExtractionAttempt(
+                    transaction_id=selection.filing.transaction_id,
+                    filing_date=selection.filing.date,
+                    filing_description=selection.filing.description,
+                    filing_confidence=selection.confidence,
+                    txt_quality_status="poor",
+                    txt_quality_score=0.0,
+                    reason_codes=list(selection.reason_codes) + ["pdf_unavailable"],
+                )
+            )
+            continue
+
+        ocr = extract_best_filing_text(pdf_bytes, page_timeout_sec=page_timeout_sec)
+        quality = assess_filing_text_quality(ocr.text)
+        reason_codes = list(selection.reason_codes)
+        if index > 0:
+            reason_codes.append("retried_next_best_filing")
+        attempt = FilingExtractionAttempt(
+            transaction_id=selection.filing.transaction_id,
+            filing_date=selection.filing.date,
+            filing_description=selection.filing.description,
+            filing_confidence=selection.confidence,
+            txt_quality_status=quality.status,
+            txt_quality_score=quality.score,
+            reason_codes=reason_codes + list(quality.reason_codes),
+        )
+        attempts.append(attempt)
+
+        result = FilingExtractionResult(
+            selection=selection,
+            ocr=ocr,
+            quality=quality,
+            attempts=list(attempts),
+        )
+        if quality.status == "usable":
+            return result
+        if quality.status == "partial" and best_partial_result is None:
+            best_partial_result = result
+        if fallback_result is None:
+            fallback_result = result
+
+    return best_partial_result or fallback_result
 
 
 def ocr_all_pdf_pages_with_tesseract(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OCRResult:
+    import fitz
+    import numpy as np
+    import pytesseract
+    from PIL import Image
+
     start = time.time()
     lines = []
     page_count = 0

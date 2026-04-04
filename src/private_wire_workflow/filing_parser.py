@@ -4,12 +4,6 @@ import re
 import time
 from typing import List, Optional, Tuple
 
-import fitz
-import numpy as np
-import pdfplumber
-from pypdf import PdfReader
-from rapidocr_onnxruntime import RapidOCR
-
 from .models import FilingFinancials
 
 
@@ -263,6 +257,8 @@ def extract_financials_from_text(text: str, source_format: str = "text") -> Fili
 
 
 def _extract_with_pypdf(pdf_bytes: bytes) -> str:
+    from pypdf import PdfReader
+
     reader = PdfReader(io.BytesIO(pdf_bytes))
     parts = []
     for page in reader.pages:
@@ -274,6 +270,8 @@ def _extract_with_pypdf(pdf_bytes: bytes) -> str:
 
 
 def _extract_with_pymupdf(pdf_bytes: bytes) -> str:
+    import fitz
+
     parts = []
     with fitz.open(stream=pdf_bytes, filetype="pdf") as document:
         for page in document:
@@ -282,6 +280,8 @@ def _extract_with_pymupdf(pdf_bytes: bytes) -> str:
 
 
 def _extract_with_pdfplumber(pdf_bytes: bytes) -> str:
+    import pdfplumber
+
     parts = []
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as document:
         for page in document.pages:
@@ -290,6 +290,8 @@ def _extract_with_pdfplumber(pdf_bytes: bytes) -> str:
 
 
 def _get_ocr_engine():
+    from rapidocr_onnxruntime import RapidOCR
+
     global _OCR_ENGINE
     if _OCR_ENGINE is None:
         _OCR_ENGINE = RapidOCR()
@@ -297,6 +299,9 @@ def _get_ocr_engine():
 
 
 def _extract_with_rapidocr(pdf_bytes: bytes) -> str:
+    import fitz
+    import numpy as np
+
     engine = _get_ocr_engine()
     all_lines = []
     start = time.time()

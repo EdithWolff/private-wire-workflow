@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from private_wire_workflow.companies_house import _score_candidate, get_api_key
+from private_wire_workflow.companies_house import _query_variants, _score_candidate, get_api_key
 
 
 class CompaniesHouseTests(unittest.TestCase):
@@ -27,6 +27,12 @@ class CompaniesHouseTests(unittest.TestCase):
         finally:
             if original is not None:
                 os.environ["COMPANIES_HOUSE_API_KEY"] = original
+
+    def test_query_variants_include_normalized_and_reduced_forms(self):
+        variants = _query_variants("A.B. Example Holdings & Services Limited")
+        self.assertIn("A.B. Example Holdings and Services Limited", variants)
+        self.assertIn("ab example holdings services limited", variants)
+        self.assertTrue(any("example" in variant for variant in variants))
 
 
 if __name__ == "__main__":
