@@ -1,7 +1,9 @@
 import unittest
+from unittest.mock import patch
 
 from private_wire_workflow.filing_text_assessment import (
     assess_electricity_consumption,
+    assess_filing_text_quality,
     assess_investment_grade_from_filing_text,
     assess_previous_ppa,
     assess_ratio_thresholds,
@@ -9,6 +11,8 @@ from private_wire_workflow.filing_text_assessment import (
     build_no_information_flags,
     compute_ratio_assessment_from_text,
     normalize_company_name,
+    select_accounts_filing_automated,
+    select_and_extract_best_filing_text,
     select_latest_non_dormant_full_accounts,
 )
 from private_wire_workflow.models import FilingCandidate
@@ -110,6 +114,136 @@ class FilingTextAssessmentTests(unittest.TestCase):
             "Yes",
         )
         self.assertEqual(assess_previous_ppa("No statement about procurement."), "No information found")
+
+    def test_select_accounts_filing_automated_falls_back_when_needed(self):
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-small",
+                description_values={},
+                date="2025-06-01",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+            FilingCandidate(
+                transaction_id="2",
+                category="accounts",
+                description="accounts-with-accounts-type-dormant",
+                description_values={},
+                date="2025-07-01",
+                type="AA",
+                document_metadata_url="doc2",
+            ),
+        ]
+        selection = select_accounts_filing_automated(filings)
+        self.assertIsNotNone(selection.filing)
+        self.assertEqual(selection.filing.transaction_id, "1")
+        self.assertEqual(selection.filing_type, "small_or_abridged")
+
+    def test_assess_filing_text_quality_detects_partial_limited_accounts(self):
+        text = """
+        Balance sheet
+        Creditors
+        Cash at bank
+        In accordance with Section 444 of the Companies Act 2006, the Profit & Loss Account has not been delivered.
+        """
+        quality = assess_filing_text_quality(text)
+        self.assertEqual(quality.status, "partial")
+        self.assertTrue(quality.limited_accounts)
+
+    def test_assess_filing_text_quality_detects_usable_statement(self):
+        text = "\n".join(
+            [
+                "Balance sheet",
+                "Statement of comprehensive income",
+                "Turnover 1000",
+                "Operating profit 200",
+                "Cash at bank and in hand 80",
+                "Creditors 300",
+            ]
+            + [f"Line {index}" for index in range(30)]
+        )
+        quality = assess_filing_text_quality(text)
+        self.assertEqual(quality.status, "usable")
+
+    @patch("private_wire_workflow.filing_text_assessment.extract_best_filing_text")
+    @patch("private_wire_workflow.companies_house.download_document_pdf_content")
+    def test_select_and_extract_best_filing_text_retries_next_best_filing(self, mock_download, mock_extract):
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-full",
+                description_values={},
+                date="2025-06-01",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+            FilingCandidate(
+                transaction_id="2",
+                category="accounts",
+                description="accounts-with-accounts-type-small",
+                description_values={},
+                date="2025-07-01",
+                type="AA",
+                document_metadata_url="doc2",
+            ),
+        ]
+        mock_download.side_effect = [b"pdf1", b"pdf2"]
+        mock_extract.side_effect = [
+            type("Result", (), {"text": "noise", "page_count": 1, "runtime_sec": 0.1, "engine": "native", "notes": []})(),
+            type(
+                "Result",
+                (),
+                {
+                    "text": "\n".join([
+                        "Balance sheet",
+                        "Profit and loss",
+                        "Turnover 1000",
+                        "Cash at bank 20",
+                        "Creditors 50",
+                    ] + [f"Line {index}" for index in range(30)]),
+                    "page_count": 2,
+                    "runtime_sec": 0.2,
+                    "engine": "native",
+                    "notes": [],
+                },
+            )(),
+        ]
+        result = select_and_extract_best_filing_text(filings, api_key="dummy", max_attempts=2)
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.selection.filing.transaction_id, "2")
+        self.assertEqual(result.quality.status, "usable")
+        self.assertEqual(len(result.attempts), 2)
+        self.assertEqual(result.attempts[0].txt_quality_status, "poor")
+        self.assertEqual(result.attempts[1].txt_quality_status, "usable")
+
+    def test_rank_accounts_filings_prefers_financial_information_candidates(self):
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-dormant",
+                description_values={},
+                date="2025-06-01",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+            FilingCandidate(
+                transaction_id="2",
+                category="accounts",
+                description="accounts-with-accounts-type-full",
+                description_values={},
+                date="2025-05-01",
+                type="AA",
+                document_metadata_url="doc2",
+            ),
+        ]
+        ranked = select_accounts_filing_automated(filings)
+        self.assertIsNotNone(ranked.filing)
+        self.assertEqual(ranked.filing.transaction_id, "2")
 
     def test_no_information_flags(self):
         metrics = {

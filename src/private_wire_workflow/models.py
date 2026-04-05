@@ -77,6 +77,29 @@ class FilingCandidate:
 
 
 @dataclass
+class FilingSelection:
+    filing: Optional[FilingCandidate] = None
+    confidence: str = "none"
+    filing_type: str = ""
+    reason_codes: List[str] = field(default_factory=list)
+    fallback_used: bool = False
+
+
+@dataclass
+class TextQualityAssessment:
+    status: str = "poor"
+    score: float = 0.0
+    char_count: int = 0
+    line_count: int = 0
+    has_balance_sheet: bool = False
+    has_income_statement: bool = False
+    has_cash_markers: bool = False
+    has_debt_markers: bool = False
+    limited_accounts: bool = False
+    reason_codes: List[str] = field(default_factory=list)
+
+
+@dataclass
 class FilingFinancials:
     turnover: Optional[float] = None
     ebitda: Optional[float] = None

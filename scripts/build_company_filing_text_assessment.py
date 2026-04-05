@@ -3,13 +3,13 @@ import csv
 from pathlib import Path
 
 from private_wire_workflow.companies_house import (
-    download_document_pdf_content,
     find_best_match,
     get_api_key,
     list_accounts_filings,
 )
 from private_wire_workflow.filing_text_assessment import (
     assess_electricity_consumption,
+    assess_filing_text_quality,
     assess_investment_grade_from_filing_text,
     assess_previous_ppa,
     assess_ratio_thresholds,
@@ -18,14 +18,14 @@ from private_wire_workflow.filing_text_assessment import (
     build_no_information_flags,
     compute_ratio_assessment_from_text,
     normalize_company_name,
-    ocr_all_pdf_pages_with_tesseract,
-    select_latest_non_dormant_full_accounts,
+    select_and_extract_best_filing_text,
 )
 
 
-INPUT_PATH = Path("/Users/ssebl/Documents/New project/data/company_rating_screening_findings.csv")
-TXT_DIR = Path("/Users/ssebl/Documents/New project/data/filing_texts")
-OUTPUT_PATH = Path("/Users/ssebl/Documents/New project/data/company_filing_text_assessment.csv")
+BASE_DIR = Path(__file__).resolve().parents[1]
+INPUT_PATH = BASE_DIR / "data" / "company_rating_screening_findings.csv"
+TXT_DIR = BASE_DIR / "data" / "filing_texts"
+OUTPUT_PATH = BASE_DIR / "data" / "company_filing_text_assessment.csv"
 
 
 def _empty_assessment_row(company_name: str, notes: str) -> dict:
@@ -33,13 +33,23 @@ def _empty_assessment_row(company_name: str, notes: str) -> dict:
         "company_name": company_name,
         "matched_entity_name": "",
         "company_number": "",
+        "entity_match_score": "",
+        "entity_confidence": "",
+        "matched_query": "",
+        "runner_up_score": "",
         "filing_date": "",
         "filing_description": "",
+        "filing_confidence": "",
+        "filing_type": "",
+        "filing_attempts": "",
         "txt_file_path": "",
         "page_count": "",
         "ocr_engine": "",
         "ocr_runtime_sec": "",
         "ocr_char_count": "",
+        "txt_quality_status": "poor",
+        "txt_quality_score": "",
+        "txt_quality_flags": "",
         "turnover": "",
         "ebitda": "",
         "interest_expense": "",
@@ -68,13 +78,23 @@ def run(limit: int = 0) -> Path:
         "company_name",
         "matched_entity_name",
         "company_number",
+        "entity_match_score",
+        "entity_confidence",
+        "matched_query",
+        "runner_up_score",
         "filing_date",
         "filing_description",
+        "filing_confidence",
+        "filing_type",
+        "filing_attempts",
         "txt_file_path",
         "page_count",
         "ocr_engine",
         "ocr_runtime_sec",
         "ocr_char_count",
+        "txt_quality_status",
+        "txt_quality_score",
+        "txt_quality_flags",
         "turnover",
         "ebitda",
         "interest_expense",
@@ -119,35 +139,27 @@ def run(limit: int = 0) -> Path:
                 continue
 
             filings = list_accounts_filings(match.company_number, api_key)
-            filing = select_latest_non_dormant_full_accounts(filings)
-            if not filing:
+            extraction = select_and_extract_best_filing_text(filings, api_key, max_attempts=5)
+            if not extraction or not extraction.selection.filing:
                 writer.writerow(
                     _empty_assessment_row(
                         company_name,
-                        "No latest non-dormant full accounts filing found.",
+                        "No qualifying accounts filing found.",
                     )
                 )
                 processed += 1
                 continue
+            selection = extraction.selection
+            filing = selection.filing
 
-            pdf_bytes = download_document_pdf_content(filing.document_metadata_url, api_key)
-            if not pdf_bytes:
-                writer.writerow(
-                    _empty_assessment_row(
-                        company_name,
-                        "PDF content unavailable for selected filing.",
-                    )
-                )
-                processed += 1
-                continue
-
-            ocr = ocr_all_pdf_pages_with_tesseract(pdf_bytes)
+            ocr = extraction.ocr
             filing_year = (filing.date or "unknown")[:4]
             txt_filename = (
                 f"{normalize_company_name(company_name)}__{filing_year}__{match.company_number}.txt"
             )
             txt_path = TXT_DIR / txt_filename
             txt_path.write_text(ocr.text, encoding="utf-8")
+            quality = extraction.quality
 
             q1, q1_note = assess_investment_grade_from_filing_text(ocr.text)
             metrics = compute_ratio_assessment_from_text(ocr.text)
@@ -158,20 +170,40 @@ def run(limit: int = 0) -> Path:
 
             evidence = build_evidence_snippets(ocr.text)
             flags = build_no_information_flags(q1, q2, q3, q4, q5, metrics)
-            notes = q1_note or "Assessment based on OCR text from latest non-dormant full accounts filing."
+            notes_parts = [
+                q1_note or "",
+                f"entity_confidence={match.confidence_tier}",
+                f"filing_confidence={selection.confidence}",
+                f"txt_quality={quality.status}",
+            ]
+            if selection.reason_codes:
+                notes_parts.append("filing_flags=" + ",".join(selection.reason_codes))
+            if quality.reason_codes:
+                notes_parts.append("txt_flags=" + ",".join(quality.reason_codes))
+            notes = " | ".join(part for part in notes_parts if part)
 
             writer.writerow(
                 {
                     "company_name": company_name,
                     "matched_entity_name": match.company_name,
                     "company_number": match.company_number,
+                    "entity_match_score": round(match.query_score, 3),
+                    "entity_confidence": match.confidence_tier,
+                    "matched_query": match.matched_query,
+                    "runner_up_score": round(match.runner_up_score, 3) if match.runner_up_score else "",
                     "filing_date": filing.date,
                     "filing_description": filing.description,
+                    "filing_confidence": selection.confidence,
+                    "filing_type": selection.filing_type,
+                    "filing_attempts": len(extraction.attempts),
                     "txt_file_path": str(txt_path),
                     "page_count": ocr.page_count,
                     "ocr_engine": ocr.engine,
                     "ocr_runtime_sec": round(ocr.runtime_sec, 2),
                     "ocr_char_count": len(ocr.text),
+                    "txt_quality_status": quality.status,
+                    "txt_quality_score": quality.score,
+                    "txt_quality_flags": ";".join(quality.reason_codes),
                     "turnover": metrics["turnover"],
                     "ebitda": metrics["ebitda"],
                     "interest_expense": metrics["interest_expense"],

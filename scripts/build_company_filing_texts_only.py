@@ -3,20 +3,20 @@ import csv
 from pathlib import Path
 
 from private_wire_workflow.companies_house import (
-    download_document_pdf_content,
     find_best_match,
     get_api_key,
     list_accounts_filings,
 )
 from private_wire_workflow.filing_text_assessment import (
+    assess_filing_text_quality,
     normalize_company_name,
-    ocr_all_pdf_pages_with_tesseract,
-    select_latest_non_dormant_full_accounts,
+    select_and_extract_best_filing_text,
 )
 
 
-INPUT_PATH = Path("/Users/ssebl/Documents/New project/data/company_rating_screening_findings.csv")
-TXT_DIR = Path("/Users/ssebl/Documents/New project/data/filing_texts")
+BASE_DIR = Path(__file__).resolve().parents[1]
+INPUT_PATH = BASE_DIR / "data" / "company_rating_screening_findings.csv"
+TXT_DIR = BASE_DIR / "data" / "filing_texts"
 
 
 def run(limit: int = 0, ocr_page_timeout_sec: int = 30) -> int:
@@ -43,11 +43,18 @@ def run(limit: int = 0, ocr_page_timeout_sec: int = 30) -> int:
                     continue
 
                 filings = list_accounts_filings(match.company_number, api_key)
-                filing = select_latest_non_dormant_full_accounts(filings)
-                if not filing:
+                extraction = select_and_extract_best_filing_text(
+                    filings,
+                    api_key,
+                    page_timeout_sec=ocr_page_timeout_sec,
+                    max_attempts=5,
+                )
+                if not extraction or not extraction.selection.filing:
                     processed += 1
-                    print(f"[{processed}] {company_name}: no qualifying full non-dormant filing", flush=True)
+                    print(f"[{processed}] {company_name}: no qualifying filing", flush=True)
                     continue
+                selection = extraction.selection
+                filing = selection.filing
 
                 filing_year = (filing.date or "unknown")[:4]
                 txt_filename = (
@@ -59,27 +66,19 @@ def run(limit: int = 0, ocr_page_timeout_sec: int = 30) -> int:
                     print(f"[{processed}] {company_name}: already exists", flush=True)
                     continue
 
-                pdf_bytes = download_document_pdf_content(filing.document_metadata_url, api_key)
-                if not pdf_bytes:
-                    processed += 1
-                    print(f"[{processed}] {company_name}: pdf unavailable", flush=True)
-                    continue
-
                 print(
-                    f"[{processed + 1}] {company_name}: running OCR "
+                    f"[{processed + 1}] {company_name}: extracting text "
                     f"(page-timeout={ocr_page_timeout_sec}s)",
                     flush=True,
                 )
-                ocr = ocr_all_pdf_pages_with_tesseract(
-                    pdf_bytes,
-                    page_timeout_sec=ocr_page_timeout_sec,
-                )
+                ocr = extraction.ocr
                 txt_path.write_text(ocr.text, encoding="utf-8")
+                quality = extraction.quality
                 created += 1
                 processed += 1
                 print(
                     f"[{processed}] {company_name}: saved {txt_filename} "
-                    f"(pages={ocr.page_count}, chars={len(ocr.text)})"
+                    f"(match={match.confidence_tier}, filing={selection.confidence}, quality={quality.status}, attempts={len(extraction.attempts)}, engine={ocr.engine}, pages={ocr.page_count}, chars={len(ocr.text)})"
                     ,
                     flush=True,
                 )

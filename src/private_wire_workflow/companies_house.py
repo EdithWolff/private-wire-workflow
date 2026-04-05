@@ -28,6 +28,11 @@ class CompanyMatch:
     accounts_last_made_up_to: str
     query_score: float
     source_url: str
+    matched_query: str = ""
+    confidence_tier: str = "low"
+    score_gap: float = 0.0
+    runner_up_company_number: str = ""
+    runner_up_score: float = 0.0
 
 
 def _build_request(path: str, api_key: str) -> urllib.request.Request:
@@ -78,7 +83,25 @@ def _query_variants(company_name: str) -> List[str]:
         variants.append(stripped)
     if "&" in base:
         variants.append(base.replace("&", "and"))
+    normalized = " ".join(_normalize_name(base).split())
+    if normalized and normalized not in variants:
+        variants.append(normalized)
+    reduced_tokens = [
+        token
+        for token in stripped.split()
+        if token not in {"group", "holdings", "holding", "services"}
+    ]
+    if len(reduced_tokens) > 4:
+        variants.append(" ".join(reduced_tokens[:4]))
     return list(dict.fromkeys([v for v in variants if v]))
+
+
+def _confidence_tier(score: float, score_gap: float, status: str) -> str:
+    if status == "active" and score >= 0.93 and score_gap >= 0.05:
+        return "high"
+    if score >= 0.82 and score_gap >= 0.02:
+        return "medium"
+    return "low"
 
 
 def _score_candidate(query: str, item: Dict) -> float:
@@ -259,24 +282,27 @@ def download_document_pdf_content(document_metadata_url: str, api_key: str) -> b
 
 
 def find_best_match(company_name: str, api_key: str) -> Optional[CompanyMatch]:
-    best_item = None
-    best_score = -1.0
-    best_query = company_name
-
+    ranked_candidates: Dict[str, Tuple[float, Dict, str]] = {}
     for variant in _query_variants(company_name):
-        items = search_companies(variant, api_key)
+        items = search_companies(variant, api_key, items_per_page=20)
         if not items:
             continue
-        ranked = sorted(items, key=lambda item: _score_candidate(variant, item), reverse=True)
-        candidate = ranked[0]
-        score = _score_candidate(variant, candidate)
-        if score > best_score:
-            best_score = score
-            best_item = candidate
-            best_query = variant
+        for item in items:
+            company_number = item.get("company_number")
+            if not company_number:
+                continue
+            score = _score_candidate(variant, item)
+            existing = ranked_candidates.get(company_number)
+            if existing is None or score > existing[0]:
+                ranked_candidates[company_number] = (score, item, variant)
 
-    if not best_item:
+    if not ranked_candidates:
         return None
+
+    ranked = sorted(ranked_candidates.values(), key=lambda entry: entry[0], reverse=True)
+    best_score, best_item, best_query = ranked[0]
+    runner_up_score = ranked[1][0] if len(ranked) > 1 else 0.0
+    runner_up_number = ranked[1][1].get("company_number", "") if len(ranked) > 1 else ""
 
     strict_threshold = 0.78
     fallback_threshold = 0.72
@@ -300,6 +326,11 @@ def find_best_match(company_name: str, api_key: str) -> Optional[CompanyMatch]:
         accounts_last_made_up_to=last_accounts.get("made_up_to", ""),
         query_score=best_score,
         source_url=f"{API_BASE_URL}/company/{best_item['company_number']}",
+        matched_query=best_query,
+        confidence_tier=_confidence_tier(best_score, best_score - runner_up_score, profile.get("company_status", "")),
+        score_gap=best_score - runner_up_score,
+        runner_up_company_number=runner_up_number,
+        runner_up_score=runner_up_score,
     )
 
 
