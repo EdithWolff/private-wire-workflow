@@ -15,8 +15,9 @@ from private_wire_workflow.filing_text_assessment import (
 )
 
 
-INPUT_PATH = Path("/Users/ssebl/Documents/New project/data/plastic_company_names.txt")
-OUTPUT_DIR = Path("/Users/ssebl/Desktop/private_wire_outputs/filing_texts/plastic")
+BASE_DIR = Path(__file__).resolve().parents[1]
+INPUT_PATH = BASE_DIR / "data" / "inputs" / "plastic_company_names.txt"
+OUTPUT_DIR = BASE_DIR / "data" / "filing_texts" / "plastic"
 
 # A few names benefit from a simpler fallback if the literal search query does not resolve.
 SEARCH_ALIASES = {

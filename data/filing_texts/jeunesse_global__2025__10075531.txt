@@ -1,0 +1,250 @@
+Company registration number: 10075531
+
+Jeunesse Ltd
+Unaudited Filleted Financial Statements for the
+year ended
+31 March 2025
+
+Jeunesse Ltd
+
+Chartered accountant's report to the board of directors on the
+preparation of the unaudited statutory financial statements of
+Jeunesse Ltd
+
+Year ended 31 March 2025
+
+In order to assist you to fulfil your duties under the Companies Act 2006, | have
+prepared for your approval the financial statements of Jeunesse Ltd for the year
+ended 31 March 2025 which comprise the income statement, statement of financial
+position and related notes from the company’s accounting records and from
+information and explanations you have given me.
+
+As a practising member of the Institute of Chartered Accountants in England and
+Wales (ICAEW), | am subject to its ethical and other professional requirements which
+are detailed at icaew.com/regulations.
+
+This report is made solely to the Board of Directors of Jeunesse Ltd, as a body, in
+accordance with the terms of my engagement letter dated 6 February 2025. My work
+has been undertaken solely to prepare for your approval the financial statements of
+Jeunesse Ltd and state those matters that | have agreed to state to the Board of
+Directors of Jeunesse Ltd, as a body, in this report in accordance with ICAEW
+Technical Release 07/16 AAF. To the fullest extent permitted by law, | do not accept
+or assume responsibility to anyone other than Jeunesse Ltd and its Board of
+Directors, as a body, for my work or for this report.
+
+It is your duty to ensure that Jeunesse Ltd has kept adequate accounting records and
+to prepare statutory financial statements that give a true and fair view of the assets,
+liabilities, financial position and profit of Jeunesse Ltd. You consider that Jeunesse
+Ltd is exempt from the statutory audit requirement for the year.
+
+| have not been instructed to carry out an audit or a review of the financial statements
+of Jeunesse Ltd. For this reason, | have not verified the accuracy or completeness of
+the accounting records or information and explanations you have given to me and |
+do not, therefore, express any opinion on the statutory financial statements.
+
+Crown & Co Accountants Limited
+
+Singleton Court Business Park
+Wonastow Road
+
+Monmouth
+
+Monmouthshire
+
+NP25 5JA
+
+United Kingdom
+
+Date: 27 June 2025
+
+Jeunesse Ltd
+Statement of Financial Position
+
+31 March 2025
+
+2025 2024
+Note £ £
+FIXED ASSETS
+Tangible assets 5 4,587 5,957
+CURRENT ASSETS
+Stocks 710 675
+Cash at bank and in hand 9,655 7,620
+10,365 8,295
+Creditors: amounts falling due within one year 6 (3,111) (5,225)
+Net current assets 7,254 3,070
+Total assets less current liabilities 11,841 9,027
+CAPITAL AND RESERVES
+Called up share capital 1 1
+Profit and loss account 11,840 9,026
+Shareholders funds 44841.—«9,027 |
+
+For the year ending 31 March 2025, the company was entitled to exemption from
+audit under section 477 of the Companies Act 2006 relating to small companies.
+
+Directors’ responsibilities:
+
+© The members have not required the company to obtain an audit of its financial
+statements for the year in question in accordance with section 476;
+
+® The directors acknowledge their responsibilities for complying with the
+requirements of the Act with respect to accounting records and the preparation of
+financial statements.
+
+These financial statements have been prepared and delivered in accordance with the
+provisions applicable to companies subject to the small companies’ regime.
+
+In accordance with Section 444 of the Companies Act 2006, the income statement
+has not been delivered.
+
+These financial statements were approved by the board of directors and authorised
+
+for issue on 27 June 2025, and are signed on behalf of the board by:
+
+J Mcneil
+
+Director
+
+Company registration number: 10075531
+
+Jeunesse Ltd
+Notes to the Financial Statements
+
+Year ended 31 March 2025
+
+1 GENERAL INFORMATION
+
+The company is a private company limited by shares and is registered in England
+and Wales. The address of the registered office is Mosaic House Beachley Road,
+Tutshill, Chepstow, Gwent, NP16 7EG, Wales.
+
+2 STATEMENT OF COMPLIANCE
+
+These financial statements have been prepared in compliance with FRS 102 Section
+1A, 'The Financial Reporting Standard applicable to the UK and Republic of Ireland’.
+
+3 ACCOUNTING POLICIES
+BASIS OF PREPARATION
+
+The financial statements have been prepared on the historical cost basis, as modified
+by the revaluation of certain assets.
+
+The financial statements are prepared in sterling, which is the functional currency of
+the company.
+
+TURNOVER
+
+Turnover is measured at the fair value of the consideration received or receivable for
+goods supplied, net of discounts and Value Added Tax.
+
+Revenue from the sale of goods is recognised when the significant risks and rewards
+of ownership have transferred to the buyer, usually on despatch of the goods; the
+amount of revenue can be measured reliably; it is probable that the associated
+economic benefits will flow to the entity; and the costs incurred or to be incurred in
+respect of the transactions can be measured reliably.
+
+CURRENT TAX
+
+Current tax is recognised on taxable profit for the current and past periods. Current
+tax is measured at the amounts of tax expected to pay or recover using the tax rates
+and laws that have been enacted or substantively enacted at the reporting date.
+
+TANGIBLE ASSETS
+
+Tangible assets are initially measured at cost, and are subsequently measured at
+cost less any accumulated depreciation and accumulated impairment losses or at a
+revalued amount.
+
+Any tangible assets carried at a revalued amount are recorded at the fair value at the
+date of revaluation less any subsequent accumulated depreciation and subsequent
+
+accumulated impairment losses.
+
+An increase in the carrying amount of an asset as a result of a revaluation is
+recognised in other comprehensive income and accumulated in capital and reserves.
+However, the increase is recognised in profit or loss to the extent that it reverses a
+revaluation decrease of the same asset previously recognised in profit or loss. A
+decrease in the carrying amount of an asset as a result of revaluation is recognised
+in other comprehensive income to the extent of any previously recognised revaluation
+increase accumulated in capital and reserves. If a revaluation decrease exceeds the
+accumulated revaluation gains accumulated in capital and reserves in respect of that
+asset, the excess is recognised in profit or loss.
+
+IMPAIRMENT
+
+A review for indicators of impairment is carried out at each reporting date, with the
+recoverable amount being estimated where such indicators exist. Where the carrying
+value exceeds the recoverable amount, the asset is impaired accordingly. Prior
+impairments are also reviewed for possible reversal at each reporting date.
+
+STOCKS
+
+Stocks are measured at the lower of cost and estimated selling price less costs to
+complete and sell. Cost includes all costs of purchase, costs of conversion and other
+costs incurred in bringing the stocks to their present location and condition.
+
+FINANCIAL INSTRUMENTS
+
+A financial asset or a financial liability is recognised only when the entity becomes a
+party to the contractual provisions of the instrument.
+
+Basic financial instruments are initially recognised at the transaction price and are
+subsequently measured as follows: Debt instruments are subsequently measured at
+amortised cost and commitments to receive a loan and to make a loan to another
+entity are subsequently measured at amortised cost. Where investments in
+non-convertible preference shares and non-puttable ordinary shares or preference
+shares are publicly traded or their fair value can otherwise be measured reliably, the
+investment is subsequently measured at fair value with changes in fair value
+recognised in profit or loss. All other such investments are subsequently measured at
+cost less impairment.
+
+All other financial instruments, including derivatives, are initially recognised at fair
+value, which is normally the transaction price and are subsequently measured at fair
+value, with any changes recognised in profit or loss.
+
+Financial assets that are measured at cost or amortised cost are reviewed for
+objective evidence of impairment at the end of each reporting date. If there is
+objective evidence of impairment, an impairment loss is recognised in profit or loss
+immediately.
+
+All equity instruments regardless of significance, and other financial assets that are
+individually significant, are assessed individually for impairment. Other financial
+assets or either assessed individually or grouped on the basis of similar credit risk
+characteristics.
+
+Any reversals of impairment are recognised in profit or loss immediately, to the extent
+that the reversal does not result in a carrying amount of the financial asset that
+
+exceeds what the carrying amount would have been had the impairment not
+previously been recognised.
+
+4 AVERAGE NUMBER OF EMPLOYEES
+
+The average number of persons employed by the company during the year was 2
+(2024: nil).
+
+5 TANGIBLE ASSETS
+
+Plant and
+machinery etc.
+£
+COST
+At 1 April 2024 and 31 March 2025 9,134
+DEPRECIATION
+At 1 April 2024 3,177
+Charge 1,370
+At 31 March 2025 4,547
+CARRYING AMOUNT
+At 31 March 2025 4,587
+At 31 March 2024 5,957
+6 CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2025 2024
+£ £
+Taxation and social security 1,116 684
+Other creditors 1,995 4,541
+
+3,111 5,225
+
+
+This document was delivered using electronic communications and authenticated in
+accordance with the registrar's rules relating to electronic form, authentication and
+manner of delivery under section 1072 of the Companies Act 2006.

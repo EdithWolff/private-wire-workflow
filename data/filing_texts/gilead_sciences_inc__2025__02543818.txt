@@ -1,0 +1,2232 @@
+Registration number: 2543818
+
+Gilead Sciences Limited
+
+Annual Report and Financial Statements
+
+for the Year Ended 31 December 2024
+
+MACFARLANES LLP ,
+20 CURSITOR STREET nx
+LONDON 3
+EC4A 1LT 2 LL
+° 13/09/2025 #38
+
+COMPANIES HOUSE
+
+Gilead Sciences Limited
+
+Contents
+
+Company Information
+
+Strategic Report
+
+Directors' Report
+
+Statement of Directors' Responsibilities
+Independent Auditor's Report
+Statement of Comprehensive Income
+Balance Sheet
+
+Statement of Changes in Equity
+
+Notes to the Financial Statements
+
+2toS
+
+6 to 10
+
+11
+
+12 to 15
+
+16
+
+17
+
+18
+
+19 to 39
+
+Gilead Sciences Limited
+
+Company Information
+
+Directors H Sticker
+J Peche
+P Wickersham
+J Comiskey
+
+Company secretary I Mckenzie
+
+Registered office 280 High Holbom
+London
+WCIV 7EE
+
+Registered number of incorporation 2543818
+
+Solicitors Macfarlanes LLP
+20 Cursitor Street
+London
+EC4A 1LT
+
+Bankers Bank of America Inc
+2 King Edward Street
+ECIA1HQ
+
+Auditors Emst & Young
+City Quarter
+Lapps Quay
+Cork
+
+Page 1
+
+Gilead Sciences Limited
+
+Strategic Report for the Year Ended 31 December 2024
+
+The directors present their report for the year ended 31 December 2024.
+
+Fair review of the business
+The Company’s principal activities during the year were the sale of pharmaceutical products and providing
+support services to other group undertakings. .
+
+The company's key financial and other performance indicators during the year were as follows:
+
+Financial KPIs Unit 2024 2023
+Turnover — pharmaceutical product sales £'000 265,955 238,005
+Administrative expenses — excluding share based payment charge £'000 58,751 58,955
+Profit before tax £000 14,714 12,966
+Average headcount 189 195
+
+Compared to the prior year tumover from pharmaceutical product sales has increased by 12%, administrative
+expenses excluding the share based payment charges showed a marginal decrease (0.1%), profit before tax has
+increased by 13% and average headcount has decreased by 3%.
+
+The increase in tumover from pharmaceutical product sales revenue of £23m was primarily due to a decrease in
+the voluntary scheme for branded medicines, pricing, access and growth ('VPAG’) levy in 2024 compared to the
+voluntary scheme for branded medicines pricing and access scheme ('VPAS’) levy in 2023.
+
+Principal risks and uncertainties
+Under UK Company Law the Company is required to give a description of the principal risks and uncertainties
+which it faces. These principal risks are set out below:
+
+The Company sells pharmaceutical products manufactured by the group to UK hospitals, retail pharmacies and
+other healthcare providers. It operates within the pharmaceutical sector and is therefore exposed to the usual
+risks within this sector to the extent that they may impact on customers’ demand for the product of the
+Company.
+
+The Group considers many risk factors in its annual report, available from the address shown in note 23,
+including deriving revenue from a limited number of products, facing significant competition and the possibility
+of product safety issues.
+
+Future Developments
+
+The directors anticipate underlying growth in the group's HIV and oncology business. That growth combined
+with the planned launch of new products lead the directors to anticipate revenue growth and stable profitability
+in 2025/2026.
+
+Page 2
+
+Gilead Sciences Limited
+
+Strategic Report for the Year Ended 31 December 2024
+
+Section 172(1) statement
+This report, as required under section 414CZA of The Companies Act 2006, details how the directors have
+considered the matters outlined in section 172(1)(a) to (f).
+
+Principal Decisions
+
+Gilead Sciences Limited (“GSL” or “the Company”), a wholly owned subsidiary of Gilead Sciences, Inc.
+(“Gilead”), operates under the guidance of Gilead's Board, which sets the overall long-term strategy. While the
+Gilead Board guides principal decisions, the GSL Board and UK leadership team (“UKILT”) and management
+committee handle local-level execution and day-to-day operations, delegating specific responsibilities to
+subject-matter experts.
+
+The Board of Gilead and the Company's management committee are guided in all decisions by Gilead’s mission
+and values. Gilead's mission is to discover, develop, and deliver innovative therapeutics for life-threatening
+diseases, focusing on areas of significant unmet medical need such as HIV, oncology, and liver diseases. Driven
+by science and dedicated to improving patient care, Gilead adheres to the highest legal and ethical standards.
+Our board, leadership team, and employees are committed to upholding our core values: integrity, inclusion,
+teamwork, excellence, and accountability.
+
+In 2024, Gilead made notable progress in fulfilling its Environmental, Social, and Governance (ESG)
+commitments and enhancing business resilience:
+
+Gilead advanced its leadership in HIV prevention with lenacapavir, a promising twice-yearly injection for PrEP.
+Named the 2024 Breakthrough of the Year by Science magazine, lenacapavir demonstrated exceptional efficacy
+in diverse clinical trials. With FDA approval granted in June 2025, this innovation could strengthen Gilead's
+leadership in HIV prevention, complementing its existing treatment, Biktarvy. Gilead has proactively signed
+licensing agreements with six generic manufacturers to ensure lenacapavir's availability in 120 lower-income
+countries, aiming to remove barriers to care.
+
+Beyond HIV, Gilead expanded its oncology portfolio with active Phase 3 trials and cell therapy studies,
+including Trodelvy® for metastatic breast cancer and anito-cel for multiple myeloma. Progress was also made in
+liver disease with Livdelzi®, approved for primary biliary cholangitis.
+
+In parallel, Gilead fostered workplace inclusivity through a new Disability Inclusion Employee Resource Group,
+and continued sustainability efforts by targeting carbon, water, waste, and packaging improvements, remaining
+on track to achieve 100% renewable electricity by 2025.
+
+These achievements reflect Gilead’s commitment to delivering sustainable and responsible shareholder value.
+Leadership and Decision-Making
+The UK & Ireland Leadership Team (UKILT) manages GSL's day-to-day operations, holding weekly meetings
+
+and monthly deep-dive sessions to review business performance, compliance, and governance. GSL defines
+principal decisions as those that are material to the group and significant to any key stakeholder groups.
+
+Page 3
+
+Gilead Sciences Limited
+
+Strategic Report for the Year Ended 31 December 2024
+
+Engagi ith Key Stakeholders
+
+Employees
+GSL’s 189 employees share a commitment to creating a healthier world, working in an intellectually stimulating
+and socially responsible environment.
+
+Inclusion and Diversity:
+
+Diversity and inclusion are deeply embedded in our operations, underpinning talent acquisition and retention.
+We celebrate a broad range of attributes including race, gender, disability, thinking styles, and more. Initiatives
+such as cultural cafés and awareness sessions on ADHD, autism, and dyslexia promote understanding. Our
+Employee Resource Groups - Women at Gilead, Pride Alliance, Global Leadership Organization of Black
+Employees, and Accelerating Disability Awareness & Progress Together - foster belonging and innovation.
+
+Compensation and Benefits:
+
+We offer competitive compensation, benchmarking pay against the biopharmaceutical industry and tailoring
+benefits to global locations. In the UK, this includes private health insurance, income protection, cycle-to-work
+schemes, and contributory pensions. New “Gratitude” awards recognise employee contributions.
+
+Wellbeing:
+
+We prioritize wellbeing through the “Wellbeing Reimbursement” program, paid time off, a paid volunteer day,
+the "Giving Together" donation matching program, and flexible hybrid work arrangements supporting work-life
+balance.
+
+Communication nsultation:
+Regular “All Hands” meetings, engagement surveys, and ERG activities ensure transparent communication and
+open dialogue.
+
+UK Health Bodies
+
+Gilead collaborates with public health officials, researchers, and healthcare professionals to improve patient
+access, raise disease awareness, drive R&D, and maintain ethical standards in all interactions. We engage
+through face-to-face and virtual meetings and maintain a robust supply chain to ensure medicine availability.
+
+Suppliers
+In 2024, we strengthened ESG and inclusion commitments across procurement processes:
+
+- Vetting suppliers for responsible sourcing, risk management, sustainability, and auditing.
+
+- Monitoring high-risk suppliers and supporting their sustainability efforts.
+
+- Requiring suppliers to disclose GHG management practices during competitive bidding.
+
+- Surveying 130 suppliers and engaging 86 strategic partners, with 27% achieving SBTi-validated emissions
+reduction targets.
+
+- Exceeding our $1 billion spend goal with diverse suppliers (2021-2023), doubling spend with Black-owned
+businesses.
+
+- Continuing partnerships with MSDUK, WEConnect, and Disability:IN.
+
+- Paying suppliers promptly, averaging within 30 days.
+
+Page 4
+
+Gilead Sciences Limited
+
+Strategic Report for the Year Ended 31 December 2024
+
+Community and Environment
+Gilead recognises that responsible business growth must be aligned with environmental stewardship. At the
+Group level, Gilead has committed to:
+
+- Reducing Scope 1 and 2 greenhouse gas emissions by 25% by 2025 (versus a 2016 baseline),
+- Reducing Scope 3 emissions by 15% across its value chain by 2030 (versus a 2019 baseline),
+
+GSL supports these global targets and remains fully committed to complying with all relevant environmental
+regulations, including the UK government’s Streamlined Energy and Carbon Reporting (SECR) initiative.
+Further details of GSL’s operational energy use and emissions are provided in the Directors’ Report.
+
+Through volunteering initiatives and charitable matching under the Giving Together Program, GSL employees
+actively contribute to strengthening their local communities.
+
+Shareholders
+
+As a wholly owned subsidiary, shareholder activity is managed by Gilead Sciences, Inc., a publicly listed
+company. GSL aligns its operations and governance with Gilead’s corporate strategy and objectives.
+Shareholder information is available on the Gilead Investor Relations website, available here:
+https://investors.gilead.com/resources/investor-faqs/default.aspx.
+
+Approved by the Board on 10 September 2025 and signed on its behalf by:
+
+DocuSigned by:
+
+Director
+
+Page 5S
+
+Gilead Sciences Limited
+
+Directors' Report for the Year Ended 31 December 2024
+
+The directors present their report and the financial statements for the year ended 31 December 2024.
+
+Results for the year and statement of affairs at 31 December 2024
+
+The Statement of Comprehensive Income, Balance Sheet and Statement of Changes in Equity for the year ended
+31 December 2024 are set out on pages 16 to 18 respectively. The profit before taxation amounted to
+£14,714,000 compared to a profit before taxation of £12,966,000 in the prior year. After a tax charge of
+£3,698,000 an amount of £11,016,000 has been credited to reserves. During the year the company paid a
+dividend of £9,689,000 to its immediate parent company Gilead Sciences Ireland UC ("GSIUC").
+
+Directors of the Company
+The directors, who held office during the year, were as follows:
+
+J Dorling (resigned 24 October 2024)
+
+J Jorden (resigned 27 November 2024)
+
+H Sticker
+
+P Wickersham (appointed 24 October 2024)
+
+J Comiskey (appointed 24 October 2024)
+
+The following director was appointed after the year end:
+J Peche (appointed 3 March 2025)
+
+Going concern
+
+The Company’s business activities, together with the factors likely to affect its future development and position,
+are set out in the Strategic Report. The Company is expected to continue to generate positive cash flows on its
+own account for the foreseeable future.
+
+The Company and its ultimate parent company have considerable financial resources together with a customer
+base which is predominantly comprised of the UK Government NHS Hospital sector. Demand for the
+Company’s medicines is strong and each of the products maintains clinical support through recognised clinical
+guidelines relevant to the particular therapeutic area. As a consequence, the directors believe that the Company
+is well placed to manage its business risks successfully.
+
+The directors have a reasonable expectation that the Company has adequate resources to continue in operational
+
+existence for a period of twelve months from the date of approval of the financial statements. Thus they
+continue to adopt the going concern basis of accounting in preparing the annual financial statements.
+
+Future developments
+Future developements are discussed in the Strategic Report on page 2.
+
+Page 6
+
+Gilead Sciences Limited
+Directors' Report for the Year Ended 31 December 2024 ‘
+Financial Risk Management
+
+Objectives and policies
+The Company has financial risk management objectives and policies in place.
+
+The Company’s activities expose it to a number of financial risks including price risk, credit risk, cash flow risk,
+liquidity risk, and foreign exchange risk.
+
+Price risk, credit risk, liquidity risk, cash flow risk and foreign exchange risk
+
+Price risk:
+
+Competitive pressure within the pharmaceutical and health industry is a continuing risk for the Company which
+could result in it losing sales to competitors. The Company manages the risk by maintaining strong relationships
+with customers and bringing new Gilead group products to the market.
+
+Credit risk and cash flow risk:
+
+The Company’s principal financial assets are cash at bank and trade debtors. The Company’s credit risk is
+primarily attributable to its trade debtors. The amounts presented in the balance sheet are net of allowances for
+doubtful receivables. An allowance for impairment is made where there is an identified loss event which, based
+on previous experince, is evidence of a reduction in the recoverability of the cash flows.
+
+The credit risk on liquid funds is limited because counterparties are banks with high credit-ratings assigned by
+international credit rating agencies.
+
+The Company has no significant concentration of credit risk, with exposure spread over a large number of
+counterparties and customers.
+
+Liquidity risk:
+In conjunction with its ultimate parent undertaking Gilead, the Company manages its cash flows to ensure that it
+has sufficient available funds for operations and planned expansions.
+
+Foreign exchange risk:
+The Company transacts primarily in Sterling and therefore has minimal foreign exchange risk. The Company
+does not have any forward foreign exchange contracts.
+
+Geopolitical risk:
+
+Geopolitical unrest has affected economic and global financial markets, with issues such as rising inflation and
+global supply chain disruption however we do not foresee a significant impact on the Company. Additionally,
+the implementation of tariffs across international markets has impacted global markets and the costs of imports
+and exports. We do not see this having a significant impact on the Company due to limited exposure to
+cross-border tariffs.
+
+Political donations
+There have been no political donations during the year.
+
+Research and development
+
+The Company supports funding for clinical studies which are run on a national basis in the UK in its drug
+therapeutic areas. These are phase 1V projects. Earlier phase projects are funded directly and exclusively by the
+ultimate parent company, Gilead Sciences Inc.
+
+Important non adjusting events after the financial period
+There were no significant adjusting or non-adjusting events to note after the financial period.
+
+Page7
+
+Gilead Sciences Limited
+
+Directors' Report for the Year Ended 31 December 2024
+
+Directors' liabilities
+
+The Company has granted an indemnity to one or more of its directors against liability in respect of proceedings
+brought by third parties, subject to the conditions set out in section 234 of the Companies Act 2006. Such
+qualifying third party indemnity provision remains in force as at the date of approving the directors’ report.
+
+Disclosure of information to the auditors
+
+Each director has taken steps that they ought to have taken as a director in order to make themselves aware of
+any relevant audit information and to establish that the company's auditor is aware of that information. The
+directors confirm that there is no relevant information that they know of and of which they know the auditor is
+unaware.
+
+Reappointment of auditors
+The auditors Ernst & Young are deemed to be reappointed under section 487(2) of the Companies Act 2006.
+
+Environmental Report
+
+Gilead Sciences Ltd is committed to complying with relevant environmental legislation to improve transparency
+and auditability of emissions. As part of this commitment this section of our Director’s Report discloses our
+operational energy consumption and carbon footprint in line with the UK Government's Streamlined Energy
+and Carbon Reporting (SECR) initiative The data included in this section covers this financial year and the
+previous (January to December; 2023 and 2024).
+
+METHODOLOGY
+
+The emissions included in this report have been calculated using the Greenhouse Gas (GHG) Protocol Corporate
+Accounting and Reporting Standard (revised edition). The boundaries of the GHG inventory are defined using
+the operational control approach. Emissions factors are sourced from the UK Government GHG Conversion
+Factors for Company Reporting under the Department for Energy Security and Net Zero (DESNZ) to convert
+activity data into tC02e emissions.
+
+This year we have maintained our reporting scope to cover emissions from our purchased electricity, business
+trips in employee-owned vehicles or hire cars (grey fleet) and Gilead's fleet. As such the report will cover
+emissions across the following:
+
+* Scope 1 - Company-owned vehicles mileage.
+
++ Scope 2 - Generation of purchased electricity.
+
+* Scope 3 - Business mileage in employee-owned vehicles and hire cars.
+
+To reflect the environmental benefits of purchased renewable electricity, and in line with the GHG Protocol
+Corporate Accounting and Reporting Standard (revised edition) guidelines, we are reporting our emissions using
+both ‘location-based’ and ‘market-based’ methods. We have also selected an intensity metric of our emissions
+(tCO2e) against total floor area (m2) to allow a more effective annual comparison.
+
+UK ANNUAL ENERGY & CARBON
+
+Our offices at 280 High Holbom are responsible for the operational energy consumed for Gilead Sciences Ltd.
+The following tables summarise energy consumption and subsequent emissions from this site.
+
+Gilead Sciences Ltd consumed a total of 1,106 MWh in 2024 showing a ~7.6% rise in energy consumption from
+2023 primarily due to an increase in electricity usage and business travel from rental or hire vehicles. This is
+reflected by an increase in emissions from 215 tCO2e in 2023 to 242 tCO2e in 2024, Table 1 shows the
+consumption of energy from different emission sources. There is no natural gas consumed on site.
+
+Page 8
+
+Gilead Sciences Limited
+
+Directors' Report for the Year Ended 31 December 2024
+
+Annual Energy Consumption (MWh) — Category Total 2023 Total 2024 % Change YoY
+Company-owned vehicles Scope 1 125 29 71
+
+Electricity Scope 2 414 472 +14
+
+Business travel (grey fleet) Scope 3 489 605 +24
+
+Total MWh 1,028 1,106 476
+
+Table 1 showing total energy (MWh) from Scope 1, 2 & 3 sources in 2023 and 2024 for Gilead Sciences
+International Ltd
+
+Table 2 shows a summary of our annual emissions across Scopes 1,2 and 3 in line with our SECR reporting
+boundary. It shows emissions calculated both using market- and location-based methodologies. The electricity
+supply purchase is 100% renewable, which is reflected in market-based calculations.
+
+Location-based Emissions (tCO2e) Category Total 2023 Total 2024 % Change YoY
+Company-owned vehicles Scope 1 18 7 -61
+
+Electricity Scope 2 86 98 +14
+
+Business travel (grey fleet) Scope 3 11 137 423
+
+Total tCO2e 215 242 +12
+Market-based Emissions (tCO2e) Category Total 2023 Total 2024 % Change YoY
+Company-owned vehicles Scope 1 18 7 -61
+
+Electricity Scope 2 - - 0
+
+Business travel (grey fleet) Scope 3 eet 137 +23
+
+Total tCO2e 129 144 +11
+
+Table 2 showing the annual tCO2e emissions (location & market) for Gilead Sciences Ltd at 280 High Holborn.
+
+This year, we have improved our emissions intensity ratio reporting to reflect separate metrics for transport
+(tC02e /mile) and buildings (tC02e/m2) for better compatibility moving forward.
+
+Category Intensity ratio
+Building 0.0377
+Transport . 0.000262
+
+Table 3 showing total annual emissions (tCO2e) against total office floor area (m2) and distance travelled
+(mile)
+
+Page 9
+
+Gilead Sciences Limited
+
+Directors' Report for the Year Ended 31 December 2024
+
+ENERGY EFFICIENCY MEASURES
+
+At Gilead Sciences Ltd we are committed to tracking and reducing our carbon footprint globally to help
+minimise our environmental impact. By measuring and evaluating our corporate energy use at a site level we
+can both inform our global energy management strategy and assess energy efficiency site-by-site.
+
+To enhance energy efficiency at High Holborn, we are implementing a series of measures aimed at reducing
+energy consumption:
+
++ As part of our lighting strategy, we will coordinate with Simmtronic on their next visit to adjust motion sensor
+activation times from 15 minutes to 5 minutes.
+
+* In collaboration with IT,we will reduce the sleep mode activation time for D10 TVs in meeting rooms from a
+few hours to 1 hour.
+
++ Additionally, we will engage a Mitsubishi engineer to investigate and resolve the BMS system issues to enable
+scheduling for the Airconditioning units, preventing them from running 24/7.
+
++ To further enhance efficiency, we will install programmable thermostats that automatically adjust temperature
+settings based on occupancy patterns, ensuring optimal heating and cooling.
+
+* We will ensure a phased transition to energy-efficient appliances by replacing old heating systems, water
+heaters, and other appliances with energy-efficient models.
+
++ Smart building technologies will be incorporated into our operation such as loT sensors to optimise heating,
+lighting, and overall energy usage based on real-time data.
+
++ Employee engagement remains a key pillar, with awareness programs designed to educate employees about
+energy-saving practices, such as turning off equipment when not in use and using natural light whenever
+possible.
+
++ Finally, we will conduct regular energy audits to identify and address additional opportunities for overall
+energy efficiency improvement.
+
+Approved by the Board on 10 September 2025 and signed on its behalf by:
+
+‘DocuSigned by:
+
+a Pa
+
+ESSOFEABSFSENEA:
+J Peche
+
+Director
+
+Page 10
+
+Gilead Sciences Limited
+Statement of Directors' Responsibilities
+
+The directors acknowledge their responsibilities for preparing the Annual Report and the financial statements in
+accordance with applicable law and regulations.
+
+Company law requires the directors to prepare financial statements for each financial year. Under that law the
+directors have elected to prepare the financial statements in accordance with United Kingdom Accounting
+Standards (United Kingdom Generally Accepted Accounting Practice), including FRS 101 'Reduced Disclosure
+Framework’ ('FRS 101'). Under company law the directors must not approve the financial statements unless they
+are satisfied that they give a true and fair view of the state of affairs of the company and of the profit or loss of
+the company for that period. In preparing these financial statements, the directors are required to:
+
++ select suitable accounting policies and apply them consistently;
++ make judgements and accounting estimates that are reasonable and prudent;
+
+* state whether FRS 101 has been followed, subject to any material departures disclosed and explained in the
+financial statements; and
+
+* prepare the financial statements on the going concem basis unless it is inappropriate to presume that the
+company will continue in business.
+
+The directors are responsible for keeping adequate accounting records that are sufficient to show and explain the
+company's transactions and disclose with reasonable accuracy at any time the financial position of the company
+and enable them to ensure that the financial statements comply with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the company and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+
+Page 11
+
+ss
+EY
+
+Shape the future
+with confidence
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF GILEAD SCIENCES LIMITED
+
+We have audited the financial statements of Gilead Sciences Limited for the year ended 31 December
+2024 which comprise which comprise the statement of comprehensive income, the balance sheet, the
+statement of changes in equity and the related notes 1 to 25, including material accounting policy
+information. The financial reporting framework that has been applied in their preparation is applicable law
+and United Kingdom Accounting Standards including FRS 101 “Reduced Disclosure Framework” (United
+Kingdom Generally Accepted Accounting Practice).
+
+In our opinion, the financial statements:
+
+© give a true and fair view of the company’s affairs as at 31 December 2024 and of its profit for the
+year then ended;
+
+* have been properly prepared in accordance with United Kingdom Generally Accepted Accounting
+Practice; and
+
+* have been prepared in accordance with the requirements of the Companies Act 2006.
+
+Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and
+applicable law. Our responsibilities under those standards are further described in the Auditor's
+responsibilities for the audit of the financial statements section of our report. We are independent of the
+company in accordance with the ethical requirements that are relevant to our audit of the financial
+statements in the UK, including the FRC’s Ethical Standard, and we have fulfilled our other ethical
+responsibilities in accordance with these requirements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our opinion.
+
+Conclusions relating to going concern
+In auditing the financial statements, we have concluded that the directors’ use of the going concern basis
+of accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events
+or conditions that, individually or collectively, may cast significant doubt on the company’s ability to
+continue as a going concern for a period of 12 months from when the financial statements are authorised
+for issue.
+
+Our responsibilities and the responsibilities of the directors with respect to going concern are described
+
+in the relevant sections of this report. However, because not all future events or conditions can be
+predicted, this statement is not a guarantee as to the company's ability to continue as a going concern.
+
+Page 12
+
+=
+EY
+
+‘Shape the future
+with confidence
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF GILEAD SCIENCES LIMITED
+(Continued)
+
+Other information
+
+The other information comprises the information included in the annual report, other than the financial
+statements and our auditor’s report thereon. The directors are responsible for the other information
+contained within the annual report.
+
+Our opinion on the financial statements does not cover the other information and, except to the extent
+otherwise explicitly stated in this report, we do not express any form of assurance conclusion thereon.
+
+Our responsibility is to read the other information and, in doing so, consider whether the other information
+is materially inconsistent with the financial statements, or our knowledge obtained in the course of the
+audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or
+apparent material misstatements, we are required to determine whether this gives rise to a material
+misstatement in the financial statements themselves. If, based on the work we have performed, we
+conclude that there is a material misstatement of the other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, based on the work undertaken in the course of the audit:
+
+« — the information given in the strategic report and the directors’ report for the financial year for which
+the financial statements are prepared is consistent with the financial statements; and
+
+e — the strategic report and directors’ report have been prepared in accordance with applicable legal
+requirements.
+
+Matters on which we are required to report by exception
+
+In the light of the knowledge and understanding of the company and its environment obtained in the
+course of the audit, we have not identified material misstatements in the strategic report or directors’
+report.
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006
+requires us to report to you if, in our opinion:
+
+e adequate accounting records have not been kept, or returns adequate for our audit have not been
+received from branches not visited by us; or
+
+e the financial statements are not in agreement with the accounting records and returns; or
+
+e certain disclosures of directors’ remuneration specified by law are not made; or
+
+* we have not received all the information and explanations we require for our audit
+
+Page 13
+
+=
+EY
+
+‘Shape the future
+with confidence
+
+INDEPENDENT AUDITOR'S REPORT TO THE MEMBERS OF GILEAD SCIENCES LIMITED
+(Continued)
+
+Responsibilities of directors
+
+As explained more fully in the directors’ responsibilities statement set out on page 11, the directors are
+responsible for the preparation of the financial statements and for being satisfied that they give a true and
+fair view, and for such internal control as the directors determine is necessary to enable the preparation
+of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the directors are responsible for assessing the company’s ability to
+continue as a going concern, disclosing, as applicable, matters related to going concern and using the
+going concern basis of accounting unless the directors either intend to liquidate the company or to cease
+operations, or have no realistic alternative but to do so.
+
+Auditor's responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an
+audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the
+basis of these financial statements.
+
+Explanation as to what extent the audit was considered capable of detecting irregularities,
+including fraud
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. We design
+procedures in line with our responsibilities, outlined above, to detect irregularities, including fraud. The
+tisk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one
+resulting from error, as fraud may involve deliberate concealment by, for example, forgery or intentional
+misrepresentations, or through collusion. The extent to which our procedures are capable of detecting
+irregularities, including fraud is detailed below. However, the primary responsibility for the prevention and
+detection of fraud rests with both those charged with governance of the entity and management.
+
++ We obtained an understanding of the legal and regulatory frameworks that are applicable to the
+company and determined that the most significant are FRS 101, Companies Act 2006 and relevant
+tax compliance regulations in the UK. In addition, we concluded that there are certain significant
+laws and regulations that may influence the determinations of the amounts and disclosures in the
+financial statements such as those laws and regulations relating to health and safety, employee
+matters, environmental and bribery and corruption practices.
+
++ We understood how Gilead Sciences Limited is complying with those frameworks by making
+enquiries of management. We corroborated our enquiries through reading the board minutes, and
+we noted that there was no contradictory evidence.
+
+Page 14
+
+2
+EY
+
+‘Shape the future
+with confidence
+
+INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF GILEAD SCIENCES LIMITED
+(Continued)
+
+Explanation as to what extent the audit was considered capable of detecting irregularities,
+
+including fraud (continued)
+
++ We assessed the susceptibility of the company’s financial statements to material misstatement,
+including how fraud might occur by inquiry of management, those charged with governance and
+others within the entity, as to whether they have knowledge of any actual or suspected fraud. Where
+the risk was considered higher, we performed audit procedures to address the fraud risk. These
+procedures included testing manual journals and were designed to provide reasonable assurance
+that the financial statements were free from material misstatement.
+
++ Based on this understanding we designed our audit procedures to identify noncompliance with such
+laws and regulations. Our procedures involved reading board minutes to identify any non-compliance
+with laws and regulations and enquiries of management.
+
+A further description of our responsibilities for the audit of the financial statements is located on the
+Financial Reporting Council's website at https://www.frc.org.uk/auditorsresponsibilities. This description
+forms part of our auditor's report.
+
+Use of our report
+
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part
+16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the
+company’s members those matters we are required to state to them in an auditor's report and for no other
+purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other
+than the company and the company’s members as a body, for our audit work, for this report, or for the
+opinions we have formed.
+
+asl
+2 & hag
+
+Owen Smithers (Senior statutory auditor)
+for and on behalf of Ernst & Young, Statutory Auditor
+Cork
+
+11 September 2025
+
+Page 15
+
+Gilead Sciences Limited
+
+Statement of Comprehensive Income for the Year Ended 31 December 2024
+
+2024 2023
+
+Note £000 £000
+
+Turnover 4 276,958 251,627
+Cost of sales (201,653 176,785.
+Gross profit 75,305 74,842
+Share-based payments 20 (5,520) (5,787)
+Other expenses (58,751) 58,955
+Administrative expenses (64,271) (64,742)
+Operating profit 5 11,034 10,100
+Interest receivable and similar income 8 4,028 2,896
+Interest payable and similar expenses 9 (348) (30)
+3,680 2,866
+
+Profit before tax 14,714 12,966
+Tax on profit 10 (3,698) (3,277)
+Profit for the year 11,016 9,689
+Total comprehensive income for the year ois 9,689
+
+All amounts reported in the Statement of Comprehensive Income relate to continuing operations.
+
+The notes on pages 19 to 39 form an integral part of these financial statements.
+Page 16
+
+Gilead Sciences Limited
+
+(Registration number: 2543818)
+Balance Sheet as at 31 December 2024
+
+Fixed assets
+Tangible assets
+Right of use assets
+
+Current assets
+
+Stocks
+
+Debtors
+
+Cash at bank and in hand
+
+Creditors: Amounts falling due within one year
+
+Net current assets
+
+Total assets less current liabilities
+
+Creditors: Amounts falling due after more than one year
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves
+Called up share capital
+Profit and loss account
+
+Shareholders’ funds
+
+Approved by the Board on 10 September 2025 and signed on its behalf by:
+
+‘DocuSigned by:
+
+Director
+
+Note
+
+ll
+
+13
+14
+15
+
+16
+
+16
+17
+
+18
+
+31 December 31 December
+
+2024 2023
+£000 £000
+20 146
+6,451 7,947
+6,471 8,093
+23,399 9,024
+107,215 65,516
+34,716 82,659
+165,330 157,199
+(127,442) (127,075)
+37,888 30,124
+44,359 38,217
+(4,912) (6,558)
+(1,342) (1,093)
+38,105 30,566
+38,105 30,566
+38,105 30,566
+
+The notes on pages 19 to 39 form an integral part of these financial statements.
+
+Page 17
+
+Gilead Sciences Limited
+
+Statement of Changes in Equity for the Year Ended 31 December 2024
+
+At January 2023,
+Profit for the year
+
+Total comprehensive income
+
+Dividends
+
+‘Tax on share based payment credited to equity
+Share based payment transactions
+
+At31 December 2023
+
+‘At I January 2024
+Profit for the year
+
+Total comprehensive income
+
+Dividends
+
+Tax on share based payment credited to equity
+Share based payment transactions
+
+At31 December 2024
+
+Note
+
+2
+10
+20
+
+Note
+
+2
+10
+20
+
+Share capital
+£000
+
+Share capital
+£000
+
+‘The notes on pages 19 to 39 form an integral part of these financial statements.
+
+Page 18
+
+Profit & Loss
+‘Account
+£000
+
+24,317
+
+9,689
+
+9,689
+
+(9,260)
+33
+5,787
+
+30,566
+
+Profit & Loss
+‘Account
+£000
+
+30,566
+11,016
+11,016
+(9,689)
+
+692
+
+5,520
+
+38,105
+
+Total
+£000
+24,317
+9,689
+
+9,689
+
+(9,260)
+33
+
+5,787
+
+30,566
+
+Total
+£000
+
+30,566
+
+11,016
+
+11,016
+(9,689)
+692
+
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+1 General information
+The Company is a private company limited by share capital, incorporated and domiciled in England.
+
+The address of its registered office is:
+280 High Holborn
+
+London
+
+WC1V 7EE
+
+These financial statements were authorised for issue by the board on 10 September 2025.
+
+2 Accounting policies
+
+Summary of material accounting policies and key accounting estimates
+The principal accounting policies applied in the preparation of these financial statements are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated.
+
+Basis of preparation
+These financial statements were prepared in accordance with Financial Reporting Standard 101 ("FRS 101")
+Reduced Disclosure Framework and in accordance with applicable accounting standards.
+
+The results of GSL are included in the consolidated financial statements of Gilead for the year ended 31
+December 2024. Copies of these consolidated accounts may be obtained from its registered office: 333 Lakeside
+Drive, Foster City, California, USA.
+
+The Company's financial statements are presented in Sterling, which is also the Company's functional currency
+and all values are rounded to the nearest thousand pounds (£'000) except when otherwise indicated.
+
+Going concern
+The Company is expected to continue to generate positive cash flows on its own account for the foreseeable
+future.
+
+The Company and its ultimate parent company have considerable financial resources together with a customer
+base which is predominantly comprised of the UK Government NHS Hospital sector. Demand for the
+Company's medicines is strong and each of the products maintains clinical support through recognised clinical
+guidelines relevant to the particular therapeutic area. As a consequence, the directors believe that the Company
+is well placed to manage its business risks successfully.
+
+The directors have a reasonable expectation that the Company has adequate resources to continue in operational
+
+existence for a period of twelve months from the date of approval of the financial statements. Thus they
+continue to adopt the going concer basis of accounting in preparing the annual financial statements.
+
+Page 19
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+Summary of disclosure exemptions
+In these financial statements, the company has taken advantage of the exemptions available under FRS 101 in
+respect of the following disclosures:
+
+* The requirements of paragraphs 45(b) and 46 to 52 of IFRS 2 - ‘Share-based payments’
+* The requirements of paragraphs 91 to 99 of IFRS 13 - ‘Fair value measurement’
+
++ The requirements of the second sentence of paragraph 110 and paragraphs 113(a), 114, 115, 118, 119(a) to
+(0), 120 to 127 and 129 of IFRS 15 - ‘Revenue from Contracts with Customers’
+
++ The requirements of paragraph 52, the second sentence of paragraph 89, and paragraphs 90, 91 and 93 of
+LERS 16 - ‘Leases’
+
+* The requirements of paragraph 38 of IAS 1 - ‘Presentation of financial statements’ (comparative information
+requirements in respect of):
+
+* The requirements of [AS 7 - ‘Statement of cash flows’
+
+* The requirements of paragraphs 30 and 31 of LAS 8 - ‘Accounting policies, changes in accounting estimates
+and errors’
+
+* The requirements of paragraph 17 and 18A of IAS 24 - ‘Related party disclosures’
+
+* The requirements of IAS 24 - ‘Related party disclosures’ (to disclose related party transactions entered into
+between two or more members of a group)
+
+Changes in accounting policy
+None of the standards, interpretations and amendments effective for the first time from 1 January 2024 have had
+a material effect on the financial statements.
+
+Revenue recognition
+Turnover
+
+The Company earns revenue from the sale of pharmaceutical product. This revenue is recognised in the
+accounting period in which control of the product has been transferred, at an amount that reflects the
+consideration to which the entity expects to be entitled in exchange for fulfilling its performance obligations to
+customers. The Company also earns revenue from the provision of services relating to support provided to other
+group undertakings. This revenue is recognised in the accounting period in which the services are rendered at an
+amount that reflects the consideration to which the entity expects to be entitled in exchange for fulfilling its
+performance obligations to customers.
+
+The principles in IFRS 15 are applied to revenue recognition criteria using the following 5 step model:
+
+1. Identify the contracts with the customer
+
+2. Identify the performance obligations in the contract
+
+3. Determine the transaction price
+
+4, Allocate the transaction price to the performance obligations in the contract
+5. Recognise revenue when or as the entity satisfies its performance obligations
+
+Page 20
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+Foreign currency transactions and balances
+
+Transactions in foreign currencies are initially recorded at the functional currency rate prevailing at the date of
+the transaction. Monetary assets and liabilities denominated in foreign currencies are retranslated into the
+respective functional currency of the entity at the rates prevailing on the reporting period date. Non-monetary
+items carried at fair value that are denominated in foreign currencies are retranslated at the rates prevailing on
+the initial transaction dates.
+
+Non-monetary items measured in terms of historical cost in a foreign currency are not retranslated.
+
+Tax
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that
+a change attributable to an item of income or expense recognised as other comprehensive income is also
+recognised directly in other comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or
+substantively enacted by the reporting date in the countries where the company operates and generates taxable
+income.
+
+Deferred income tax is recognised on temporary differences arising between the tax bases of assets and
+liabilities and their carrying amounts in the financial statements and on unused tax losses or tax credits in the
+company. Deferred income tax is determined using tax rates and laws that have been enacted or substantively
+enacted by the reporting date and is measured on an undiscounted basis. Deferred income tax assets are
+recognised only to the extend that it is probable that taxable profit will be available against which the deductible
+temporary differences, carried forward tax credits or tax losses can be utilised.
+
+Amendments to LAS 12 ‘International Tax Reform — Pillar Two Model Rules:
+
+On 23 May 2023, the International Accounting Standards Board (‘IASB’) issued amendments to [AS 12
+‘International Tax Reform — Pillar Two Model Rules’, which became effective immediately and were approved
+for adoption by all members of the UK Endorsement Board on 19 July 2023. On 20 June 2023, legislation was
+substantively enacted in the UK to introduce the OECD’s Pillar Two global minimum tax rules and a UK
+qualified domestic minimum top-up tax, with effect from 1 January 2024. The Company has applied the IAS 12
+exception from recognising and disclosing information on associated deferred tax assets and liabilities.
+
+Tangible assets
+Property, plant and equipment is stated in the Balance Sheet at cost, less any subsequent accumulated
+depreciation and subsequent accumulated impairment losses.
+
+The cost of property, plant and equipment includes directly attributable incremental costs incurred in their
+acquisition and installation.
+
+The carrying values of tangible fixed assets are reviewed for impairment if events or changes in circumstances
+indicate the carrying value may not be recoverable and are written down immediately to their recoverable
+amount. Useful lives and residual values are reviewed annually and where adjustments are required these are
+made prospectively.
+
+An item of tangible fixed assets is derecognised upon disposal or when no future economic benefits are expected
+
+to arise from the continued use of the asset. Any gain or loss arising on the derecognition of the asset is included
+in the Statement of Comprehensive Income in the period of derecognition.
+
+Page 21
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+Depreciation
+Depreciation is charged so as to write off the cost of assets, other than assets under construction, on a
+straight-line basis over their estimated useful lives, as follows:
+
+Asset class Depreciation method and rate
+Leasehold improvements over the period of the lease
+Computer equipment over 3 - 7 years
+
+Fixtures and fittings over 6 years
+
+Assets under construction not depreciated
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid
+investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of
+changes in value.
+
+Trade debtors
+
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary
+course of business. If collection is expected in one year or less (or in the normal operating cycle of the business
+if longer), they are classified as current assets. If not, they are presented as non-current assets.
+
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost
+using the effective interest method, less provision for impairment. A provision for the impairment of trade
+debtors is established when there is objective evidence that the company will not be able to collect all amounts
+due according to the original terms of the debtors.
+
+The Company must assess whether their accounts receivable are collectible from customers. Accordingly, the
+Company establishes an allowance for estimated expected credit losses. This is based on an assessment of the
+Company's historical experiences of non-payment, taking into consideration customer credit worthiness, current
+economic trends and the use of assumptions about the probability of default and expected loss rates.
+
+Stock
+Inventories are stated at the lower of cost and net realisable value. Cost is determined using the first-in, first-out
+(FIFO) method.
+
+The cost of finished goods comprises direct materials and, where applicable, direct labour costs and those
+overheads that have been incurred in bringing the inventories to their present location and condition. At each
+reporting date, inventories are assessed for impairment. If inventory is impaired, the carrying amount is reduced
+to its selling price less costs to complete and sell; the impairment loss is recognised immediately in profit or
+loss.
+
+Provisions
+
+Provisions are recognised when the Company has a present obligation (legal or constructive) as a result of a past
+event, it is probable that the group will be required to settle that obligation and a reliable estimate can be made
+of the amount of the obligation.
+
+Provisions are measured at the directors’ best estimate of the expenditure required to settle the obligation at the
+reporting date and are discounted to present value where the effect is material.
+
+Page 22
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+Leases
+Initial recognition and measurement
+
+The Company initially recognises a lease liability for the obligation to make lease payments and a right-of-use
+asset for the right to use the underlying asset for the lease term.
+
+The lease liability is measured at the present value of the lease payments to be made over the lease term.
+
+The lease payments include fixed payments, purchase options at exercise price (where payment is reasonably
+certain), expected amount of residual value guarantees, termination option penalties (where payment is
+considered reasonably certain) and variable lease payments that depend on an index or rate.
+
+The right-of-use asset is initially measured at the amount of the lease liability, adjusted for lease prepayments,
+lease incentives received, the Company’s initial direct costs (e.g., commissions) and an estimate of restoration,
+removal and dismantling costs.
+
+Subsequent measurement
+
+After the commencement date, the Company measures the lease liability by:
+
+(a) Increasing the carrying amount to reflect interest on the lease liability;
+
+(b) Reducing the carrying amount to reflect the lease payments made; and
+
+(c) Re-measuring the carrying amount to reflect any reassessment or lease modifications or to reflect revised in
+substance fixed lease payments or on the occurrence of other specific events.
+
+Interest on the lease liability in each period during the lease term is the amount that produces a constant periodic
+rate of interest on the remaining balance of the lease liability. Interest charges are included in finance cost in the
+income statement, unless the costs are included in the carrying amount of another asset applying other
+applicable standards. Variable lease payments not included in the measurement of the lease liability, are
+included in operating expenses in the period in which the event or condition that triggers them arises.
+
+The related right-of-use asset is accounted for using the Cost model in IAS 16 and depreciated and charged in
+accordance with the depreciation requirements of IAS 16 Property, Plant and Equipment. Right-of-use assets are
+depreciated on a straight-line basis over the life of the lease. Adjustments are made to the carrying value of the
+right of use asset where the lease liability is re-measured in accordance with the above. Right of use assets are
+tested for impairment in accordance with IAS 36 Impairment of assets as disclosed in the accounting policy in
+impairment.
+
+Short term and low value leases
+
+The Company has elected not to recognise right-of-use assets and lease liabilities of low-value assets and short
+term leases. The Company recognises the lease payments associated with the leases as an expense on a
+straight-line basis over the lease term.
+
+Share capital
+
+Ordinary shares are classified as equity. Equity instruments are measured at the fair value of the cash or other
+resources received or receivable, net of the direct costs of issuing the equity instruments. If payment is deferred
+and the time value of money is material, the initial measurement is on a present value basis.
+
+Dividends
+Dividend distribution to the Company’s shareholders is recognised as a liability in the Company’s financial
+statements in the period in which the dividends are approved by the Company’s shareholders.
+
+Page 23
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2. Accounting policies (continued)
+
+Defined contribution pension obligation
+
+A defined contribution plan is a pension plan under which fixed contributions are paid into a separate entity and
+has no legal or constructive obligations to pay further contributions if the fund does not hold sufficient assets to
+pay all employees the benefits relating to employee service in the current and prior periods.
+
+For defined contribution plans contributions are paid to publicly or privately administered pension insurance
+plans on a mandatory or contractual basis. The contributions are recognised as employee benefit expense when
+they are due. If contribution payments exceed the contribution due for service, the excess is recognised as an
+asset.
+
+Research and development
+
+Research and development expenditure is written off as incurred, except that development expenditure incurred
+on an individual project is carried forward when its future recoverability can reasonably be regarded as assured.
+Any expenditure carried forward is amortised in line with the expected future sales from the related project.
+
+Share based payments
+
+The ultimate parent company, Gilead, operates an equity-settled, share-based compensation plan, under which
+the entity receives services from employees as consideration for equity instruments (options & restricted stock
+units) of the entity. The fair value of the employee services received is measured by reference to the estimated
+fair value at the grant date of equity instruments granted and is recognised as an expense over the vesting period.
+
+Restricted stock units are awarded and fully vest (i.e. all restrictions lift) after four years, with 25% vesting after
+one year and each year thereafter over the remainder of the four year period for any restricted stock units
+granted prior to 2021. Restricted stock units granted from 2021 onwards also fully vest after four years however
+they now vest at quarterly intervals after the initial year. Share options fully vest over a period of four years,
+with 25% of the options vesting each year over the four year period. The estimafed fair value of an option
+granted is calculated by an external valuer using an appropriate pricing model. The total amount expensed is
+recognised over the vesting period, which is the period over which all the specified vesting conditions are to be
+satisfied.
+
+The Company also operates a stock purchase plan whereby eligible employees may contribute up to 15% of
+
+their salary (subject to a salary cap), on an after-tax basis, to purchase common stock at a discount from the
+market price on the date of purchase.
+
+Page 24
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+Financial Instruments
+
+Financial assets - recognition and measurement
+
+Financial assets are recognised when the entity becomes a party to the contract and, as a consequence, has a
+legal right to receive cash.
+
+All financial assets are initially measured at fair value plus, in the case of financial assets not recorded at fair
+value through profit or loss, transaction costs that are attributable to the acquisition of the financial asset. All
+recognised financial assets are subsequently measured in their entirety at either amortised cost or fair value,
+depending on the classification of the financial assets.
+
+The Company classifies its financial assets in the following categories: amortised cost; at fair value through
+profit or loss; or at fair value through Other Comprehensive Income. The classification depends on the purpose
+for which the financial assets were acquired. Management determines the classification of its financial assets at
+initial recognition.
+
+The Company classifies its financial assets at amortised cost only if both of the following criteria are met: the
+asset is held within a business model whose objective is to collect the contractual cash flows, and the contractual
+terms give rise to cash flows that are solely payments of principal and interest. After initial measurement, such
+financial assets are subsequently measured at amortised cost using the effective interest rate ("EIR") method.
+
+Impairment of financial assets
+
+In accordance with IFRS 9, the Company applies the expected credit loss ("ECL") model for measurement and
+recognition of impairment losses on the following assets and credit risk exposures:
+
+a) Financial assets that are debt instruments, and are measured at amortised cost e.g., loans, debt securities,
+deposits, trade receivables and bank balance.
+
+b) Trade receivables or any contractual right to receive cash or another financial asset that result from
+transactions that are within the scope of IFRS 15. For trade and other receivables, the Company applies the
+IFRS 9 simplified approach to measuring expected credit losses which uses a lifetime expected loss allowance
+for all trade receivables.
+
+Financial liabilities - recognition and measurement
+
+All financial liabilities are recognised initially at fair value and, in the case of loans and borrowings and
+payables, net of directly attributable transaction costs, The Company’s financial liabilities comprise of trade
+creditors, amounts owed to group undertakings and accruals.
+
+The subsequent measurement of financial liabilities depends on their classification, either as financial liabilities
+at fair value through profit or loss; or amortised cost. Financial liabilities at fair value through profit or loss
+include financial liabilities held for trading and financial liabilities designated upon initial recognition as at fair
+value through profit or loss. Loans and borrowings are measured at amortised cost.
+
+Page 25
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+2 Accounting policies (continued)
+
+De-recognition
+
+A financial liability is derecognised when the obligation under the liability is discharged or cancelled or expires.
+When an existing financial liability is replaced by another from the same lender on substantially different terms,
+or the terms of an existing liability are substantially modified, such an exchange or modification is treated as the
+de-recognition of the original liability and the recognition of a new liability. The difference in the respective
+carrying amounts is recognised in the statement of profit or loss.
+
+Offsetting financial instruments
+
+Financial assets and liabilities are offset and the net amount is reported in the balance sheet where there is a
+legally enforceable right to offset the recognised amounts and there is an intention to settle on a net basis or
+realise the asset and settle the liability simultaneously.
+
+3 Critical accounting judgements and key sources of estimation uncertainty
+
+The preparation of financial statements requires management to make judgements, estimates and assumptions
+that affect the amounts reported for assets and liabilities as at the balance sheet date and the amounts reported
+for revenues and expenses during the year. However, the nature of estimation means that actual outcomes could
+differ from those estimates.
+
+The following judgements (apart from those involving estimates) have had the most significant effect on
+amounts recognised in the financial statements:
+
+Rebate Provisions
+
+During the normal course of business the Company enters into contracts with relevant Health Bodies. These
+contracts contain provisions for rebates to be awarded when certain conditions are met. Provisions for these
+rebates recognised at the balance sheet date are based on management's best estimate of the rebate owed taking
+into account sales under the contract and historic trends of events which give rise to rebate conditions.
+
+Other Accruals
+
+Management have applied judgment, in the course of recording the year end general accruals, in order to make
+estimates based on the most recent available information as at the time of preparation of these financial
+statements. There is some estimation uncertainty inherent in this process and actual expense may vary from
+amount accrued for this reason.
+
+Taxation
+Management judgement is required to determine the amount of deferred tax assets that can be recognised, based
+upon the likely timing and level of future taxable profits.
+
+Page 26
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+4 Turnover
+
+The analysis of the Company's turnover for the year from continuing operations is as follows:
+2024
+£000
+265,955
+11,003
+
+Sale of goods - United Kingdom
+Supply of services - Republic of Ireland
+
+Contract Balances:
+
+2023
+£000
+238,005
+13,622
+
+251,627
+
+There were no material contract assets or contract liabilities as at 31 December 2024 and 1 January 2024.
+
+Revenues Recognised from Performance Obligation Satisfied in Prior Periods:
+
+There were no revenues recognised from performance obligations satisfied in prior periods as at 31 December
+
+2024 and 1 January 2024.
+
+S Operating profit
+Arrived at after charging:
+
+Research and development cost
+
+Auditors remuneration - audit services
+
+Auditors remuneration - other assurance
+
+Depreciation expense
+
+Depreciation on right of use assets - machinery
+
+Depreciation on right of use assets - property
+
+Operating lease expense - plant and machinery
+
+Expense of variable lease payments not included in lease liabilities
+Cost of stocks recognised as an expense
+
+Foreign exchange (gains)/losses
+
+Page 27
+
+2024
+£000
+
+@)
+
+35
+
+i
+
+126
+
+40
+
+1,456
+
+34
+
+201,353
+—__ 14)
+
+2023
+£000
+
+6
+
+25
+
+1
+268
+40
+1,133
+5
+
+50
+
+176,584
+7
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+6 = Staff costs
+
+The aggregate payroll costs were as follows:
+
+2024 2023
+
+£000 £000
+Wages and salaries 25,724 25,664
+Social security costs 4,895 4,910
+Pension costs, defined contribution scheme 1,431 1,431
+Redundancy costs 549 244
+Share-based payment expenses 5,520 5,787
+
+38,119 38,036
+
+The average number of persons employed by the Company during the year, analysed by category was as
+follows:
+
+2024 2023
+
+No. No.
+
+Administration and support 25 25
+Sales, marketing and medical 164 170
+189 195
+
+7 Directors' remuneration
+
+During the year the number of directors who were receiving benefits and share incentives was as follows:
+
+2024 2023
+No. No.
+Received or were entitled to receive shares under long term incentive
+schemes 1 -
+Accruing benefits under money purchase pension scheme 1
+
+In respect of the highest paid director, who is the only director whose remuneration is paid by the company:
+
+2024 2023
+£000 £000
+Remuneration 83 -
+
+During the year the highest paid director received or was entitled to receive shares under a long term incentive
+scheme.
+
+Page 28
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+7 Directors' remuneration (continued)
+
+Directors’ emoluments:
+
+The directors J Dorling and J Jorden, members of the Leadership team, received their remuneration from the
+ultimate parent company Gilead. No specific recharge is made by Gilead in respect of their qualifying services
+to GSL and they do not believe that it is practicable to apportion their remuneration between their services as
+directors of the Company (which they believe to be negligible) and their services as senior leaders of the
+ultimate parent company. Therefore there is no disclosure of directors’ emoluments in respect of these directors.
+
+J Comiskey is a director of fellow group subsidiary, Gilead Sciences Europe Limited ("GSEL"). Her total
+emoluments are disclosed in the financial statements of that company, which are publicly available. The
+directors do not believe that it is practicable to apportion the remuneration of J Comiskey between services as
+director of the Company and services as director of GSEL. H Stiicker is a director of fellow group subsidiary,
+Gilead Sciences GmbH. The directors do not believe that it is practicable to apportion the remuneration of H
+Sticker between his services as director of the Company and services as director of Gilead Sciences GmbH.
+
+8 Interest receivable and similar income
+
+2024 2023
+£000 £000
+Interest income on bank deposits 4,028 2,896
+9 Interest payable and similar expenses
+2024 2023
+£000 £000
+Interest expense on leases - Property 348 30
+10 Income tax
+Tax charged in the statement of comprehensive income
+2024 2023
+£000 £000
+Current taxation
+UK corporation tax 3,684 3,296
+UK corporation tax adjustment to prior periods 31 7
+3,715 3,303
+Deferred taxation
+Arising from origination and reversal of temporary differences (17) 43
+Arising from changes in tax rates and laws - (60)
+Arising from previously unrecognised tax loss, tax credit or temporary
+difference of prior periods - 9
+Total deferred taxation (17) (26)
+Tax expense in the statement of comprehensive income 3,698 3,277
+
+Page 29
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+10 Income tax (continued)
+
+The tax on profit before tax for the year is lower than the standard rate of corporation tax in the UK (2023 -
+
+higher than the standard rate of corporation tax in the UK) of 25% (2023 - 23.52%).
+
+The differences are reconciled below:
+
+Profit before tax
+
+Corporation tax at standard rate
+
+Increase/(decrease) in current tax from unrecognised temporary
+difference from a prior period
+
+Increase from effect of expenses not deductible in determining taxable
+profit
+
+(Decrease)/increase from effect of exercise employee share options
+Decrease from changes in tax provisions due to legislation
+
+Decrease from employee share acquisition relief
+
+Total tax charge
+
+Factors which may affect future tax charges:
+
+2024 2023
+£000 £000
+14,714 12,966
+3,678 3,050
+31 2)
+9 129
+(20) 460
+- (60)
+- (300)
+
+3,698 3,277
+
+As disclosed in our Accounting Policies on page 21, on 20 June 2023, legislation was substantively enacted in
+the UK to introduce the OECD's Pillar Two global minimum tax rules and a UK qualified domestic minimum
+top-up tax, with effect from 1 January 2024. Under the legislation, a top-up tax liability arises where the
+effective tax rate of the Company’s operations in the UK, calculated using principles set out in the Pillar Two
+legislation, is below 15%. As the Company’s Pillar Two effective tax rate remains above 15%, the new rules do
+
+not have a material impact on the tax charge for the Company.
+
+Page 30
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+10 Income tax (continued)
+
+Deferred tax
+Deferred tax movement during the year:
+
+At 1 January
+
+2024
+£000
+Accelerated tax depreciation 102
+Temporary differences trading 8
+Share-based payment 1,943
+2,053
+
+At
+Recognised in Recognised in 31 December
+income equity 2024
+
+£000 £000 £000
+
+7 : 109
+
+(8) - :
+
+18 150 211
+
+7 150 2,220
+
+The net credit to equity for the year of £692,000 as per the statement of changes in equity, comprised of a credit
+of £542,000 for current tax on share-based payment plus a credit. of £150,000 for deferred tax on share based
+
+payments.
+
+Deferred tax movement during the prior year:
+
+At
+
+At 1 January Recognised in Recognised in 31 December
+
+2023 income equity 2023
+
+£000 £000 £000 £000
+
+Accelerated tax depreciation 82 20 - 102
+Temporary differences trading 7 1 - 8
+Share-based payment 2,310 5 (372) 1,943
+2,399 26 (372) 2,053
+
+The net credit to equity for the prior year of £33,000 as per the statement of changes in equity comprised of a
+credit of £405,000 for current tax on share-based payments less a charge of £372,000 for deferred tax on
+
+share-based payments.
+
+Page 31
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+11 Tangible assets
+
+Cost or valuation
+At | January 2024
+Disposals
+
+At 31 December 2024
+
+Depreciation
+
+At | January 2024
+Charge for the year
+Eliminated on disposal
+
+At 31 December 2024
+Carrying amount
+
+At 31 December 2024
+At 31 December 2023
+
+Leasehold
+improvements
+£000
+
+2,361
+
+2,361
+
+2,256
+105
+
+2,361
+
+105
+
+Computer Fixtrues &
+equipment Fittings Total
+£000 £000 £000
+272 357 2,990
+an : (17)
+255 357 2,973
+231 357 2,844
+21 - 126
+(ee) - (17)
+235 357 2,953
+20 - 20
+41 - 146
+
+Page 32
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+12 Right of use assets
+
+Cost or valuation
+
+At | January 2023
+Additions during the year
+Disposals
+
+At 31 December 2023
+At 1 January 2024
+Disposals
+
+At 31 December 2024
+Depreciation
+
+At 1 January 2023
+Charge for year
+Eliminated on disposal
+At 31 December 2023
+At 1 January 2024
+Charge for the year
+Eliminated on disposal
+At 31 December 2024
+Carrying amount
+
+At 31 December 2024
+
+At 31 December 2023
+
+Machinery Property Total
+£000 £000 £000
+121 6,014 6,135
+29 TAI8& 7,447
+(13) = 13)
+137 13,432 13,569
+137 13,432 13,569
+(15) - (15)
+122 13,432 13,554
+44 4,418 4,462
+40 1,133 1,173
+13) - 13)
+mi 5,551 5,622
+7 5,551 5,622
+40 1,456 1,496
+15 - 15
+96 7,007 7,103
+26 6,425 6,451
+66 7,881 7,947
+
+Page 33
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+13 Stock
+31 December
+2024
+£000
+Finished goods and goods for resale
+23,399
+
+14 Trade and other debtors
+31 December
+
+2024
+Note £000
+Amounts falling due within one year:
+Trade debtors 51,961
+Amounts owed by group undertakings 653
+Corporation tax receivable 50,979
+Prepayments 1,382
+Other debtors __20
+104,995
+Amounts falling due after more than one year:
+Deferred tax assets 10 2,220
+
+107,215
+
+Details of non-current trade and other debtors
+
+31 December
+2023
+£000
+
+9,024
+
+31 December
+2023
+£000
+
+19,586
+141
+42,471
+1,256
+9
+
+63,463
+
+2,053
+
+65,516
+
+£2,220,000 (2023: £2,053,000) of deferred tax assets are classified as non current as amounts fall due after more
+
+than one year.
+
+All amounts owed by group undertakings are unsecured, interest free and are repayable on demand.
+
+15 Cash at bank and in hand
+
+31 December
+2024
+£000
+
+Cash at bank 34,716
+
+Page 34
+
+31 December
+2023
+£000
+
+82,659
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+16 Trade and other creditors
+
+31 December
+2024
+Note £000
+Amounts due within one year:
+
+Trade creditors 2,164
+Amounts due to group undertakings 56,684
+Social security and other taxes 8,451
+Current portion of long term lease liabilities 21 1,724
+Accrued expenses 58,419
+127,442
+
+Amounts due after more than one year:
+Long term lease liabilities 21 4,912
+
+12
+
+31 December
+2023
+£000
+
+1,379
+43,307
+11,187
+
+1,208
+69,994
+
+127,075
+
+At 31 December 2024, the Company had no contractual future payments (2023: £Nil). The amounts owed to
+
+trade creditors and group undertakings are unsecured, interest free and are repayable on demand.
+
+17 Provision for liabilities
+
+Employee
+benefits
+
+£000
+
+At | January 2024 1,093
+
+Increase in existing provisions 249
+At 31 December 2024 1,342
+Current liabilities 1,342
+
+Total
+£000
+
+1,093
+249
+
+1,342
+1,342
+
+Provision has been made for National Insurance contributions on outstanding share awards, granted under
+unapproved share award schemes that are expected to be exercised. The provision has been calculated at the
+latest enacted National Insurance rate, applied to the difference between the market price of the underlying
+shares at the balance sheet date (2024: $92.37, 2023: $81.01) and their exercise price, and allocated over the
+
+period from the date of grant to the end of the performance period.
+
+Page 35
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+18 Share capital
+
+Allotted, called up and fully paid shares
+
+31 December 31 December
+2024 2023
+No. £ No. £
+Ordinary Shares of £1 each 2 2 2 2
+
+19 Pension and other schemes
+
+Defined contribution pension scheme
+
+The Company operates a defined contribution pension scheme. The pension cost charge for the year represents
+contributions payable by the Company to the scheme and amounted to £1,431,000 (2023: £1,431,000).
+
+20 Share-based payments
+
+‘The expense recognised for share-based payments of employee services received during the year is £5,520,000
+(2023: £5,787,000), all of which arises from equity settled share-based payment transactions
+
+Restricted Stock Units
+Scheme details and movements
+
+Restricted Stock Units (RSUs) are granted to certain employees as part of the annual employee equity
+compensation review program. RSUs are share awards that entitle the holder to receive freely tradable shares of
+common stock upon vesting.
+
+RSUs vest rateably over four years from the date of grant, as described in the accounting policies.
+
+The expense is recognised on a straight-line basis over the vesting period taking into account estimated
+forfeitures, based on historical experience.
+
+The movements in the number of RSUs during the year were as follows:
+31 December 31 December
+
+2024 2023
+
+No. No.
+Exercised during the period 94,364 102,879
+Outstanding, end of period 185,136 196,443
+
+The movements in the weighted average exercise price of RSUs during the year were as follows:
+
+Page 36
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+20 Share-based payments (continued)
+31 December 31 December
+
+2024 2023
+£
+Exercised during the period 55.27
+Outstanding, end of period 58.09
+
+Employee Share Purchase Plan
+Scheme details and movements
+
+The Company operates a stock purchase plan whereby eligible employees may contribute up to 15% of their
+salary, on an after-tax basis, to purchase common stock at a discount from the market price on the date of
+purchase.
+
+Share Options
+Scheme details and movements
+
+The Company’s share option plan provides for option grants designated as either non-qualified or incentive
+options. All options are exercisable over a period not to exceed the contractual term of ten years from the date
+the options are issued and are granted at prices not less than the fair market value of common stock on the grant
+date. Share option exercises are settled with common shares from the plan's previously authorised and available
+pool of shares.
+
+Share options vest after 4 years, with 25% vesting at the end of the first year and every year thereafter over the
+remainder of the 4 year period as described in the accounting policies.
+
+The movements in the number of share options during the year were as follows:
+
+31 December 31 December
+
+2024 2023
+
+No. No.
+
+Exercised during the period - 10,442
+Outstanding, end of period 41,045 32,705
+
+Exercisable, end of period 21,744 12,338
+
+The movements in the weighted average exercise price of share options during the year were as follows:
+
+31 December 31 December
+
+2024 2023
+
+£ £
+
+Exercised during the period - 55.51
+
+Outstanding, end of period
+Exercisable, end of period
+
+Page 37
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+20 Share-based payments (continued)
+
+Outstanding share options
+
+Details of share options outstanding at the end of the year are as follows:
+
+For the share options outstanding as at 31 December 2024, the weighted average remaining contractual life is
+
+7.64 years (2023: 8.25 years).
+
+The range of exercise prices for options outstanding at the end of the year was £44.26 to £66.12 (2023: £44.26
+
+to £66.12).
+Fair value of options granted
+
+The weighted average fair value of options granted during the period at measurement date was £9.19 (2023:
+
+£13.00).
+
+21 Other Financial Commitments
+
+Leases included in creditors
+
+Current portion of long term lease liabilities
+Long term lease liabilities
+
+Maturity of leases
+
+Within one year
+In two to five years
+In over five years
+
+Page 38
+
+31 December
+
+31 December
+2024
+£000
+1,724
+4,912
+
+6,636
+
+31 December
+
+31 December
+2023
+
+£000
+
+1,208
+
+6,230
+
+328
+
+7,166
+
+Gilead Sciences Limited
+
+Notes to the Financial Statements for the Year Ended 31 December 2024
+
+21 Other Financial Commitments (continued)
+
+Total cash outflows related to leases
+Total cash outflows related to leases are presented in the table below:
+
+31 December 31 December
+
+2024 2023
+
+Payment £000 £000
+Right of use assets 1,475 1,642
+
+22 Dividends
+
+31 December 31 December
+
+2024 2023
+£000 £000
+Final dividend of £4,844,500 (2023: £4,630,000) per ordinary share 9,689 9,260
+
+23. Parent and ultimate parent undertaking
+The Company's immediate parent is Gilead Sciences Ireland UC.
+
+The ultimate parent is Gilead Sciences, Inc..
+
+The most senior parent entity producing publicly available financial statements is Gilead Sciences, Inc.. These
+
+financial statements are available upon request from 333 Lakeside Drive, Foster City, California, USA.
+
+24 Related party transactions
+
+The directors had no transactions with the Company during the year within the meaning of the Companies Act,
+2006.
+
+The Company has taken advantage of the exemption under FRS 101 from the requirements of IAS 24 Related
+Party Disclosures to disclose transactions with related parties that are wholly owned by the Gilead group.
+
+25 Non adjusting events after the financial period
+There were no significant adjusting or non-adjusting events to note after the financial period.
+
+Page 39

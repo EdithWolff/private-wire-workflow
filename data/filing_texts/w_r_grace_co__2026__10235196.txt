@@ -1,0 +1,329 @@
+Registered number
+10235196
+
+AC Grace and Company Limited
+Filleted Accounts
+
+30 June 2025
+
+AC Grace and Company Limited
+
+Registered number:
+Balance Sheet
+as at 30 June 2025
+
+Fixed assets
+
+Tangible assets
+Current assets
+
+Debtors
+Cash at bank and in hand
+
+Creditors: amounts falling due
+within one year
+Net current liabilities
+
+Total assets less current
+liabilities
+
+Creditors: amounts falling due
+after more than one year
+
+Net assets
+
+Capital and reserves
+Called up share capital
+Profit and loss account
+
+Shareholders’ funds
+
+10235196
+
+29,787
+291
+
+30,078
+
+(50,460)
+
+2025
+
+34,844
+
+(20,382)
+
+14,462
+
+(14,000)
+
+462
+
+100
+362
+
+462
+
+2024
+
+34,844
+
+27,834
+290
+
+28,124
+
+(48,089)
+
+(19,965)
+
+14,879
+
+(14,548)
+
+331
+
+100
+231
+
+331
+
+The directors are satisfied that the company is entitled to exemption from the requirement to obtain
+an audit under section 477 of the Companies Act 2006.
+
+The members have not required the company to obtain an audit in accordance with section 476 of
+
+the Act.
+
+The directors acknowledge their responsibilities for complying with the requirements of the
+Companies Act 2006 with respect to accounting records and the preparation of accounts.
+
+The accounts have been prepared and delivered in accordance with the special provisions
+applicable to companies subject to the small companies regime. The profit and loss account has not
+been delivered to the Registrar of Companies.
+
+D Toner
+Director
+Approved by the board on 31 March 2026
+
+AC Grace and Company Limited
+Notes to the Accounts
+for the year ended 30 June 2025
+
+1 Accounting policies
+
+Basis of preparation
+
+The accounts have been prepared under the historical cost convention and in accordance with
+FRS 102, The Financial Reporting Standard applicable in the UK and Republic of Ireland (as
+applied to small entities by section 1A of the standard).
+
+Turnover
+
+Turnover is measured at the fair value of the consideration received or receivable, net of discounts
+and value added taxes. Turnover includes revenue earned from the sale of goods and from the
+rendering of services. Turnover from the sale of goods is recognised when the significant risks and
+rewards of ownership of the goods have transferred to the buyer. Turnover from the rendering of
+services is recognised by reference to the stage of completion of the contract. The stage of
+completion of a contract is measured by comparing the costs incurred for work performed to date
+to the total estimated contract costs.
+
+Intangible fixed assets
+
+Intangible fixed assets are measured at cost less accumulative amortisation and any accumulative
+impairment losses.
+
+Tangible fixed assets
+
+Tangible fixed assets are measured at cost less accumulative depreciation and any accumulative
+impairment losses. Depreciation is provided on all tangible fixed assets, other than freehold land, at
+rates calculated to write off the cost, less estimated residual value, of each asset evenly over its
+expected useful life, as follows:
+
+Freehold buildings over 50 years
+Leasehold land and buildings over the lease term
+Plant and machinery over 5 years
+Fixtures, fittings, tools and equipment over 5 years
+Investments
+
+Investments in subsidiaries, associates and joint ventures are measured at cost less any
+accumulated impairment losses. Listed investments are measured at fair value. Unlisted
+investments are measured at fair value unless the value cannot be measured reliably, in which
+case they are measured at cost less any accumulated impairment losses. Changes in fair value are
+included in the profit and loss account.
+
+Stocks
+
+Stocks are measured at the lower of cost and estimated selling price less costs to complete and
+sell. Cost is determined using the first in first out method. The carrying amount of stock sold is
+recognised as an expense in the period in which the related revenue is recognised.
+
+Debtors
+
+Short term debtors are measured at transaction price (which is usually the invoice price), less any
+impairment losses for bad and doubtful debts. Loans and other financial assets are initially
+recognised at transaction price including any transaction costs and subsequently measured at
+
+amortised cost determined using the effective interest method, less any impairment losses for bad
+and doubtful debts.
+
+Creditors
+
+Short term creditors are measured at transaction price (which is usually the invoice price). Loans
+and other financial liabilities are initially recognised at transaction price net of any transaction costs
+and subsequently measured at amortised cost determined using the effective interest method.
+
+Taxation
+
+A current tax liability is recognised for the tax payable on the taxable profit of the current and past
+periods. A current tax asset is recognised in respect of a tax loss that can be carried back to
+recover tax paid in a previous period. Deferred tax is recognised in respect of all timing differences
+between the recognition of income and expenses in the financial statements and their inclusion in
+tax assessments. Unrelieved tax losses and other deferred tax assets are recognised only to the
+extent that it is probable that they will be recovered against the reversal of deferred tax liabilities or
+other future taxable profits. Deferred tax is measured using the tax rates and laws that have been
+enacted or substantively enacted by the reporting date and that are expected to apply to the
+reversal of the timing difference, except for revalued land and investment property where the tax
+rate that applies to the sale of the asset is used. Current and deferred tax assets and liabilities are
+not discounted.
+
+Provisions
+
+Provisions (ie liabilities of uncertain timing or amount) are recognised when there is an obligation at
+the reporting date as a result of a past event, it is probable that economic benefit will be transferred
+to settle the obligation and the amount of the obligation can be estimated reliably.
+
+Foreign currency translation
+
+Transactions in foreign currencies are initially recognised at the rate of exchange ruling at the date
+of the transaction. At the end of each reporting period foreign currency monetary items are
+translated at the closing rate of exchange. Non-monetary items that are measured at historical cost
+are translated at the rate ruling at the date of the transaction. All differences are charged to profit or
+loss.
+
+Leased assets
+
+A lease is classified as a finance lease if it transfers substantially all the risks and rewards
+incidental to ownership. All other leases are classified as operating leases. The rights of use and
+obligations under finance leases are initially recognised as assets and liabilities at amounts equal
+to the fair value of the leased assets or, if lower, the present value of the minimum lease payments.
+Minimum lease payments are apportioned between the finance charge and the reduction in the
+outstanding liability using the effective interest rate method. The finance charge is allocated to
+each period during the lease so as to produce a constant periodic rate of interest on the remaining
+balance of the liability. Leased assets are depreciated in accordance with the company's policy for
+tangible fixed assets. If there is no reasonable certainty that ownership will be obtained at the end
+of the lease term, the asset is depreciated over the lower of the lease term and its useful life.
+Operating lease payments are recognised as an expense on a straight line basis over the lease
+term.
+
+Pensions
+
+Contributions to defined contribution plans are expensed in the period to which they relate.
+
+Employees 2025 2024
+Number Number
+
+Average number of persons employed by the company
+
+Tangible fixed assets
+
+Cost
+At 1 July 2024
+At 30 June 2025
+
+Depreciation
+At 1 July 2024
+
+At 30 June 2025
+
+Net book value
+At 30 June 2025
+At 30 June 2024
+
+Debtors
+
+Trade debtors
+Other debtors
+
+Creditors: amounts falling due within one year
+
+Bank loans and overdrafts
+
+Trade creditors
+
+Taxation and social security costs
+Other creditors
+
+Creditors: amounts falling due after one year
+
+Bank loans
+
+Other information
+
+2025
+
+10,181
+19,606
+
+29,787
+
+2025
+
+26,084
+4,014
+11,271
+9,091
+
+50,460
+
+2025
+
+14,000
+
+Plant and
+machinery
+
+etc
+£
+
+37,469
+
+37,469
+
+2,625
+2,625
+
+34,844
+
+34,844
+
+2024
+
+24,277
+3,557
+
+27,834
+
+2024
+
+23,751
+1,526
+22,812
+
+48,089
+
+2024
+
+14,548
+
+A C Grace and Company Limited is a private company limited by shares and incorporated in
+
+England. Its registered office is:
+
+8 Wilkinson Business Park
+Wrexham
+LL13 9AE
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

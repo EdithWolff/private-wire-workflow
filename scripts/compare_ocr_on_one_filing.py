@@ -150,7 +150,7 @@ if __name__ == "__main__":
     parser.add_argument("--max-pages", type=int, default=4)
     parser.add_argument(
         "--output",
-        default="/Users/ssebl/Documents/New project/data/ocr_comparison_one_filing.txt",
+        default=str(Path(__file__).resolve().parents[1] / "data" / "ocr_comparison_one_filing.txt"),
     )
     args = parser.parse_args()
 

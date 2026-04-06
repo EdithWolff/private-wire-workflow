@@ -6,25 +6,26 @@ from private_wire_workflow.bankability_master import PipelineConfig, run_pipelin
 
 def main() -> None:
     parser = argparse.ArgumentParser()
+    base_dir = Path(__file__).resolve().parents[1]
     parser.add_argument(
         "--input-csv",
-        default="/Users/ssebl/Documents/New project/data/company_rating_screening_findings.csv",
+        default=str(base_dir / "data" / "inputs" / "company_rating_screening_findings.csv"),
     )
     parser.add_argument(
         "--txt-dir",
-        default="/Users/ssebl/Desktop/private_wire_outputs/filing_texts",
+        default=str(base_dir / "data" / "filing_texts"),
     )
     parser.add_argument(
         "--output-xlsx",
-        default="/Users/ssebl/Desktop/private_wire_outputs/batch2_pharma_bankability_enriched.xlsx",
+        default=str(base_dir / "data" / "bankability_enriched.xlsx"),
     )
     parser.add_argument(
         "--checkpoint-json",
-        default="/Users/ssebl/Desktop/private_wire_outputs/batch2_pharma_bankability_checkpoint.json",
+        default=str(base_dir / "data" / "bankability_checkpoint.json"),
     )
     parser.add_argument(
         "--summary-json",
-        default="/Users/ssebl/Desktop/private_wire_outputs/batch2_pharma_bankability_summary.json",
+        default=str(base_dir / "data" / "bankability_summary.json"),
     )
     parser.add_argument("--max-workers", type=int, default=5)
     parser.add_argument("--retries", type=int, default=3)

@@ -24,15 +24,14 @@ from private_wire_workflow.filing_text_assessment import (
     select_latest_non_dormant_full_accounts,
 )
 from private_wire_workflow.ratings import MOODYS_TO_SP, RATING_ORDER
-
-
-NO_INFO = "No information found"
+from private_wire_workflow.report_utils import NO_INFO, fmt_number as _fmt_number, fmt_pct as _fmt_pct
 DEFAULT_COMPANY_TIMEOUT_SEC = 900
 
-INPUT_RATINGS_CSV = Path("/Users/ssebl/Documents/New project/data/company_rating_screening_findings.csv")
-TXT_DIR = Path("/Users/ssebl/Desktop/private_wire_outputs/txt.pharma")
-OUTPUT_XLSX = Path("/Users/ssebl/Desktop/private_wire_outputs/pharma_60_case_by_case.xlsx")
-RUN_SUMMARY_TXT = Path("/Users/ssebl/Desktop/private_wire_outputs/pharma_60_run_summary.txt")
+BASE_DIR = Path(__file__).resolve().parents[1]
+INPUT_RATINGS_CSV = BASE_DIR / "data" / "inputs" / "company_rating_screening_findings.csv"
+TXT_DIR = BASE_DIR / "data" / "filing_texts" / "pharma"
+OUTPUT_XLSX = BASE_DIR / "data" / "pharma_60_case_by_case.xlsx"
+RUN_SUMMARY_TXT = BASE_DIR / "data" / "pharma_60_run_summary.txt"
 
 COMPANIES_60 = [
     "AbbVie Inc.",
@@ -161,18 +160,6 @@ def _sp_equivalent(moodys: str, sp: str, fitch: str) -> str:
     if moodys:
         return MOODYS_TO_SP.get(_extract_moodys(moodys), "")
     return ""
-
-
-def _fmt_number(value: Optional[float]) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value:.6g}"
-
-
-def _fmt_pct(value: Optional[float]) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value * 100:.2f}%"
 
 
 def _flags(metrics: Dict[str, Optional[float]]) -> Tuple[str, str, str]:

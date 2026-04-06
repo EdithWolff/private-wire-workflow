@@ -26,9 +26,7 @@ from .filing_text_assessment import (
     select_latest_non_dormant_full_accounts,
 )
 from .ratings import MOODYS_TO_SP, RATING_ORDER
-
-
-NO_INFO = "No information found"
+from .report_utils import NO_INFO, fmt_number as _fmt_number, fmt_pct as _fmt_pct, ratio_flags as _ratio_flags
 TERMINAL_STATUSES = {"completed", "no_match", "no_filing", "failed_after_retries"}
 SCHEMA_VERSION = "v2_1_enriched_output"
 
@@ -113,17 +111,6 @@ def rating_at_least_bbb_minus(sp_like_rating: str) -> bool:
     return RATING_ORDER.index(value) <= RATING_ORDER.index("BBB-")
 
 
-def _ratio_flags(metrics: Dict[str, Optional[float]]) -> Dict[str, str]:
-    margin = metrics.get("ebitda_margin")
-    coverage = metrics.get("interest_coverage")
-    leverage = metrics.get("net_debt_to_ebitda")
-    return {
-        "margin_ge_10": "Yes" if margin is not None and margin >= 0.10 else ("No" if margin is not None else NO_INFO),
-        "coverage_ge_3x": "Yes" if coverage is not None and coverage >= 3 else ("No" if coverage is not None else NO_INFO),
-        "netdebt_ebitda_le_2x": "Yes" if leverage is not None and leverage <= 2 else ("No" if leverage is not None else NO_INFO),
-    }
-
-
 def _ratio_based_status(metrics: Dict[str, Optional[float]]) -> Tuple[str, str]:
     margin = metrics.get("ebitda_margin")
     coverage = metrics.get("interest_coverage")
@@ -157,18 +144,6 @@ def _extract_ppa_fields(text: str) -> Tuple[str, str, str, str]:
     year_match = re.search(r"\b(20\d{2})\b", text)
     ppa_year = year_match.group(1) if has_ppa and year_match else NO_INFO
     return signed, uk, ppa_type, ppa_year
-
-
-def _fmt_number(value: Optional[float]) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value:.6g}"
-
-
-def _fmt_pct(value: Optional[float]) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value * 100:.2f}%"
 
 
 def _build_headers() -> List[str]:
