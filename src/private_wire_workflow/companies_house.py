@@ -9,6 +9,12 @@ from dataclasses import dataclass
 from difflib import SequenceMatcher
 from typing import Dict, List, Optional, Tuple
 
+try:
+    import certifi
+    _CA_FILE = certifi.where()
+except ImportError:
+    _CA_FILE = None
+
 from .models import FilingCandidate
 
 
@@ -60,7 +66,7 @@ def _build_document_request(path: str, api_key: str, accept: str = "application/
 
 
 def _load_json(request: urllib.request.Request) -> Dict:
-    ssl_context = ssl.create_default_context()
+    ssl_context = ssl.create_default_context(cafile=_CA_FILE)
     with urllib.request.urlopen(request, context=ssl_context, timeout=30) as response:
         return json.loads(response.read().decode("utf-8"))
 
@@ -221,13 +227,14 @@ def download_document_content(document_metadata_url: str, api_key: str) -> Tuple
     for mime_type, label in preferred_types:
         if mime_type in resources:
             request = _build_document_request(content_path, api_key, accept=mime_type)
-            ssl_context = ssl.create_default_context()
+            ssl_context = ssl.create_default_context(cafile=_CA_FILE)
 
             class _NoRedirect(urllib.request.HTTPRedirectHandler):
                 def redirect_request(self, req, fp, code, msg, headers, newurl):
                     return None
 
-            opener = urllib.request.build_opener(_NoRedirect)
+            https_handler = urllib.request.HTTPSHandler(context=ssl_context)
+            opener = urllib.request.build_opener(_NoRedirect, https_handler)
             try:
                 response = opener.open(request, timeout=60)
                 return response.read(), label
@@ -257,13 +264,14 @@ def download_document_pdf_content(document_metadata_url: str, api_key: str) -> b
         content_path = urllib.parse.urlparse(document_metadata_url).path + "/content"
 
     request = _build_document_request(content_path, api_key, accept="application/pdf")
-    ssl_context = ssl.create_default_context()
+    ssl_context = ssl.create_default_context(cafile=_CA_FILE)
 
     class _NoRedirect(urllib.request.HTTPRedirectHandler):
         def redirect_request(self, req, fp, code, msg, headers, newurl):
             return None
 
-    opener = urllib.request.build_opener(_NoRedirect)
+    https_handler = urllib.request.HTTPSHandler(context=ssl_context)
+    opener = urllib.request.build_opener(_NoRedirect, https_handler)
     try:
         response = opener.open(request, timeout=60)
         return response.read()
@@ -334,10 +342,22 @@ def find_best_match(company_name: str, api_key: str) -> Optional[CompanyMatch]:
     )
 
 
+def _load_dotenv_if_available() -> None:
+    try:
+        from dotenv import load_dotenv
+        from pathlib import Path as _Path
+        env_file = _Path(__file__).resolve().parents[2] / ".env.local"
+        if env_file.exists():
+            load_dotenv(env_file, override=False)
+    except ImportError:
+        pass
+
+
 def get_api_key(env_var: str = "COMPANIES_HOUSE_API_KEY") -> str:
+    _load_dotenv_if_available()
     api_key = os.getenv(env_var, "").strip()
     if not api_key:
         raise RuntimeError(
-            f"Missing {env_var}. Export your Companies House key before running this script."
+            f"Missing {env_var}. Set it in .env.local or export it before running."
         )
     return api_key

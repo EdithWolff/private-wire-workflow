@@ -1,0 +1,366 @@
+Registration number: 11349228
+
+ILLUMINA LTD
+
+ANNUAL REPORT AND UNAUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 MAY 2025
+
+ILLUMINA LTD
+
+Contents
+
+Balance Sheet
+
+Notes to the Unaudited Financial Statements
+
+In
+
+1D 1
+
+ILLUMINA LTD
+
+(Registration number: 11349228)
+Balance Sheet as at 31 May 2025
+
+Fixed assets
+Tangible assets.
+
+Current assets
+
+Stocks
+
+Debtors
+
+Cash at bank and in hand
+
+Creditors: Amounts falling due within one year
+Net current assets
+
+Total assets less current liabilities
+Provisions for liabilities
+
+Net assets
+
+Capital and reserves
+
+Called up share capital
+Retained earnings
+
+Shareholders’ funds
+
+Note
+
+IN 1
+
+2025 2024
+
+£ £
+6,047 7.137
+14,197 5,100
+11,858 2,785
+35,325 35,633
+61,380 43,518
+(32.447) (27.069)
+28,933 16,449
+34,980 23,586
+(1,149) (1,356)
+33,831 22,230
+102 102
+33,729 22,128
+33,831 22,230
+
+For the financial year ending 31 May 2025 the company was entitled to exemption from audit under section 477 of the
+
+Companies Act 2006 relating to small companies
+
+Directors’ responsibilities:
+
+accordance with section 476; and
+
+The members have not required the company to obtain an audit of its accounts for the year in question in
+
+The directors acknowledge their responsibilities for complying with the requirements of the Act with respect to
+accounting records and the preparation of accounts.
+
+These financial statements have been prepared and delivered in accordance with the provisions applicable to
+companies subject to the small companies regime. As permitted by section 444 (5A) of the Companies Act 2006, the
+
+directors have not delivered to the registrar a copy of the Profit and Loss Account.
+
+Approved and authorised by the Board on 11 September 2025 and signed on its behalf by:
+
+RS Camacho
+Director
+
+The notes on pages 2 to 6 form an integral part of these financial statements.
+7 age
+
+ILLUMINA LTD
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 May 2025
+
+1 General information
+
+The company is a private company limited by share capital, incorporated in England and Wales.
+
+The address of its registered office is:
+7a King Street
+
+Frome
+
+Somerset
+
+BA11 1BH
+
+2 Accounting policies
+
+Summary of significant accounting policies and key accounting estimates
+
+The principal accounting policies applied in the preparation of these financial statements are set out below. These
+policies have been consistently applied to all the years presented, unless otherwise stated.
+
+Statement of compliance
+
+These financial statements have been prepared in accordance with Financial Reporting Standard 102 Section 1A
+smaller entities - ‘The Financial Reporting Standard applicable in the United Kingdom and Republic of Ireland’ and the
+Companies Act 2006 (as applicable to companies subject to the small companies’ regime).
+
+Basis of preparation
+
+These financial statements have been prepared using the historical cost convention except that as disclosed in the
+accounting policies certain items are shown at fair value.
+
+Revenue recognition
+
+Turnover comprises the fair value of the consideration received or receivable for the sale of goods and provision of
+services in the ordinary course of the company's activities. Turnover is shown net of sales/value added tax, returns,
+rebates and discounts.
+
+The company recognises revenue when:
+
+The amount of revenue can be reliably measured;
+
+it is probable that future economic benefits will flow to the entity;
+
+and specific criteria have been met for each of the company's activities.
+
+Tax
+
+The tax expense for the period comprises current and deferred tax. Tax is recognised in profit or loss, except that a
+change attributable to an item of income or expense recognised as other comprehensive income is also recognised
+directly in other comprehensive income.
+
+The current income tax charge is calculated on the basis of tax rates and laws that have been enacted or
+substantively enacted by the reporting date in the countries where the company operates and generates taxable
+income.
+
+Page 2
+
+ILLUMINA LTD
+Notes to the Unaudited Financial Statements for the Year Ended 31 May 2025
+
+Deferred tax is recognised in respect of all timing differences between taxable profits and profits reported in the
+financial statements.
+
+Unrelieved tax losses and other deferred tax assets are recognised when it is probable that they will be recovered
+against the reversal of deferred tax liabilities or other future taxable profits.
+
+Deferred tax is measured using the tax rates and laws that have been enacted or substantively enacted by the
+reporting date and that are expected to apply to the reversal of the timing difference.
+
+Tangible assets
+
+Tangible assets are stated in the balance sheet at cost, less any subsequent accumulated depreciation and
+subsequent accumulated impairment losses.
+
+The cost of tangible assets includes directly attributable incremental costs incurred in their acquisition and installation.
+
+Depreciation
+
+Depreciation is charged so as to write off the cost of assets, other than land and properties under construction over
+their estimated useful lives, as follows:
+
+Asset class Depreciation method and rate
+Plant and machinery 25% reducing balance
+
+Motor Vehicles 25% reducing balance
+Computer equipment 25% on cost
+
+Goodwill
+
+Goodwill arising on the acquisition of an entity represents the excess of the cost of acquisition over the company’s
+interest in the net fair value of the identifiable assets, liabilities and contingent liabilities of the entity recognised at the
+date of acquisition. Goodwill is initially recognised as an asset at cost and is subsequently measured at cost less
+accumulated amortisation and accumulated impairment losses. Goodwill is held in the currency of the acquired entity
+and revalued to the closing rate at each reporting period date. Goodwill is amortised over its useful life, which shall not
+exceed ten years if a reliable estimate of the useful life cannot be made.
+
+Amortisation
+
+Amortisation is provided on intangible assets so as to write off the cost, less any estimated residual value, over their
+useful life as follows:
+
+Asset class Amortisation method and rate
+Goodwill Straight line over 5 years
+
+Cash and cash equivalents
+
+Cash and cash equivalents comprise cash on hand and call deposits, and other short-term highly liquid investments
+that are readily convertible to a known amount of cash and are subject to an insignificant risk of change in value.
+
+Page 3
+
+ILLUMINA LTD
+Notes to the Unaudited Financial Statements for the Year Ended 31 May 2025
+
+Trade debtors
+
+Trade debtors are amounts due from customers for merchandise sold or services performed in the ordinary course of
+business.
+
+Trade debtors are recognised initially at the transaction price. They are subsequently measured at amortised cost
+using the effective interest method, less provision for impairment. A provision for the impairment of trade debtors is
+established when there is objective evidence that the company will not be able to collect all amounts due according to
+the original terms of the receivables.
+
+Stocks
+
+Stocks are stated at the lower of cost and estimated selling price less costs to complete and sell. Cost is determined
+using the first-in, first-out (FIFO) method.
+
+The cost of finished goods and work in progress comprises direct materials and, where applicable, direct labour costs
+and those overheads that have been incurred in bringing the inventories to their present location and condition. At
+each reporting date, stocks are assessed for impairment. If stocks are impaired, the carrying amount is reduced to its
+selling price less costs to complete and sell; the impairment loss is recognised immediately in profit or loss.
+
+Trade creditors
+
+Trade creditors are obligations to pay for goods or services that have been acquired in the ordinary course of
+business from suppliers. Accounts payable are classified as current liabilities if the company does not have an
+unconditional right, at the end of the reporting period, to defer settlement of the creditor for at east twelve months
+after the reporting date. If there is an unconditional right to defer settlement for at least twelve months after the
+reporting date, they are presented as non-current liabilities.
+
+Trade creditors are recognised initially at the transaction price and subsequently measured at amortised cost using
+the effective interest method.
+
+Leases
+Leases in which substantially all the risks and rewards of ownership are retained by the lessor are classified as.
+
+operating leases. Payments made under operating leases are charged to profit or loss on a straight-line basis over the
+period of the lease.
+
+Dividends
+
+Dividend distribution to the company’s shareholders is recognised as a liability in the financial statements in the
+reporting period in which the dividends are declared.
+
+3 Staff numbers
+
+The average number of persons employed by the company (including directors) during the year, was 3 (2024 - 3).
+
+Page 4
+
+ILLUMINA LTD
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 May 2025
+
+4 Intangible assets
+
+Cost or valuation
+At 1 June 2024
+
+At31 May 2025
+
+Amortisation
+At 1 June 2024
+
+At 31 May 2025
+Net book value
+
+At 31 May 2025
+
+5 Tangible assets
+
+Cost or valuation
+At 1 June 2024
+Additions
+
+At 31 May 2025
+
+Depreciation
+At 1 June 2024
+Charge for the year
+
+At 31 May 2025
+Net book value
+At 31 May 2025
+
+At 31 May 2024
+
+6 Stocks
+
+Work in progress
+
+Goodwill Total
+£ £
+10,000 10,000.
+10,000 10,000
+10,000 10,000
+10,000 10,000
+Plant and
+machinery etc Motor vehicles Total
+£ £ £
+5,863 8,655 14,518
+1,920 : 1,920
+7,783 8,655 16,438
+3,594 3,787 7,381
+1,793 1,217 3,010
+5,387 5,004. 10,391
+2,396 3,651 6,047,
+2,269 4,868 7,137
+2025 2024
+£ £
+14,197 5,100
+
+Page 5
+
+
+ILLUMINA LTD
+
+Notes to the Unaudited Financial Statements for the Year Ended 31 May 2025
+
+7 Debtors
+2025 2024
+£ £
+Trade debtors 630 1,764
+Other debtors 6,199 -
+Prepayments 5,029 1,021
+11,858 2,785
+8 Creditors
+Amounts falling due within one year
+2025 2024
+£ £
+Due within one year
+Trade creditors 56 261
+Taxation and social security 8,120 2,566
+Accruals and deferred income 1,321 1,368
+Other creditors 22,950 22,874
+32,447 27,069
+9 Obligations under leases and hire purchase contracts
+Operating leases
+The total of future minimum lease payments is as follows:
+2025 2024
+£ £
+Not later than one year 4,742 -
+Later than one year and not later than five years 11,460 -
+16,202 -
+
+The amount of non-cancellable operating lease payments recognised as an expense during the year was £4,337
+(2024 - £2,993).
+
+Page 6
+
+This document was delivered using electronic communications and authenticated in accordance with the
+registrar's rules relating to electronic form, authentication and manner of delivery under section 1072 of
+the Companies Act 2006.

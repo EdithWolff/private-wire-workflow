@@ -11,10 +11,12 @@ from private_wire_workflow.filing_text_assessment import (
 )
 
 
-NO_INFO = "No information found"
-DEFAULT_TXT_DIR = Path("/Users/ssebl/Desktop/private_wire_outputs/filing_texts/plastic")
-DEFAULT_OUTPUT_XLSX = Path("/Users/ssebl/Desktop/private_wire_outputs/plastic bankability.xlsx")
-DISPLAY_NAME_SOURCE = Path("/Users/ssebl/Documents/New project/data/plastic_company_names.txt")
+from private_wire_workflow.report_utils import NO_INFO, fmt_number as _format_number, fmt_pct as _format_pct, ratio_flags as _ratio_flags
+
+BASE_DIR = Path(__file__).resolve().parents[1]
+DEFAULT_TXT_DIR = BASE_DIR / "data" / "filing_texts" / "plastic"
+DEFAULT_OUTPUT_XLSX = BASE_DIR / "data" / "plastic_bankability.xlsx"
+DISPLAY_NAME_SOURCE = BASE_DIR / "data" / "inputs" / "plastic_company_names.txt"
 
 
 def _load_display_names(source_path: Path) -> Dict[str, str]:
@@ -41,29 +43,6 @@ def _parse_txt_filename(path: Path) -> Dict[str, str]:
         "normalized_company_name": parts[0],
         "filing_year": parts[1] or NO_INFO,
         "company_number": parts[2] or NO_INFO,
-    }
-
-
-def _format_number(value) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value:.6g}"
-
-
-def _format_pct(value) -> str:
-    if value is None:
-        return NO_INFO
-    return f"{value * 100:.2f}%"
-
-
-def _ratio_flags(metrics: Dict[str, float]) -> Dict[str, str]:
-    margin = metrics.get("ebitda_margin")
-    coverage = metrics.get("interest_coverage")
-    leverage = metrics.get("net_debt_to_ebitda")
-    return {
-        "margin_ge_10": "Yes" if margin is not None and margin >= 0.10 else ("No" if margin is not None else NO_INFO),
-        "coverage_ge_3x": "Yes" if coverage is not None and coverage >= 3 else ("No" if coverage is not None else NO_INFO),
-        "netdebt_ebitda_le_2x": "Yes" if leverage is not None and leverage <= 2 else ("No" if leverage is not None else NO_INFO),
     }
 
 

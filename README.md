@@ -1,92 +1,90 @@
-# Private Wire Workflow Toolkit
+# Private Wire Workflow
 
-This repository turns the sales workflow into a reusable operating toolkit for:
+Screens companies for private wire solar PPA opportunities by fetching Companies House filings, OCR-extracting financial data, and answering five bankability and signal questions per company.
 
-- bankability screening
-- site screening
-- contact enrichment preparation
-- outreach handoff preparation
-- repeatable QA checks
-
-The implementation is intentionally lightweight and dependency-free so it can run on a blank machine with the Python standard library only.
-
-## What is included
-
-- A documented workflow and operating guidance in [docs/workflow.md](/Users/ssebl/Documents/New project/docs/workflow.md)
-- CSV templates for the Excel tabs in [data/templates/account_screening_template.csv](/Users/ssebl/Documents/New project/data/templates/account_screening_template.csv) and [data/templates/site_screening_template.csv](/Users/ssebl/Documents/New project/data/templates/site_screening_template.csv)
-- A Python package in [src/private_wire_workflow](/Users/ssebl/Documents/New project/src/private_wire_workflow) that:
-  - scores bankability
-  - ranks sites
-  - deduplicates and filters contacts
-  - builds outreach-ready account summaries
-  - validates workflow data quality
-- A workbook enrichment script in [scripts/fill_batch2_companies_house.py](/Users/ssebl/Documents/New project/scripts/fill_batch2_companies_house.py) for the `Batch 2 account screening` tab
-- A filing-ratio exporter in [scripts/export_batch2_filing_bankability_csv.py](/Users/ssebl/Documents/New project/scripts/export_batch2_filing_bankability_csv.py) that attempts to calculate bankability from filings
-- A final Excel builder in [scripts/build_bankability_screening_workbook.py](/Users/ssebl/Documents/New project/scripts/build_bankability_screening_workbook.py) that applies `official rating first`, then filing fallback
-- A filing-text assessment builder in [scripts/build_company_filing_text_assessment.py](/Users/ssebl/Documents/New project/scripts/build_company_filing_text_assessment.py) that uses Tesseract OCR on full accounts filings and answers workflow questions in a consolidated CSV
-- Executable regression tests in [tests](/Users/ssebl/Documents/New project/tests)
-
-## Quick start
-
-Run the test suite:
+## Setup
 
 ```bash
-python3 -m unittest discover -s tests -v
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
 
-Run the sample workflow on the included templates:
+Add your Companies House API key to `.env.local`:
 
-```bash
-PYTHONPATH=src python3 -m private_wire_workflow.cli
+```
+COMPANIES_HOUSE_API_KEY=your_key_here
 ```
 
-Populate the `Batch 2 account screening` workbook with Companies House entity matches:
+## Primary workflow
+
+Run the full assessment for all companies in `data/company_rating_screening_findings.csv`:
 
 ```bash
-export COMPANIES_HOUSE_API_KEY=your_key_here
-PYTHONPATH=src python3 scripts/fill_batch2_companies_house.py
-```
-
-Export filing-derived bankability ratios for a small batch:
-
-```bash
-export COMPANIES_HOUSE_API_KEY=your_key_here
-PYTHONPATH=src python3 scripts/export_batch2_filing_bankability_csv.py --start-row 2 --max-rows 25
-```
-
-Build the final bankability workbook:
-
-```bash
-export COMPANIES_HOUSE_API_KEY=your_key_here
-PYTHONPATH=src python3 scripts/build_bankability_screening_workbook.py
-```
-
-Build filing-text-only assessment outputs:
-
-```bash
-export COMPANIES_HOUSE_API_KEY=your_key_here
 PYTHONPATH=src python3 scripts/build_company_filing_text_assessment.py
 ```
 
-Run the parallel resumable OCR + bankability master workbook pipeline:
+Test with a small batch first:
 
 ```bash
-export COMPANIES_HOUSE_API_KEY=your_key_here
-PYTHONPATH=src python3 scripts/run_company_bankability_master.py --max-workers 5
+PYTHONPATH=src python3 scripts/build_company_filing_text_assessment.py --limit 3
 ```
 
-## Operating model
+Outputs:
+- `data/filing_texts/*.txt` — OCR-extracted filing text, one file per company
+- `data/company_filing_text_assessment.csv` — full assessment results with ratios and Q1–Q5 answers
 
-1. Work from the `Batch 2 account screening` template.
-2. Screen bankability first.
-3. Screen sites only for `Bankable` or `Needs review` accounts.
-4. Add the best 1-3 sites to the `Batch 2 site screening` handoff.
-5. Enrich 5 target contacts.
-6. Prepare outreach-ready data for Salesforce and Slack.
+## AI rating review
+
+After filing texts are extracted, use the Claude slash commands:
+
+```
+/rating abbvie_inc__2025__08004972.txt     # analyse one company
+/batch-rating                               # analyse next 3 unanalyzed companies
+/batch-rating 5                            # analyse next 5
+/batch-rating status                       # show progress
+```
+
+Results are tracked in `data/rating_log.json`.
+
+## Other scripts
+
+| Script | Purpose |
+|---|---|
+| `run_company_bankability_master.py` | Parallel multi-threaded pipeline with checkpointing — use for large batches |
+| `build_pharma_case_by_case.py` | Pharma-specific batch processor with per-company timeout |
+| `build_plastic_company_filing_texts.py` | OCR batch for plastic industry companies |
+| `build_plastic_bankability_workbook.py` | Bankability workbook for plastic company filing texts |
+| `compare_ocr_on_one_filing.py` | Dev tool: compare OCR engines on a single filing |
+
+## Tests
+
+```bash
+PYTHONPATH=src python3 -m unittest discover -s tests -v
+```
+
+## Directory structure
+
+```
+data/
+  company_rating_screening_findings.csv   # input: 60 companies with ratings
+  plastic_company_names.txt               # input: plastic industry batch
+  filing_texts/                           # output: OCR filing text files
+  templates/                              # CSV templates for screening tabs
+  rating_log.json                         # AI rating review progress tracker
+  company_filing_text_assessment.csv      # output: full assessment results
+docs/
+  workflow.md                             # operating model and workflow rules
+instructions.md                          # filing text assessment instructions
+scripts/                                 # runnable entry points
+src/private_wire_workflow/               # library package
+tests/                                   # unit tests
+.github/prompts/                         # Claude slash commands (/rating, /batch-rating)
+```
 
 ## Notes
 
-- Companies House and Searchland lookups are represented as structured inputs in this repository.
-- The Companies House enrichment script writes a copy of the workbook and does not modify the original file in place.
-- Companies House does not expose public credit ratings or a ready-to-use revenue field in the company profile API, so those fields still require an external rating source or accounts-document review.
-- The filing-ratio exporter now attempts PDF text extraction as well, but still flags accounts as `Needs review` when the PDF text is too poor or the required financial fields cannot be recovered safely.
+- The API key loads automatically from `.env.local` — no need to `export` manually.
+- Companies House does not provide credit ratings or revenue in the company profile API. Ratings must come from the filing text itself or an external source.
+- The filing text OCR stage extracts text only. Financial interpretation is done separately by the AI rating commands.
+- Official credit ratings are only recorded when explicitly stated in the filing text. Ratio-based views are clearly labelled as AI analysis, not official ratings.
