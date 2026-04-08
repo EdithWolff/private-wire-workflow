@@ -68,9 +68,13 @@ def _filing_type(description: str) -> str:
     return "other_accounts"
 
 
+_MAX_FILING_AGE_DAYS = 1825  # ~5 years — filings older than this have no credit relevance
+_FILING_CUTOFF_DATE = "2024-12-31"  # Only process filings up to this date
+
+
 def _likely_has_financial_information(description: str) -> bool:
     lowered = (description or "").lower()
-    if any(token in lowered for token in ["dormant", "micro-entity", "micro entity"]):
+    if any(token in lowered for token in ["dormant", "micro-entity", "micro entity", "micro"]):
         return False
     return any(
         token in lowered
@@ -107,13 +111,35 @@ def rank_accounts_filings(filings: List[FilingCandidate]) -> List[FilingSelectio
     if not filings:
         return []
 
+    # --- Hard exclusion: dormant, micro, and ancient filings never enter the
+    # candidate pool.  They cannot contain meaningful P&L / BS data. ---
+    def _is_hard_rejected(filing: FilingCandidate) -> bool:
+        ftype = _filing_type(filing.description)
+        if ftype in {"dormant", "micro"}:
+            return True
+        age = _filing_age_days(filing.date)
+        if age is not None and age > _MAX_FILING_AGE_DAYS:
+            return True
+        # Reject filings newer than the cutoff date.
+        if filing.date and filing.date > _FILING_CUTOFF_DATE:
+            return True
+        return False
+
     candidates = [
         filing
         for filing in filings
-        if filing.document_metadata_url and _likely_has_financial_information(filing.description)
+        if filing.document_metadata_url
+        and _likely_has_financial_information(filing.description)
+        and not _is_hard_rejected(filing)
     ]
     if not candidates:
-        candidates = [filing for filing in filings if filing.document_metadata_url]
+        # Fallback: allow any filing that at least has a downloadable
+        # document, but still exclude dormant/micro/ancient.
+        candidates = [
+            filing
+            for filing in filings
+            if filing.document_metadata_url and not _is_hard_rejected(filing)
+        ]
     if not candidates:
         return []
 
@@ -128,10 +154,6 @@ def rank_accounts_filings(filings: List[FilingCandidate]) -> List[FilingSelectio
             weight += 60
         elif filing_type == "other_accounts":
             weight += 40
-        elif filing_type == "micro":
-            weight += 10
-        elif filing_type == "dormant":
-            weight -= 20
         age_days = _filing_age_days(filing.date)
         if age_days is not None:
             if age_days <= 550:
@@ -151,8 +173,6 @@ def rank_accounts_filings(filings: List[FilingCandidate]) -> List[FilingSelectio
         fallback_used = index > 0 or filing_type not in {"full_group", "full", "group"}
         if fallback_used:
             reason_codes.append("filing_fallback_used")
-        if filing_type in {"dormant", "micro"}:
-            reason_codes.append(filing_type)
         if age_days is not None and age_days > 900:
             reason_codes.append("stale_filing")
 
@@ -175,7 +195,10 @@ def rank_accounts_filings(filings: List[FilingCandidate]) -> List[FilingSelectio
     return selections
 
 
-def assess_filing_text_quality(text: str) -> TextQualityAssessment:
+_MIN_USABLE_PAGES = 8  # Filings shorter than this almost never have full P&L + BS
+
+
+def assess_filing_text_quality(text: str, page_count: int = 0) -> TextQualityAssessment:
     lines = [line.strip() for line in text.splitlines() if line.strip()]
     lowered = text.lower()
     char_count = len(text)
@@ -240,7 +263,17 @@ def assess_filing_text_quality(text: str) -> TextQualityAssessment:
         score += 0.05
         reason_codes.append("limited_accounts_text")
 
-    if score >= 0.65 and has_balance_sheet and (has_income_statement or limited_accounts):
+    # --- Primary quality gate: page count ---
+    # Filings under 8 pages almost never contain both a full P&L and balance
+    # sheet.  This single check replaces fragile keyword-based heuristics that
+    # were easily fooled by boilerplate text in dormant/micro filings.
+    if page_count > 0 and page_count < _MIN_USABLE_PAGES:
+        reason_codes.append("too_few_pages")
+        if score >= 0.35 or limited_accounts:
+            status = "partial"
+        else:
+            status = "poor"
+    elif score >= 0.65:
         status = "usable"
     elif score >= 0.35 or limited_accounts:
         status = "partial"
@@ -261,15 +294,16 @@ def assess_filing_text_quality(text: str) -> TextQualityAssessment:
     )
 
 
-def _count_pdf_pages(pdf_bytes: bytes) -> int:
+def count_pdf_pages(pdf_bytes: bytes) -> int:
     import fitz
 
     with fitz.open(stream=pdf_bytes, filetype="pdf") as document:
         return document.page_count
 
 
-def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OCRResult:
-    page_count = _count_pdf_pages(pdf_bytes)
+def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90, page_count: int = 0) -> OCRResult:
+    if page_count <= 0:
+        page_count = count_pdf_pages(pdf_bytes)
     extraction_notes: List[str] = []
     native_text = ""
     native_engine = ""
@@ -280,7 +314,7 @@ def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OC
         native_text, native_engine, native_notes = extract_text_from_pdf_bytes_with_metadata(pdf_bytes)
         native_runtime = time.time() - native_start
         extraction_notes.extend(native_notes)
-        native_quality = assess_filing_text_quality(native_text)
+        native_quality = assess_filing_text_quality(native_text, page_count=page_count)
     except Exception as exc:
         native_quality = TextQualityAssessment(status="poor", reason_codes=[f"native_extract_failed:{exc}"])
         extraction_notes.append(f"native_extract_failed:{exc}")
@@ -296,7 +330,7 @@ def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OC
         )
 
     ocr = ocr_all_pdf_pages_with_tesseract(pdf_bytes, page_timeout_sec=page_timeout_sec)
-    ocr_quality = assess_filing_text_quality(ocr.text)
+    ocr_quality = assess_filing_text_quality(ocr.text, page_count=page_count)
 
     native_rank = {"poor": 0, "partial": 1, "usable": 2}[native_quality.status]
     ocr_rank = {"poor": 0, "partial": 1, "usable": 2}[ocr_quality.status]
@@ -314,11 +348,36 @@ def extract_best_filing_text(pdf_bytes: bytes, page_timeout_sec: int = 90) -> OC
     )
 
 
+def validate_extracted_entity_name(
+    expected_name: str,
+    text: str,
+    min_overlap_ratio: float = 0.5,
+) -> Tuple[bool, float]:
+    """Check that the OCR text belongs to the entity we expected.
+
+    Scans the first 2000 characters for distinctive tokens from
+    *expected_name*.  Returns ``(passes, overlap_ratio)``.
+    """
+    from .companies_house import _distinctive_tokens
+
+    expected_tokens = _distinctive_tokens(expected_name)
+    if not expected_tokens:
+        return (True, 1.0)
+
+    header = text[:2000].lower()
+    # Tokenize the header text simply.
+    header_words = set(re.findall(r"[a-z]{3,}", header))
+    found = expected_tokens & header_words
+    ratio = len(found) / len(expected_tokens)
+    return (ratio >= min_overlap_ratio, ratio)
+
+
 def select_and_extract_best_filing_text(
     filings: List[FilingCandidate],
     api_key: str,
     page_timeout_sec: int = 90,
     max_attempts: int = 5,
+    expected_entity_name: str = "",
 ) -> Optional[FilingExtractionResult]:
     from .companies_house import download_document_pdf_content
 
@@ -350,7 +409,7 @@ def select_and_extract_best_filing_text(
             continue
 
         ocr = extract_best_filing_text(pdf_bytes, page_timeout_sec=page_timeout_sec)
-        quality = assess_filing_text_quality(ocr.text)
+        quality = assess_filing_text_quality(ocr.text, page_count=ocr.page_count)
         reason_codes = list(selection.reason_codes)
         if index > 0:
             reason_codes.append("retried_next_best_filing")
@@ -372,7 +431,22 @@ def select_and_extract_best_filing_text(
             attempts=list(attempts),
         )
         if quality.status == "usable":
-            return result
+            if expected_entity_name:
+                name_ok, name_ratio = validate_extracted_entity_name(expected_entity_name, ocr.text)
+                if not name_ok:
+                    quality = TextQualityAssessment(
+                        status="partial",
+                        score=quality.score,
+                        reason_codes=list(quality.reason_codes) + ["entity_name_mismatch"],
+                    )
+                    attempt.reason_codes.append("entity_name_mismatch")
+                    result = FilingExtractionResult(
+                        selection=selection, ocr=ocr, quality=quality, attempts=list(attempts),
+                    )
+                else:
+                    return result
+            else:
+                return result
         if quality.status == "partial" and best_partial_result is None:
             best_partial_result = result
         if fallback_result is None:

@@ -11,19 +11,23 @@ from typing import Dict, List, Optional, Tuple
 from openpyxl import Workbook
 
 from .companies_house import (
+    NoMatchResult,
     download_document_pdf_content,
     find_best_match,
+    find_best_match_with_filings,
     get_api_key,
     list_accounts_filings,
 )
 from .filing_text_assessment import (
+    count_pdf_pages,
     assess_previous_ppa,
     assess_sustainability_targets,
     build_evidence_snippets,
     compute_ratio_assessment_from_text,
+    extract_best_filing_text,
     normalize_company_name,
-    ocr_all_pdf_pages_with_tesseract,
-    select_latest_non_dormant_full_accounts,
+    rank_accounts_filings,
+    validate_extracted_entity_name,
 )
 from .ratings import MOODYS_TO_SP, RATING_ORDER
 from .report_utils import NO_INFO, fmt_number as _fmt_number, fmt_pct as _fmt_pct, ratio_flags as _ratio_flags
@@ -38,7 +42,7 @@ class PipelineConfig:
     output_xlsx_path: Path
     checkpoint_path: Path
     summary_path: Path
-    max_workers: int = 5
+    max_workers: int = 10
     retries: int = 3
     retry_backoff_sec: float = 2.0
     ocr_page_timeout_sec: int = 25
@@ -120,6 +124,53 @@ def _ratio_based_status(metrics: Dict[str, Optional[float]]) -> Tuple[str, str]:
     if margin >= 0.10 and coverage >= 3 and leverage <= 2:
         return "Qualified", "Ratios meet thresholds"
     return "Disqualified", "Ratio threshold not met"
+
+
+def _build_credit_verdict(
+    metrics: Dict[str, Optional[float]],
+    decision: str,
+    has_official_rating: bool,
+    best_sp: str,
+    sustainability: str,
+    signed_ppa: str,
+) -> str:
+    """Build a concise one-sentence credit verdict for the Notes column."""
+    parts: List[str] = []
+    margin = metrics.get("ebitda_margin")
+    coverage = metrics.get("interest_coverage")
+    leverage = metrics.get("net_debt_to_ebitda")
+
+    if has_official_rating:
+        parts.append(f"Rated {best_sp}")
+
+    if margin is not None:
+        pct = f"{margin * 100:.1f}%"
+        if margin >= 0.10:
+            parts.append(f"EBITDA margin {pct}")
+        else:
+            parts.append(f"EBITDA margin only {pct} (below 10%)")
+
+    if coverage is not None:
+        if coverage >= 3:
+            parts.append(f"interest cover {coverage:.1f}x")
+        else:
+            parts.append(f"weak interest cover {coverage:.1f}x (below 3x)")
+
+    if leverage is not None:
+        if leverage <= 2:
+            parts.append(f"Net Debt/EBITDA {leverage:.1f}x")
+        else:
+            parts.append(f"high leverage {leverage:.1f}x (above 2x)")
+
+    if sustainability == "Yes":
+        parts.append("sustainability targets disclosed")
+    if signed_ppa == "Yes":
+        parts.append("prior PPA experience")
+
+    if not parts:
+        return f"{decision} — insufficient data for credit assessment."
+
+    return f"{decision} — " + "; ".join(parts) + "."
 
 
 def _extract_ppa_fields(text: str) -> Tuple[str, str, str, str]:
@@ -231,6 +282,36 @@ def _empty_output_row(company_name: str, moodys: str, sp: str, fitch: str, statu
     return row
 
 
+def _no_filing_output(
+    company_name: str,
+    match: "CompanyMatch",
+    moodys: str,
+    sp: str,
+    fitch: str,
+    reason: str,
+    has_official_rating: bool,
+    best_sp: str,
+) -> Dict:
+    """Build a no-filing result row, applying rating override when applicable."""
+    output_row = _empty_output_row(company_name, moodys, sp, fitch, "no_filing", reason)
+    output_row["Matched UK Entity"] = match.company_name
+    output_row["Company Number"] = match.company_number
+    output_row["CH Match Status"] = "matched"
+    output_row["Filing Status"] = "no_qualifying_filing"
+    if has_official_rating:
+        qualified = rating_at_least_bbb_minus(best_sp)
+        decision = "Qualified" if qualified else "Disqualified"
+        output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"] = decision
+        output_row["Bankability Decision"] = decision
+        output_row["Notes"] = f"{decision} — rated {best_sp}; {reason}"
+        if not qualified:
+            output_row["Disqualification Reason"] = "Credit rating below BBB-"
+            output_row["Discqualification reason"] = "Credit rating below BBB-"
+    else:
+        output_row["Notes"] = f"Needs review — matched {match.company_name} but {reason}"
+    return output_row
+
+
 def _load_input_rows(input_csv_path: Path, limit: int = 0) -> List[Dict[str, str]]:
     with input_csv_path.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
@@ -272,77 +353,99 @@ def _process_company_row(
 
     for attempt in range(1, retries + 1):
         try:
-            match = find_best_match(company_name, api_key)
-            if not match:
+            result = find_best_match_with_filings(company_name, api_key, return_diagnostics=True)
+            if result is None or isinstance(result, NoMatchResult):
+                diag = result if isinstance(result, NoMatchResult) else None
+                if diag and diag.rejection_details:
+                    reason = f"{diag.reason}: {'; '.join(diag.rejection_details[:3])}"
+                elif diag:
+                    reason = diag.reason
+                else:
+                    reason = "No substantive legal entity match found"
                 output_row = _empty_output_row(
                     company_name,
                     moodys,
                     sp,
                     fitch,
                     "no_match",
-                    "No legal entity match found",
+                    reason,
                 )
                 if has_official_rating:
                     qualified = rating_at_least_bbb_minus(best_sp)
-                    output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"] = "Qualified" if qualified else "Disqualified"
-                    output_row["Bankability Decision"] = output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"]
-                    output_row["Notes"] = "Decision based on official rating"
+                    decision = "Qualified" if qualified else "Disqualified"
+                    output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"] = decision
+                    output_row["Bankability Decision"] = decision
+                    output_row["Notes"] = f"{decision} — rated {best_sp}; no UK entity match found. {reason}"
                     if not qualified:
                         output_row["Disqualification Reason"] = "Credit rating below BBB-"
                         output_row["Discqualification reason"] = "Credit rating below BBB-"
+                else:
+                    output_row["Notes"] = f"Needs review — {reason}"
                 return {"status": "no_match", "row": output_row, "schema_version": SCHEMA_VERSION}
+            match, filings = result
 
-            filings = list_accounts_filings(match.company_number, api_key)
-            filing = select_latest_non_dormant_full_accounts(filings)
-            if not filing:
-                output_row = _empty_output_row(
-                    company_name,
-                    moodys,
-                    sp,
-                    fitch,
-                    "no_filing",
-                    "No latest non-dormant full accounts filing found",
+            ranked_filings = rank_accounts_filings(filings)
+            if not ranked_filings:
+                output_row = _no_filing_output(
+                    company_name, match, moodys, sp, fitch,
+                    "no qualifying UK filing (dormant/micro/stale only).",
+                    has_official_rating, best_sp,
                 )
-                output_row["Matched UK Entity"] = match.company_name
-                output_row["Company Number"] = match.company_number
-                output_row["CH Match Status"] = "matched"
-                output_row["Filing Status"] = "no_qualifying_filing"
-                if has_official_rating:
-                    qualified = rating_at_least_bbb_minus(best_sp)
-                    output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"] = "Qualified" if qualified else "Disqualified"
-                    output_row["Bankability Decision"] = output_row["Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)"]
-                    output_row["Notes"] = "Decision based on official rating"
-                    if not qualified:
-                        output_row["Disqualification Reason"] = "Credit rating below BBB-"
-                        output_row["Discqualification reason"] = "Credit rating below BBB-"
                 return {"status": "no_filing", "row": output_row, "schema_version": SCHEMA_VERSION}
 
-            filing_year = (filing.date or "unknown")[:4]
-            txt_filename = f"{normalize_company_name(company_name)}__{filing_year}__{match.company_number}.txt"
-            txt_path = txt_dir / txt_filename
+            text = None
+            filing = None
+            entity_name_warning = ""
+            for selection in ranked_filings[:3]:
+                candidate_filing = selection.filing
+                filing_year = (candidate_filing.date or "unknown")[:4]
+                txt_filename = f"{normalize_company_name(company_name)}__{filing_year}__{match.company_number}.txt"
+                txt_path = txt_dir / txt_filename
 
-            if txt_path.exists() and txt_path.stat().st_size > 0:
-                text = txt_path.read_text(encoding="utf-8", errors="ignore")
-            else:
-                pdf_bytes = download_document_pdf_content(filing.document_metadata_url, api_key)
+                if txt_path.exists() and txt_path.stat().st_size > 0:
+                    text = txt_path.read_text(encoding="utf-8", errors="ignore")
+                    filing = candidate_filing
+                    break
+
+                pdf_bytes = download_document_pdf_content(candidate_filing.document_metadata_url, api_key)
                 if not pdf_bytes:
-                    output_row = _empty_output_row(
-                        company_name,
-                        moodys,
-                        sp,
-                        fitch,
-                        "no_filing",
-                        "PDF content unavailable for selected filing",
+                    print(
+                        f"[skip filing] {candidate_filing.description}: "
+                        f"PDF unavailable",
+                        flush=True,
                     )
-                    output_row["Matched UK Entity"] = match.company_name
-                    output_row["Company Number"] = match.company_number
-                    output_row["CH Match Status"] = "matched"
-                    output_row["Filing Status"] = "no_qualifying_filing"
-                    return {"status": "no_filing", "row": output_row, "schema_version": SCHEMA_VERSION}
-                ocr = ocr_all_pdf_pages_with_tesseract(pdf_bytes, page_timeout_sec=ocr_page_timeout_sec)
+                    continue
+
+                page_count = count_pdf_pages(pdf_bytes)
+                if page_count < 8:
+                    print(
+                        f"[skip filing] {candidate_filing.description}: "
+                        f"only {page_count} pages (< 8)",
+                        flush=True,
+                    )
+                    continue
+
+                ocr = extract_best_filing_text(pdf_bytes, page_timeout_sec=ocr_page_timeout_sec, page_count=page_count)
                 text = ocr.text
+                filing = candidate_filing
                 txt_dir.mkdir(parents=True, exist_ok=True)
                 txt_path.write_text(text, encoding="utf-8")
+                break
+
+            if not text or not filing:
+                output_row = _no_filing_output(
+                    company_name, match, moodys, sp, fitch,
+                    "no filing with sufficient pages found.",
+                    has_official_rating, best_sp,
+                )
+                return {"status": "no_filing", "row": output_row, "schema_version": SCHEMA_VERSION}
+
+            entity_ok, overlap_ratio = validate_extracted_entity_name(match.company_name, text)
+            if not entity_ok:
+                entity_name_warning = (
+                    f"Warning: extracted text may not match {match.company_name} "
+                    f"(name overlap {overlap_ratio:.0%}). "
+                )
 
             metrics = compute_ratio_assessment_from_text(text)
             flags = _ratio_flags(metrics)
@@ -364,6 +467,11 @@ def _process_company_row(
             sustainability = "Yes" if assess_sustainability_targets(text) == "Yes" else NO_INFO
             solar_ppa_signal = "Yes" if signed_ppa == "Yes" else NO_INFO
             evidence = build_evidence_snippets(text) or NO_INFO
+
+            verdict_sentence = _build_credit_verdict(
+                metrics, status, has_official_rating, best_sp,
+                sustainability, signed_ppa,
+            )
 
             output_row = {
                 "Company Name": company_name,
@@ -395,7 +503,7 @@ def _process_company_row(
                 "PPA Year": ppa_year,
                 "Evidence Snippets": evidence,
                 "TXT File Path": str(txt_path),
-                "Notes": reason,
+                "Notes": entity_name_warning + verdict_sentence,
                 "Account status** (qualified or not depends on credit rating (BBB- or higher) or LTV (if site meet criteria)": status,
                 "Discqualification reason": disq or "",
                 "UK PPA?": uk_ppa,
