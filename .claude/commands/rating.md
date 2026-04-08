@@ -126,32 +126,32 @@ Quote the exact filing text snippets used for each extracted figure. Keep quotes
 
 ---
 
-#### CSV Row
+#### Write to CSV and JSON
 
-Output a single CSV row that can be appended directly to `data/company_filing_text_assessment.csv`.
+After completing the analysis, **overwrite** the company's row in `data/company_filing_text_assessment.csv` and update `data/rating_log.json`. This replaces any previous regex-based extraction with the LLM's manual reading.
 
-First, output the header line (only needed when adding a new company not already in the file):
-```
-company_name,matched_entity_name,company_number,entity_match_score,entity_confidence,matched_query,runner_up_score,filing_date,filing_description,filing_confidence,filing_type,filing_attempts,txt_file_path,page_count,ocr_engine,ocr_runtime_sec,ocr_char_count,txt_quality_status,txt_quality_score,txt_quality_flags,turnover,ebitda,interest_expense,debt,cash,net_debt,ebitda_margin,interest_coverage,net_debt_to_ebitda,q1_investment_grade_from_filing_text,q2_ratio_test_result,q3_electricity_consumption_signal,q4_sustainability_target_signal,q5_previous_ppa_signal,evidence_snippets,notes,no_information_flags
-```
+**Step 1 — Read the existing CSV** using the Read tool. Find the row where `company_name` matches (case-insensitive partial match on the company name from the filename). Note its line number.
 
-Then output the data row. Rules:
-- Use the company name exactly as it appears in the filename.
-- Fields not derivable from the filing text alone (matched_entity_name, company_number, entity_match_score, entity_confidence, matched_query, runner_up_score, filing_date, filing_description, filing_confidence, filing_type, filing_attempts, page_count, ocr_engine, ocr_runtime_sec, ocr_char_count, txt_quality_status, txt_quality_score, txt_quality_flags) should be left blank.
-- txt_file_path: the relative path used, e.g. `data/filing_texts/abbvie_inc__2025__08004972.txt`.
+**Step 2 — Build the updated row.** Preserve any pipeline metadata fields already present in the existing row (matched_entity_name, company_number, entity_match_score, entity_confidence, matched_query, runner_up_score, filing_date, filing_description, filing_confidence, filing_type, filing_attempts, page_count, ocr_engine, ocr_runtime_sec, ocr_char_count, txt_quality_status, txt_quality_score, txt_quality_flags). **Overwrite** all analysis fields with your LLM-extracted values:
+
+- txt_file_path: the relative path, e.g. `data/filing_texts/abbvie_inc__2025__08004972.txt`.
 - Financial values (turnover, ebitda, interest_expense, debt, cash, net_debt): raw numbers only, no units or commas. Leave blank if not found.
 - Ratio values (ebitda_margin, interest_coverage, net_debt_to_ebitda): decimal form (e.g. 0.142 not 14.2%). Leave blank if not calculable.
 - Q1–Q5 fields: use exactly `Yes`, `No`, or `No information found`.
 - evidence_snippets: pipe-separated short quotes, e.g. `Turnover: £142m | EBITDA: £20m`.
+- credit_view_summary: a single concise verdict sentence, e.g. `Bankable — EBITDA margin 14.2%; interest cover 6.4x; Net Debt/EBITDA 1.8x; sustainability targets disclosed.` or `Not bankable — EBITDA margin only 6.1% (below 10%); weak interest cover 2.1x (below 3x).` or `Needs review — insufficient data for credit assessment.` This must match the Overall verdict and summarise the key ratio results and signals.
 - notes: brief extraction notes, e.g. `EBITDA derived | unit=£000s`.
 - no_information_flags: semicolon-separated list of missing fields, e.g. `q3;missing_debt;missing_cash`. Empty string if nothing is missing.
 - Wrap any field containing commas in double quotes.
 
-```csv
-[data row here]
+**Step 3 — Write the row.** Use the Edit tool to replace the existing CSV row in-place. If no existing row is found, append the new row to the end of the file.
+
+The CSV header is:
+```
+company_name,matched_entity_name,company_number,entity_match_score,entity_confidence,matched_query,runner_up_score,filing_date,filing_description,filing_confidence,filing_type,filing_attempts,txt_file_path,page_count,ocr_engine,ocr_runtime_sec,ocr_char_count,txt_quality_status,txt_quality_score,txt_quality_flags,turnover,ebitda,interest_expense,debt,cash,net_debt,ebitda_margin,interest_coverage,net_debt_to_ebitda,q1_investment_grade_from_filing_text,q2_ratio_test_result,q3_electricity_consumption_signal,q4_sustainability_target_signal,q5_previous_ppa_signal,evidence_snippets,credit_view_summary,notes,no_information_flags
 ```
 
-Also output a JSON snippet ready to be merged into `data/rating_log.json`:
+**Step 4 — Update `data/rating_log.json`.** Read the file, merge the following entry, and write it back:
 
 ```json
 {
@@ -174,7 +174,7 @@ Also output a JSON snippet ready to be merged into `data/rating_log.json`:
     "q4_sustainability": "[Yes|No information found]",
     "q5_ppa": "[Yes|No information found]",
     "official_rating_text": "[quoted text or null]",
-    "credit_view_summary": "[one sentence]",
+    "credit_view_summary": "[the verdict sentence]",
     "notes": "[unit and extraction notes]"
   }
 }

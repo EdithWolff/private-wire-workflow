@@ -11,9 +11,11 @@ from private_wire_workflow.filing_text_assessment import (
     build_no_information_flags,
     compute_ratio_assessment_from_text,
     normalize_company_name,
+    rank_accounts_filings,
     select_accounts_filing_automated,
     select_and_extract_best_filing_text,
     select_latest_non_dormant_full_accounts,
+    validate_extracted_entity_name,
 )
 from private_wire_workflow.models import FilingCandidate
 
@@ -29,7 +31,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-dormant",
                 description_values={},
-                date="2025-01-01",
+                date="2024-01-01",
                 type="AA",
                 document_metadata_url="doc1",
             ),
@@ -47,7 +49,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-full-group",
                 description_values={},
-                date="2025-06-01",
+                date="2024-06-01",
                 type="AA",
                 document_metadata_url="doc3",
             ),
@@ -122,7 +124,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-small",
                 description_values={},
-                date="2025-06-01",
+                date="2024-06-01",
                 type="AA",
                 document_metadata_url="doc1",
             ),
@@ -131,7 +133,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-dormant",
                 description_values={},
-                date="2025-07-01",
+                date="2024-07-01",
                 type="AA",
                 document_metadata_url="doc2",
             ),
@@ -148,7 +150,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
         Cash at bank
         In accordance with Section 444 of the Companies Act 2006, the Profit & Loss Account has not been delivered.
         """
-        quality = assess_filing_text_quality(text)
+        quality = assess_filing_text_quality(text, page_count=4)
         self.assertEqual(quality.status, "partial")
         self.assertTrue(quality.limited_accounts)
 
@@ -164,8 +166,26 @@ class FilingTextAssessmentTests(unittest.TestCase):
             ]
             + [f"Line {index}" for index in range(30)]
         )
-        quality = assess_filing_text_quality(text)
+        # page_count >= 8 required for "usable"
+        quality = assess_filing_text_quality(text, page_count=10)
         self.assertEqual(quality.status, "usable")
+
+    def test_assess_filing_text_quality_short_filing_capped_at_partial(self):
+        text = "\n".join(
+            [
+                "Balance sheet",
+                "Statement of comprehensive income",
+                "Turnover 1000",
+                "Operating profit 200",
+                "Cash at bank and in hand 80",
+                "Creditors 300",
+            ]
+            + [f"Line {index}" for index in range(30)]
+        )
+        # Same text but only 4 pages — should be capped at partial
+        quality = assess_filing_text_quality(text, page_count=4)
+        self.assertEqual(quality.status, "partial")
+        self.assertIn("too_few_pages", quality.reason_codes)
 
     @patch("private_wire_workflow.filing_text_assessment.extract_best_filing_text")
     @patch("private_wire_workflow.companies_house.download_document_pdf_content")
@@ -176,7 +196,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-full",
                 description_values={},
-                date="2025-06-01",
+                date="2024-06-01",
                 type="AA",
                 document_metadata_url="doc1",
             ),
@@ -185,14 +205,14 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-small",
                 description_values={},
-                date="2025-07-01",
+                date="2024-07-01",
                 type="AA",
                 document_metadata_url="doc2",
             ),
         ]
         mock_download.side_effect = [b"pdf1", b"pdf2"]
         mock_extract.side_effect = [
-            type("Result", (), {"text": "noise", "page_count": 1, "runtime_sec": 0.1, "engine": "native", "notes": []})(),
+            type("Result", (), {"text": "noise", "page_count": 3, "runtime_sec": 0.1, "engine": "native", "notes": []})(),
             type(
                 "Result",
                 (),
@@ -204,7 +224,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                         "Cash at bank 20",
                         "Creditors 50",
                     ] + [f"Line {index}" for index in range(30)]),
-                    "page_count": 2,
+                    "page_count": 15,
                     "runtime_sec": 0.2,
                     "engine": "native",
                     "notes": [],
@@ -227,7 +247,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-dormant",
                 description_values={},
-                date="2025-06-01",
+                date="2024-06-01",
                 type="AA",
                 document_metadata_url="doc1",
             ),
@@ -236,7 +256,7 @@ class FilingTextAssessmentTests(unittest.TestCase):
                 category="accounts",
                 description="accounts-with-accounts-type-full",
                 description_values={},
-                date="2025-05-01",
+                date="2024-05-01",
                 type="AA",
                 document_metadata_url="doc2",
             ),
@@ -264,6 +284,84 @@ class FilingTextAssessmentTests(unittest.TestCase):
         )
         self.assertIn("q1", flags)
         self.assertIn("missing_turnover", flags)
+
+
+class ValidateExtractedEntityNameTests(unittest.TestCase):
+    def test_matching_entity_passes(self):
+        text = "Abbott Laboratories Limited\nAnnual Report and Financial Statements\nfor the Year Ended 31 December 2024"
+        passes, ratio = validate_extracted_entity_name("Abbott Laboratories", text)
+        self.assertTrue(passes)
+        self.assertGreater(ratio, 0.5)
+
+    def test_mismatched_entity_fails(self):
+        text = "Aquarium Pharmaceuticals, Inc.\nConsolidated Financial Statements\nJune 30, 1997"
+        passes, ratio = validate_extracted_entity_name("Alnylam Pharmaceuticals Inc", text)
+        self.assertFalse(passes)
+
+    def test_amgent_vs_amgen_fails(self):
+        text = "Amgent Limited\nUnaudited Financial Statements\nfor the Year Ended 31 January 2025"
+        passes, ratio = validate_extracted_entity_name("Amgen Inc", text)
+        self.assertFalse(passes)
+
+    def test_empty_expected_name_passes(self):
+        passes, ratio = validate_extracted_entity_name("", "Some text here")
+        self.assertTrue(passes)
+
+    def test_generic_name_passes(self):
+        # A name with only filler/legal tokens should pass anything.
+        passes, ratio = validate_extracted_entity_name("The UK Limited", "Whatever company text")
+        self.assertTrue(passes)
+
+
+class FilingCutoffDateTests(unittest.TestCase):
+    def test_2025_filing_rejected(self):
+        """Filings after 2024-12-31 should be excluded."""
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-full",
+                description_values={},
+                date="2025-03-15",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+        ]
+        ranked = rank_accounts_filings(filings)
+        self.assertEqual(ranked, [])
+
+    def test_2024_filing_allowed(self):
+        """Filings on or before 2024-12-31 should be accepted."""
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-full",
+                description_values={},
+                date="2024-06-30",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+        ]
+        ranked = rank_accounts_filings(filings)
+        self.assertEqual(len(ranked), 1)
+        self.assertEqual(ranked[0].filing.transaction_id, "1")
+
+    def test_cutoff_boundary(self):
+        """Filing on exactly 2024-12-31 should be accepted."""
+        filings = [
+            FilingCandidate(
+                transaction_id="1",
+                category="accounts",
+                description="accounts-with-accounts-type-full",
+                description_values={},
+                date="2024-12-31",
+                type="AA",
+                document_metadata_url="doc1",
+            ),
+        ]
+        ranked = rank_accounts_filings(filings)
+        self.assertEqual(len(ranked), 1)
 
 
 if __name__ == "__main__":
